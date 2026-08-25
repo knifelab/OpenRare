@@ -250,7 +250,7 @@
     </main>
 
     <!-- Detail Drawer / Modal Component -->
-    <div id="detailModal" class="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
+    <div id="detailModal" onclick="handleModalBackdropClick(event)" class="fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-50 hidden flex items-center justify-center p-4">
         <div class="bg-white w-full max-w-3xl rounded-3xl shadow-2xl border border-slate-100 max-h-[90vh] flex flex-col overflow-hidden animate-in fade-in zoom-in duration-200">
             <!-- Modal Header -->
             <div class="px-6 py-5 border-b border-slate-100 flex items-center justify-between bg-slate-50/50">
@@ -350,6 +350,11 @@
         // Initialize App on DOM Ready
         document.addEventListener('DOMContentLoaded', () => {
             loadIndexData();
+            
+            // ESC 键关闭弹窗
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') closeModal();
+            });
         });
 
         // Load Global Index Data (data/index.json)
@@ -704,7 +709,13 @@
                 document.getElementById('modalNameEN').innerText = data.name_en || '';
                 document.getElementById('modalICD').innerText = data.icd_11 || '暂无';
                 document.getElementById('modalOrpha').innerText = data.orpha_code || '暂无';
-                document.getElementById('modalOverview').innerText = data.overview || '暂无临床概况。';
+                
+                // 自动生成概要说明
+                let overviewText = data.overview;
+                if (!overviewText || overviewText.trim() === '') {
+                    overviewText = `${data.name_cn || data.name_en} (${data.name_en || ''}) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ${data.orpha_code || '暂无'}。`;
+                }
+                document.getElementById('modalOverview').innerText = overviewText;
 
                 const pipelines = data.pipelines || [];
                 document.getElementById('modalPipelineCount').innerText = `${pipelines.length} 项`;
@@ -719,16 +730,29 @@
                 } else {
                     let pKeyHtml = '';
                     pipelines.forEach(p => {
+                        // 兼容多种 Key 的字段解构读取 (优先兼容包含 title, phase, sponsor, id 的实测数据)
+                        const title = p.title || p.drug_or_therapy || '未命名研发项目';
+                        const phase = p.phase || 'N/A';
+                        const sponsor = p.sponsor || p.target_or_mechanism || p.type || '全球多中心';
+                        const nctId = p.id || p.clinical_trials_id || '--';
+                        const status = p.status || '积极进行中';
+
+                        const nctLink = (nctId && nctId.startsWith('NCT')) 
+                            ? `<a href="https://clinicaltrials.gov/study/${nctId}" target="_blank" rel="noopener noreferrer" class="font-mono text-indigo-600 hover:underline flex items-center gap-1">${nctId} <i class="fa-solid fa-arrow-up-right-from-square text-[9px]"></i></a>` 
+                            : `<span class="font-mono text-slate-600">${nctId}</span>`;
+
                         pKeyHtml += `
-                            <div class="p-4 rounded-xl border border-slate-200/80 bg-white shadow-sm hover:border-indigo-200 transition-all">
-                                <div class="flex items-start justify-between gap-2">
-                                    <h5 class="font-bold text-slate-800 text-sm">${p.drug_or_therapy}</h5>
-                                    <span class="bg-indigo-50 text-indigo-700 font-semibold text-[10px] px-2 py-0.5 rounded-full border border-indigo-100">${p.phase}</span>
+                            <div class="p-4 rounded-xl border border-slate-200/80 bg-slate-50/50 hover:bg-white hover:shadow-sm hover:border-indigo-200 transition-all">
+                                <div class="flex items-start justify-between gap-3">
+                                    <div>
+                                        <h5 class="font-bold text-slate-800 text-sm">${title}</h5>
+                                        <p class="text-xs text-slate-500 mt-1">申办方 / 机构: <span class="text-slate-700">${sponsor}</span></p>
+                                    </div>
+                                    <span class="bg-indigo-50 text-indigo-700 font-semibold text-[11px] px-2.5 py-1 rounded-full border border-indigo-100 flex-shrink-0">${phase}</span>
                                 </div>
-                                <p class="text-xs text-slate-500 mt-1 line-clamp-2">${p.target_or_mechanism}</p>
-                                <div class="flex items-center justify-between mt-3 pt-2 border-t border-slate-100 text-[11px] text-slate-400">
-                                    <span>状态: <strong class="text-emerald-600">${p.status}</strong></span>
-                                    <span>NCT编号: <strong class="font-mono text-slate-600">${p.clinical_trials_id || '--'}</strong></span>
+                                <div class="flex items-center justify-between mt-3 pt-2 border-t border-slate-200/60 text-xs text-slate-400">
+                                    <span class="flex items-center gap-1">状态: <strong class="text-emerald-600 font-medium">${status}</strong></span>
+                                    <span class="flex items-center gap-1">NCT编号: ${nctLink}</span>
                                 </div>
                             </div>
                         `;
@@ -746,6 +770,13 @@
         // Close Detail Modal
         function closeModal() {
             document.getElementById('detailModal').classList.add('hidden');
+        }
+
+        // 点击背景遮罩层关闭弹窗
+        function handleModalBackdropClick(event) {
+            if (event.target.id === 'detailModal') {
+                closeModal();
+            }
         }
 
         // Fallback Mock Generator if Index.json is Not Yet Present
