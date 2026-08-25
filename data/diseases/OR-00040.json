@@ -6,5 +6,55 @@
   "icd_11": "LD20.040",
   "orpha_code": "ORPHA100040",
   "overview": "周期性瘫痪 3型 (Periodic Paralysis Type 3) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100040。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT81500903",
+      "title": "Study of Periodic Paralysis Type 3 Pipeline 1",
+      "phase": "Phase I",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT86264578",
+      "title": "Study of Periodic Paralysis Type 3 Pipeline 2",
+      "phase": "Preclinical",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT90246636",
+      "title": "Study of Periodic Paralysis Type 3 Pipeline 3",
+      "phase": "Phase I",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT79310240",
+      "title": "Study of Periodic Paralysis Type 3 Pipeline 4",
+      "phase": "Preclinical",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT94796054",
+      "title": "Study of Periodic Paralysis Type 3 Pipeline 5",
+      "phase": "Phase III",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT35406548",
+      "title": "Study of Periodic Paralysis Type 3 Pipeline 6",
+      "phase": "Preclinical",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT89945028",
+      "title": "Study of Periodic Paralysis Type 3 Pipeline 7",
+      "phase": "Phase I",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

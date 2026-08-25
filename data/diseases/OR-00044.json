@@ -6,5 +6,62 @@
   "icd_11": "LD20.044",
   "orpha_code": "ORPHA100044",
   "overview": "动脉性肺动脉高压 3型 (Pulmonary Arterial Hypertension Type 3) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100044。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT98995624",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 1",
+      "phase": "Phase I",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT73591473",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 2",
+      "phase": "Phase I",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT37826201",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 3",
+      "phase": "Preclinical",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT77788620",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 4",
+      "phase": "Phase III",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT35384114",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 5",
+      "phase": "Phase III",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT68682065",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 6",
+      "phase": "Phase I",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT23090047",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 7",
+      "phase": "Phase II",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT99102033",
+      "title": "Study of Pulmonary Arterial Hypertension Type 3 Pipeline 8",
+      "phase": "Phase II",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

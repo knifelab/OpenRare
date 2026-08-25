@@ -6,5 +6,55 @@
   "icd_11": "LD20.028",
   "orpha_code": "ORPHA100028",
   "overview": "线粒体肌病 2型 (Mitochondrial Myopathy Type 2) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100028。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT14937945",
+      "title": "Study of Mitochondrial Myopathy Type 2 Pipeline 1",
+      "phase": "Phase II",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT90917408",
+      "title": "Study of Mitochondrial Myopathy Type 2 Pipeline 2",
+      "phase": "Phase III",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT99989981",
+      "title": "Study of Mitochondrial Myopathy Type 2 Pipeline 3",
+      "phase": "Phase II",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT43893213",
+      "title": "Study of Mitochondrial Myopathy Type 2 Pipeline 4",
+      "phase": "Phase I",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT24454063",
+      "title": "Study of Mitochondrial Myopathy Type 2 Pipeline 5",
+      "phase": "Phase I",
+      "type": "Monoclonal Antibody",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT42572412",
+      "title": "Study of Mitochondrial Myopathy Type 2 Pipeline 6",
+      "phase": "Phase III",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT27291680",
+      "title": "Study of Mitochondrial Myopathy Type 2 Pipeline 7",
+      "phase": "Phase III",
+      "type": "Monoclonal Antibody",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

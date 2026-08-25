@@ -5,7 +5,7 @@
     "name_en": "Duchenne muscular dystrophy",
     "icd_11": "8B60.0",
     "orpha_code": "ORPHA98896",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00001.json"
   },
   {
@@ -14,7 +14,7 @@
     "name_en": "Huntington disease",
     "icd_11": "8A01.0",
     "orpha_code": "ORPHA399",
-    "pipeline_count": 0,
+    "pipeline_count": 4,
     "file": "OR-00002.json"
   },
   {
@@ -23,7 +23,7 @@
     "name_en": "Fabry disease",
     "icd_11": "5C56.1",
     "orpha_code": "ORPHA324",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00003.json"
   },
   {
@@ -32,7 +32,7 @@
     "name_en": "Spinal muscular atrophy",
     "icd_11": "8B61.0",
     "orpha_code": "ORPHA839",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00004.json"
   },
   {
@@ -41,7 +41,7 @@
     "name_en": "Amyotrophic lateral sclerosis",
     "icd_11": "8B60.2",
     "orpha_code": "ORPHA47",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00005.json"
   },
   {
@@ -50,7 +50,7 @@
     "name_en": "Gaucher disease",
     "icd_11": "5C56.0",
     "orpha_code": "ORPHA586",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00006.json"
   },
   {
@@ -59,7 +59,7 @@
     "name_en": "Pompe disease",
     "icd_11": "5C51.1",
     "orpha_code": "ORPHA791",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00007.json"
   },
   {
@@ -68,7 +68,7 @@
     "name_en": "Niemann-Pick disease type C",
     "icd_11": "5C56.2",
     "orpha_code": "ORPHA793",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00008.json"
   },
   {
@@ -77,7 +77,7 @@
     "name_en": "Mucopolysaccharidosis type I",
     "icd_11": "5C52.0",
     "orpha_code": "ORPHA585",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00009.json"
   },
   {
@@ -86,7 +86,7 @@
     "name_en": "Cystic fibrosis",
     "icd_11": "CA25",
     "orpha_code": "ORPHA213",
-    "pipeline_count": 0,
+    "pipeline_count": 4,
     "file": "OR-00010.json"
   },
   {
@@ -95,7 +95,7 @@
     "name_en": "Amyloidosis Type 1",
     "icd_11": "LD20.011",
     "orpha_code": "ORPHA100011",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00011.json"
   },
   {
@@ -104,7 +104,7 @@
     "name_en": "Skeletal Dysplasia Type 1",
     "icd_11": "LD20.012",
     "orpha_code": "ORPHA100012",
-    "pipeline_count": 0,
+    "pipeline_count": 1,
     "file": "OR-00012.json"
   },
   {
@@ -113,7 +113,7 @@
     "name_en": "Mitochondrial Myopathy Type 1",
     "icd_11": "LD20.013",
     "orpha_code": "ORPHA100013",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00013.json"
   },
   {
@@ -122,7 +122,7 @@
     "name_en": "Pulmonary Arterial Hypertension Type 1",
     "icd_11": "LD20.014",
     "orpha_code": "ORPHA100014",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00014.json"
   },
   {
@@ -131,7 +131,7 @@
     "name_en": "Muscular Dystrophy Type 2",
     "icd_11": "LD20.015",
     "orpha_code": "ORPHA100015",
-    "pipeline_count": 0,
+    "pipeline_count": 1,
     "file": "OR-00015.json"
   },
   {
@@ -140,7 +140,7 @@
     "name_en": "Spinal Muscular Atrophy Type 2",
     "icd_11": "LD20.016",
     "orpha_code": "ORPHA100016",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00016.json"
   },
   {
@@ -149,7 +149,7 @@
     "name_en": "Lysosomal Storage Disorder Type 2",
     "icd_11": "LD20.017",
     "orpha_code": "ORPHA100017",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00017.json"
   },
   {
@@ -158,7 +158,7 @@
     "name_en": "Leukodystrophy Type 2",
     "icd_11": "LD20.018",
     "orpha_code": "ORPHA100018",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00018.json"
   },
   {
@@ -167,7 +167,7 @@
     "name_en": "Retinal Dystrophy Type 2",
     "icd_11": "LD20.019",
     "orpha_code": "ORPHA100019",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00019.json"
   },
   {
@@ -176,7 +176,7 @@
     "name_en": "Ataxia Type 2",
     "icd_11": "LD20.020",
     "orpha_code": "ORPHA100020",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00020.json"
   },
   {
@@ -185,7 +185,7 @@
     "name_en": "Encephalopathy Type 2",
     "icd_11": "LD20.021",
     "orpha_code": "ORPHA100021",
-    "pipeline_count": 0,
+    "pipeline_count": 4,
     "file": "OR-00021.json"
   },
   {
@@ -194,7 +194,7 @@
     "name_en": "Congenital Disorder of Glycosylation Type 2",
     "icd_11": "LD20.022",
     "orpha_code": "ORPHA100022",
-    "pipeline_count": 0,
+    "pipeline_count": 2,
     "file": "OR-00022.json"
   },
   {
@@ -203,7 +203,7 @@
     "name_en": "Primary Immunodeficiency Type 2",
     "icd_11": "LD20.023",
     "orpha_code": "ORPHA100023",
-    "pipeline_count": 0,
+    "pipeline_count": 4,
     "file": "OR-00023.json"
   },
   {
@@ -212,7 +212,7 @@
     "name_en": "Ectodermal Dysplasia Type 2",
     "icd_11": "LD20.024",
     "orpha_code": "ORPHA100024",
-    "pipeline_count": 0,
+    "pipeline_count": 1,
     "file": "OR-00024.json"
   },
   {
@@ -221,7 +221,7 @@
     "name_en": "Periodic Paralysis Type 2",
     "icd_11": "LD20.025",
     "orpha_code": "ORPHA100025",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00025.json"
   },
   {
@@ -230,7 +230,7 @@
     "name_en": "Amyloidosis Type 2",
     "icd_11": "LD20.026",
     "orpha_code": "ORPHA100026",
-    "pipeline_count": 0,
+    "pipeline_count": 2,
     "file": "OR-00026.json"
   },
   {
@@ -239,7 +239,7 @@
     "name_en": "Skeletal Dysplasia Type 2",
     "icd_11": "LD20.027",
     "orpha_code": "ORPHA100027",
-    "pipeline_count": 0,
+    "pipeline_count": 4,
     "file": "OR-00027.json"
   },
   {
@@ -248,7 +248,7 @@
     "name_en": "Mitochondrial Myopathy Type 2",
     "icd_11": "LD20.028",
     "orpha_code": "ORPHA100028",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00028.json"
   },
   {
@@ -257,7 +257,7 @@
     "name_en": "Pulmonary Arterial Hypertension Type 2",
     "icd_11": "LD20.029",
     "orpha_code": "ORPHA100029",
-    "pipeline_count": 0,
+    "pipeline_count": 1,
     "file": "OR-00029.json"
   },
   {
@@ -266,7 +266,7 @@
     "name_en": "Muscular Dystrophy Type 3",
     "icd_11": "LD20.030",
     "orpha_code": "ORPHA100030",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00030.json"
   },
   {
@@ -275,7 +275,7 @@
     "name_en": "Spinal Muscular Atrophy Type 3",
     "icd_11": "LD20.031",
     "orpha_code": "ORPHA100031",
-    "pipeline_count": 0,
+    "pipeline_count": 5,
     "file": "OR-00031.json"
   },
   {
@@ -284,7 +284,7 @@
     "name_en": "Lysosomal Storage Disorder Type 3",
     "icd_11": "LD20.032",
     "orpha_code": "ORPHA100032",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00032.json"
   },
   {
@@ -293,7 +293,7 @@
     "name_en": "Leukodystrophy Type 3",
     "icd_11": "LD20.033",
     "orpha_code": "ORPHA100033",
-    "pipeline_count": 0,
+    "pipeline_count": 2,
     "file": "OR-00033.json"
   },
   {
@@ -302,7 +302,7 @@
     "name_en": "Retinal Dystrophy Type 3",
     "icd_11": "LD20.034",
     "orpha_code": "ORPHA100034",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00034.json"
   },
   {
@@ -311,7 +311,7 @@
     "name_en": "Ataxia Type 3",
     "icd_11": "LD20.035",
     "orpha_code": "ORPHA100035",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00035.json"
   },
   {
@@ -320,7 +320,7 @@
     "name_en": "Encephalopathy Type 3",
     "icd_11": "LD20.036",
     "orpha_code": "ORPHA100036",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00036.json"
   },
   {
@@ -329,7 +329,7 @@
     "name_en": "Congenital Disorder of Glycosylation Type 3",
     "icd_11": "LD20.037",
     "orpha_code": "ORPHA100037",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00037.json"
   },
   {
@@ -338,7 +338,7 @@
     "name_en": "Primary Immunodeficiency Type 3",
     "icd_11": "LD20.038",
     "orpha_code": "ORPHA100038",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00038.json"
   },
   {
@@ -347,7 +347,7 @@
     "name_en": "Ectodermal Dysplasia Type 3",
     "icd_11": "LD20.039",
     "orpha_code": "ORPHA100039",
-    "pipeline_count": 0,
+    "pipeline_count": 8,
     "file": "OR-00039.json"
   },
   {
@@ -356,7 +356,7 @@
     "name_en": "Periodic Paralysis Type 3",
     "icd_11": "LD20.040",
     "orpha_code": "ORPHA100040",
-    "pipeline_count": 0,
+    "pipeline_count": 7,
     "file": "OR-00040.json"
   },
   {
@@ -365,7 +365,7 @@
     "name_en": "Amyloidosis Type 3",
     "icd_11": "LD20.041",
     "orpha_code": "ORPHA100041",
-    "pipeline_count": 0,
+    "pipeline_count": 2,
     "file": "OR-00041.json"
   },
   {
@@ -374,7 +374,7 @@
     "name_en": "Skeletal Dysplasia Type 3",
     "icd_11": "LD20.042",
     "orpha_code": "ORPHA100042",
-    "pipeline_count": 0,
+    "pipeline_count": 4,
     "file": "OR-00042.json"
   },
   {
@@ -383,7 +383,7 @@
     "name_en": "Mitochondrial Myopathy Type 3",
     "icd_11": "LD20.043",
     "orpha_code": "ORPHA100043",
-    "pipeline_count": 0,
+    "pipeline_count": 5,
     "file": "OR-00043.json"
   },
   {
@@ -392,7 +392,7 @@
     "name_en": "Pulmonary Arterial Hypertension Type 3",
     "icd_11": "LD20.044",
     "orpha_code": "ORPHA100044",
-    "pipeline_count": 0,
+    "pipeline_count": 8,
     "file": "OR-00044.json"
   },
   {
@@ -401,7 +401,7 @@
     "name_en": "Muscular Dystrophy Type 4",
     "icd_11": "LD20.045",
     "orpha_code": "ORPHA100045",
-    "pipeline_count": 0,
+    "pipeline_count": 2,
     "file": "OR-00045.json"
   },
   {
@@ -410,7 +410,7 @@
     "name_en": "Spinal Muscular Atrophy Type 4",
     "icd_11": "LD20.046",
     "orpha_code": "ORPHA100046",
-    "pipeline_count": 0,
+    "pipeline_count": 2,
     "file": "OR-00046.json"
   },
   {
@@ -419,7 +419,7 @@
     "name_en": "Lysosomal Storage Disorder Type 4",
     "icd_11": "LD20.047",
     "orpha_code": "ORPHA100047",
-    "pipeline_count": 0,
+    "pipeline_count": 6,
     "file": "OR-00047.json"
   },
   {
@@ -428,7 +428,7 @@
     "name_en": "Leukodystrophy Type 4",
     "icd_11": "LD20.048",
     "orpha_code": "ORPHA100048",
-    "pipeline_count": 0,
+    "pipeline_count": 1,
     "file": "OR-00048.json"
   },
   {
@@ -437,7 +437,7 @@
     "name_en": "Retinal Dystrophy Type 4",
     "icd_11": "LD20.049",
     "orpha_code": "ORPHA100049",
-    "pipeline_count": 0,
+    "pipeline_count": 3,
     "file": "OR-00049.json"
   },
   {
@@ -446,7 +446,7 @@
     "name_en": "Ataxia Type 4",
     "icd_11": "LD20.050",
     "orpha_code": "ORPHA100050",
-    "pipeline_count": 0,
+    "pipeline_count": 5,
     "file": "OR-00050.json"
   },
   {

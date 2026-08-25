@@ -6,5 +6,48 @@
   "icd_11": "LD20.011",
   "orpha_code": "ORPHA100011",
   "overview": "淀粉样变性 1型 (Amyloidosis Type 1) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100011。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT80288692",
+      "title": "Study of Amyloidosis Type 1 Pipeline 1",
+      "phase": "Phase II",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT16015502",
+      "title": "Study of Amyloidosis Type 1 Pipeline 2",
+      "phase": "Phase III",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT27308518",
+      "title": "Study of Amyloidosis Type 1 Pipeline 3",
+      "phase": "Phase I",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT65200114",
+      "title": "Study of Amyloidosis Type 1 Pipeline 4",
+      "phase": "Phase I",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT19850979",
+      "title": "Study of Amyloidosis Type 1 Pipeline 5",
+      "phase": "Phase II",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT60854452",
+      "title": "Study of Amyloidosis Type 1 Pipeline 6",
+      "phase": "Preclinical",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

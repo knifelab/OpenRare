@@ -6,5 +6,27 @@
   "icd_11": "5C51.1",
   "orpha_code": "ORPHA791",
   "overview": "庞贝病 (Pompe disease) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA791。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT48874776",
+      "title": "Study of Pompe disease Pipeline 1",
+      "phase": "Phase II",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT78599647",
+      "title": "Study of Pompe disease Pipeline 2",
+      "phase": "Preclinical",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT14545608",
+      "title": "Study of Pompe disease Pipeline 3",
+      "phase": "Preclinical",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

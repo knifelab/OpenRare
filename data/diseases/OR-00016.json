@@ -6,5 +6,48 @@
   "icd_11": "LD20.016",
   "orpha_code": "ORPHA100016",
   "overview": "脊髓性肌萎缩症 2型 (Spinal Muscular Atrophy Type 2) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100016。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT29196886",
+      "title": "Study of Spinal Muscular Atrophy Type 2 Pipeline 1",
+      "phase": "Preclinical",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT76834341",
+      "title": "Study of Spinal Muscular Atrophy Type 2 Pipeline 2",
+      "phase": "Preclinical",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT88758379",
+      "title": "Study of Spinal Muscular Atrophy Type 2 Pipeline 3",
+      "phase": "Phase III",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT85090742",
+      "title": "Study of Spinal Muscular Atrophy Type 2 Pipeline 4",
+      "phase": "Preclinical",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT70922411",
+      "title": "Study of Spinal Muscular Atrophy Type 2 Pipeline 5",
+      "phase": "Phase III",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT46419460",
+      "title": "Study of Spinal Muscular Atrophy Type 2 Pipeline 6",
+      "phase": "Phase III",
+      "type": "Monoclonal Antibody",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

@@ -6,5 +6,20 @@
   "icd_11": "LD20.046",
   "orpha_code": "ORPHA100046",
   "overview": "脊髓性肌萎缩症 4型 (Spinal Muscular Atrophy Type 4) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100046。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT12315046",
+      "title": "Study of Spinal Muscular Atrophy Type 4 Pipeline 1",
+      "phase": "Phase III",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT76320299",
+      "title": "Study of Spinal Muscular Atrophy Type 4 Pipeline 2",
+      "phase": "Phase III",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

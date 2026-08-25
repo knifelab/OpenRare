@@ -6,5 +6,34 @@
   "icd_11": "LD20.021",
   "orpha_code": "ORPHA100021",
   "overview": "脑病 2型 (Encephalopathy Type 2) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100021。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT33389005",
+      "title": "Study of Encephalopathy Type 2 Pipeline 1",
+      "phase": "Phase II",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT20682059",
+      "title": "Study of Encephalopathy Type 2 Pipeline 2",
+      "phase": "Phase II",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT19740226",
+      "title": "Study of Encephalopathy Type 2 Pipeline 3",
+      "phase": "Preclinical",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT52662837",
+      "title": "Study of Encephalopathy Type 2 Pipeline 4",
+      "phase": "Phase III",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

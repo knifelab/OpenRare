@@ -6,5 +6,13 @@
   "icd_11": "LD20.012",
   "orpha_code": "ORPHA100012",
   "overview": "骨骼发育不良 1型 (Skeletal Dysplasia Type 1) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100012。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT63412303",
+      "title": "Study of Skeletal Dysplasia Type 1 Pipeline 1",
+      "phase": "Phase III",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

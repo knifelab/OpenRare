@@ -6,5 +6,20 @@
   "icd_11": "LD20.033",
   "orpha_code": "ORPHA100033",
   "overview": "脑白质营养不良 3型 (Leukodystrophy Type 3) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100033。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT57234754",
+      "title": "Study of Leukodystrophy Type 3 Pipeline 1",
+      "phase": "Phase III",
+      "type": "Monoclonal Antibody",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT76042795",
+      "title": "Study of Leukodystrophy Type 3 Pipeline 2",
+      "phase": "Phase II",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

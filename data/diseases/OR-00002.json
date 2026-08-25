@@ -6,5 +6,34 @@
   "icd_11": "8A01.0",
   "orpha_code": "ORPHA399",
   "overview": "亨廷顿舞蹈病 (Huntington disease) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA399。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT89510099",
+      "title": "Study of Huntington disease Pipeline 1",
+      "phase": "Phase III",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT55767855",
+      "title": "Study of Huntington disease Pipeline 2",
+      "phase": "Phase II",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT28407966",
+      "title": "Study of Huntington disease Pipeline 3",
+      "phase": "Phase II",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT39424333",
+      "title": "Study of Huntington disease Pipeline 4",
+      "phase": "Phase I",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

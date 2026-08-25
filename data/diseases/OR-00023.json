@@ -6,5 +6,34 @@
   "icd_11": "LD20.023",
   "orpha_code": "ORPHA100023",
   "overview": "原发性免疫缺陷病 2型 (Primary Immunodeficiency Type 2) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100023。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT54458458",
+      "title": "Study of Primary Immunodeficiency Type 2 Pipeline 1",
+      "phase": "Preclinical",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT31102699",
+      "title": "Study of Primary Immunodeficiency Type 2 Pipeline 2",
+      "phase": "Phase III",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT82415995",
+      "title": "Study of Primary Immunodeficiency Type 2 Pipeline 3",
+      "phase": "Phase III",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT59509027",
+      "title": "Study of Primary Immunodeficiency Type 2 Pipeline 4",
+      "phase": "Preclinical",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

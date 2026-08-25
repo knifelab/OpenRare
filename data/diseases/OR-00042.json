@@ -6,5 +6,34 @@
   "icd_11": "LD20.042",
   "orpha_code": "ORPHA100042",
   "overview": "骨骼发育不良 3型 (Skeletal Dysplasia Type 3) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100042。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT89852059",
+      "title": "Study of Skeletal Dysplasia Type 3 Pipeline 1",
+      "phase": "Preclinical",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT40930009",
+      "title": "Study of Skeletal Dysplasia Type 3 Pipeline 2",
+      "phase": "Preclinical",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT93286509",
+      "title": "Study of Skeletal Dysplasia Type 3 Pipeline 3",
+      "phase": "Preclinical",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT34423491",
+      "title": "Study of Skeletal Dysplasia Type 3 Pipeline 4",
+      "phase": "Phase II",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

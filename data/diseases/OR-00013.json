@@ -6,5 +6,48 @@
   "icd_11": "LD20.013",
   "orpha_code": "ORPHA100013",
   "overview": "线粒体肌病 1型 (Mitochondrial Myopathy Type 1) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100013。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT26930767",
+      "title": "Study of Mitochondrial Myopathy Type 1 Pipeline 1",
+      "phase": "Phase III",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT99325159",
+      "title": "Study of Mitochondrial Myopathy Type 1 Pipeline 2",
+      "phase": "Phase I",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT65163205",
+      "title": "Study of Mitochondrial Myopathy Type 1 Pipeline 3",
+      "phase": "Preclinical",
+      "type": "Small Molecule",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT71274530",
+      "title": "Study of Mitochondrial Myopathy Type 1 Pipeline 4",
+      "phase": "Phase III",
+      "type": "AAV Gene Therapy",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT52168577",
+      "title": "Study of Mitochondrial Myopathy Type 1 Pipeline 5",
+      "phase": "Preclinical",
+      "type": "ASO",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT95378662",
+      "title": "Study of Mitochondrial Myopathy Type 1 Pipeline 6",
+      "phase": "Phase II",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }

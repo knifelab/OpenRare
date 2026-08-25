@@ -6,5 +6,34 @@
   "icd_11": "LD20.027",
   "orpha_code": "ORPHA100027",
   "overview": "骨骼发育不良 2型 (Skeletal Dysplasia Type 2) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100027。",
-  "pipelines": []
+  "pipelines": [
+    {
+      "id": "NCT15300802",
+      "title": "Study of Skeletal Dysplasia Type 2 Pipeline 1",
+      "phase": "Preclinical",
+      "type": "Monoclonal Antibody",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT65169685",
+      "title": "Study of Skeletal Dysplasia Type 2 Pipeline 2",
+      "phase": "Phase II",
+      "type": "Monoclonal Antibody",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT91673159",
+      "title": "Study of Skeletal Dysplasia Type 2 Pipeline 3",
+      "phase": "Phase I",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    },
+    {
+      "id": "NCT66235853",
+      "title": "Study of Skeletal Dysplasia Type 2 Pipeline 4",
+      "phase": "Phase I",
+      "type": "mRNA Vaccine",
+      "sponsor": "Global Pharma Corp"
+    }
+  ]
 }
