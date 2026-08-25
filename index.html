@@ -31,6 +31,7 @@
             background: #94a3b8;
         }
     </style>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </head>
 <body class="text-slate-800 min-h-screen flex flex-col">
 
@@ -284,10 +285,21 @@
     </div>
 
     <!-- Footer -->
-    <footer class="bg-white border-t border-slate-200 mt-12 py-6 text-center text-xs text-slate-400">
-        <div class="max-w-7xl mx-auto px-4">
-            <p>OpenRare Platform &copy; 2026. 全球罕见病开源研发追踪与数据分析系统</p>
+    <footer class="bg-white border-t border-slate-200 mt-12 py-6 text-center text-xs text-slate-500">
+      <div class="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4">
+        <p>OpenRare Platform &copy; 2026. 全球罕见病开源研发追踪与数据分析系统</p>
+        
+        <!-- 访问量统计 -->
+        <div class="flex items-center gap-6 bg-slate-50 px-4 py-2 rounded-xl border border-slate-100">
+          <div>
+            全站访问量: <span id="busuanzi_value_site_pv" class="font-bold text-indigo-600">--</span> 次
+          </div>
+          <div class="border-l border-slate-200 h-3"></div>
+          <div>
+            访客人次: <span id="busuanzi_value_site_uv" class="font-bold text-indigo-600">--</span> 人
+          </div>
         </div>
+      </div>
     </footer>
 
     <!-- Application JavaScript Logic -->
