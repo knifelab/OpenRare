@@ -359,22 +359,36 @@
         const loadData = async () => {
           loading.value = true;
           error.value = null;
+          
+          // 疾病 JSON 文件清单：以后每增加一种疾病，在这里加上对应的文件名即可（例如 'sma.json', 'duchenne.json'）
+          const diseaseFiles = [
+            'als.json',
+            'sma.json'
+          ];
+
           try {
-            let res = await fetch('./data/all_diseases.json');
-            if (!res.ok) {
-              // fallback
-              res = await fetch('./data/diseases/als.json');
-            }
-            if (!res.ok) throw new Error(`HTTP 错误 ${res.status}: 无法读取数据源`);
-            const data = await res.json();
+            const fetchPromises = diseaseFiles.map(file => 
+              fetch(`./data/diseases/${file}`)
+                .then(res => res.ok ? res.json() : null)
+                .catch(() => null)
+            );
+
+            const results = await Promise.all(fetchPromises);
             
-            if (Array.isArray(data)) {
-              rawData.value = data;
-            } else if (typeof data === 'object') {
-              rawData.value = [data];
-            } else {
-              throw new Error("数据格式无效");
+            // 过滤掉读取失败的项目并扁平化合并
+            const combinedData = [];
+            results.forEach(data => {
+              if (data) {
+                if (Array.isArray(data)) combinedData.push(...data);
+                else combinedData.push(data);
+              }
+            });
+
+            if (combinedData.length === 0) {
+              throw new Error("未读取到有效的疾病数据文件");
             }
+
+            rawData.value = combinedData;
           } catch (err) {
             error.value = err.message || "无法读取疾病数据";
           } finally {
