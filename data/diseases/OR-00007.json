@@ -1,0 +1,27 @@
+{
+  "id": "OR-00007",
+  "name_cn": "庞贝病",
+  "name_en": "Pompe disease",
+  "aliases": [],
+  "icd_11": "5C51.1",
+  "orpha_code": "ORPHA791",
+  "overview": "Pompe disease 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA791)。",
+  "pipelines": [
+    {
+      "drug_or_therapy": "Avalglucosidase Alfa",
+      "target_or_mechanism": "Primary Objective:\n\nLong-term safety and pharmacokinetics (P...",
+      "phase": "Phase 2",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT02032524",
+      "last_updated": "2026-08-25"
+    },
+    {
+      "drug_or_therapy": "Metformin",
+      "target_or_mechanism": "The objective of the study is to investigate the long-term s...",
+      "phase": "Phase 3",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT01368081",
+      "last_updated": "2026-08-25"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "OR-00001",
+  "name_cn": "杜氏肌营养不良症",
+  "name_en": "Duchenne muscular dystrophy",
+  "aliases": [],
+  "icd_11": "8B60.0",
+  "orpha_code": "ORPHA98896",
+  "overview": "Duchenne muscular dystrophy 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA98896)。",
+  "pipelines": [
+    {
+      "drug_or_therapy": "未透露新药",
+      "target_or_mechanism": "Dystrophinopathy is a term of X-linked recessive genetic dis...",
+      "phase": "Phase N/A",
+      "status": "RECRUITING",
+      "clinical_trials_id": "NCT04012671",
+      "last_updated": "2026-08-25"
+    },
+    {
+      "drug_or_therapy": "未透露新药",
+      "target_or_mechanism": "The purpose of this study is to identify potential biomarker...",
+      "phase": "Phase N/A",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT01380964",
+      "last_updated": "2026-08-25"
+    }
+  ]
+}

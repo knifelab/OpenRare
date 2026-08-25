@@ -1,0 +1,27 @@
+{
+  "id": "OR-00002",
+  "name_cn": "亨廷顿舞蹈病",
+  "name_en": "Huntington disease",
+  "aliases": [],
+  "icd_11": "8A01.0",
+  "orpha_code": "ORPHA399",
+  "overview": "Huntington disease 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA399)。",
+  "pipelines": [
+    {
+      "drug_or_therapy": "Laughter Therapy",
+      "target_or_mechanism": "This is a prospective investigation of the effects of Laught...",
+      "phase": "NA",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT02750982",
+      "last_updated": "2026-08-25"
+    },
+    {
+      "drug_or_therapy": "未透露新药",
+      "target_or_mechanism": "Huntington's disease (HD) is a genetic, progressive neurodeg...",
+      "phase": "Phase N/A",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "clinical_trials_id": "NCT07503743",
+      "last_updated": "2026-08-25"
+    }
+  ]
+}

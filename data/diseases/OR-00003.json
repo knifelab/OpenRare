@@ -1,0 +1,27 @@
+{
+  "id": "OR-00003",
+  "name_cn": "法布雷病",
+  "name_en": "Fabry disease",
+  "aliases": [],
+  "icd_11": "5C56.1",
+  "orpha_code": "ORPHA324",
+  "overview": "Fabry disease 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA324)。",
+  "pipelines": [
+    {
+      "drug_or_therapy": "Fabrazyme (agalsidase beta)",
+      "target_or_mechanism": "People with Fabry disease have an alteration in their geneti...",
+      "phase": "Phase 4",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT00074984",
+      "last_updated": "2026-08-25"
+    },
+    {
+      "drug_or_therapy": "Agalsidase beta",
+      "target_or_mechanism": "This is a multi-center, open label, phase IV study conducted...",
+      "phase": "Phase 4",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT00140621",
+      "last_updated": "2026-08-25"
+    }
+  ]
+}

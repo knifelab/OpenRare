@@ -1,0 +1,27 @@
+{
+  "id": "OR-00006",
+  "name_cn": "戈谢病",
+  "name_en": "Gaucher disease",
+  "aliases": [],
+  "icd_11": "5C56.0",
+  "orpha_code": "ORPHA586",
+  "overview": "Gaucher disease 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA586)。",
+  "pipelines": [
+    {
+      "drug_or_therapy": "未透露新药",
+      "target_or_mechanism": "The study of splenomegaly, and the follow-up of splenectomiz...",
+      "phase": "Phase N/A",
+      "status": "RECRUITING",
+      "clinical_trials_id": "NCT05992532",
+      "last_updated": "2026-08-25"
+    },
+    {
+      "drug_or_therapy": "VPRIV",
+      "target_or_mechanism": "Background: In order to allow our satisfied patients, who ha...",
+      "phase": "Phase 4",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT04120506",
+      "last_updated": "2026-08-25"
+    }
+  ]
+}

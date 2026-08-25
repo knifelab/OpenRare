@@ -1,0 +1,27 @@
+{
+  "id": "OR-00005",
+  "name_cn": "肌萎缩侧索硬化症",
+  "name_en": "Amyotrophic lateral sclerosis",
+  "aliases": [],
+  "icd_11": "8B60.2",
+  "orpha_code": "ORPHA47",
+  "overview": "Amyotrophic lateral sclerosis 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA47)。",
+  "pipelines": [
+    {
+      "drug_or_therapy": "tSMS",
+      "target_or_mechanism": "This study aims to evaluate safety and efficacy of tSMS in A...",
+      "phase": "NA",
+      "status": "UNKNOWN",
+      "clinical_trials_id": "NCT04393467",
+      "last_updated": "2026-08-25"
+    },
+    {
+      "drug_or_therapy": "未透露新药",
+      "target_or_mechanism": "The role of hyperlipidemia and lipid lowering therapy (LLT) ...",
+      "phase": "Phase N/A",
+      "status": "COMPLETED",
+      "clinical_trials_id": "NCT01592084",
+      "last_updated": "2026-08-25"
+    }
+  ]
+}
