@@ -1,0 +1,35 @@
+name: Auto Sync Rare Disease Data
+
+on:
+  schedule:
+    #  Cron 表达式：每周一凌晨 0:00 (UTC) 自动运行
+    - cron: '0 0 * * 1'
+  workflow_dispatch: # 支持在 GitHub 网页手动点击触发
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 运行数据更新与构建脚本
+        run: |
+          python tools/build_real_orphanet.py
+
+      - name: 检查是否有数据变更并提交
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: 自动同步最新罕见病研发数据 [skip ci]"
+            git push
+          else
+            echo "无新数据更新"
+          fi
