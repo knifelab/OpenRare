@@ -3,6 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 搜索引擎基础元数据 (SEO) -->
+    <meta name="description" content="OpenRare 全球罕见病开源研发追踪与数据分析系统，收录 7000+ 种罕见病基础数据（ICD-11、ORPHA 编码）及全球最新临床试验与研发管线进展，助力罕见病科研、临床与患者检索。">
+    <meta name="keywords" content="罕见病, 罕见病数据库, 临床试验, 研发管线, 杜氏肌营养不良症, 亨廷顿舞蹈病, 法布雷病, 脊髓性肌萎缩症, ICD-11, ORPHANET, ClinicalTrials, 孤儿药, OpenRare">
+    <meta name="author" content="OpenRare Platform">
+
+    <!-- Open Graph / Facebook / 微信分享卡片预览 -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="OpenRare - 全球罕见病研发进展与临床管线追踪分析系统">
+    <meta property="og:description" content="开源收录 7000+ 种罕见病信息及实时临床试验管线，提供系统分类统计与热门罕见病 Top 10 可视化看板。">
+    <meta property="og:url" content="https://knifelab.github.io/OpenRare/">
+
+    <!-- Twitter 社交卡片 -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="OpenRare - 全球罕见病研发进展与临床管线追踪分析系统">
+    <meta name="twitter:description" content="开源收录 7000+ 种罕见病信息及实时临床试验管线。">
+
+    <!-- 谷歌/百度结构化数据 (JSON-LD)，方便搜索引擎识别为数据平台 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalWebPage",
+      "name": "OpenRare - 全球罕见病研发进展与临床管线追踪分析系统",
+      "description": "全球罕见病开源研发追踪与数据分析系统，收录 7000+ 种罕见病基础数据及全球最新临床试验与研发管线进展。",
+      "url": "https://knifelab.github.io/OpenRare/",
+      "audience": {
+        "@type": "MedicalAudience",
+        "audienceType": ["Patients", "Researchers", "Doctors"]
+      }
+    }
+    </script>
     <title>OpenRare - 全球罕见病研发进展与临床管线追踪分析系统</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -32,6 +62,7 @@
         }
     </style>
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 </head>
 <body class="text-slate-800 min-h-screen flex flex-col">
 
