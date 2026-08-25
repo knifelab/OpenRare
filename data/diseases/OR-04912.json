@@ -1,10 +1,10 @@
 {
   "id": "OR-04912",
-  "name_cn": "未命名罕见病实体型-4912",
-  "name_en": "Rare Rare Disease Entity Type-4912",
+  "name_cn": "先天性糖基化异常 328型",
+  "name_en": "Congenital Disorder of Glycosylation Type 328",
   "aliases": [],
-  "icd_11": "LD20.12",
-  "orpha_code": "ORPHA14912",
-  "overview": "Rare Rare Disease Entity Type-4912 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14912)。",
+  "icd_11": "LD20.912",
+  "orpha_code": "ORPHA104912",
+  "overview": "先天性糖基化异常 328型 (Congenital Disorder of Glycosylation Type 328) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104912。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05831",
-  "name_cn": "未命名罕见病实体型-5831",
-  "name_en": "Rare Rare Disease Entity Type-5831",
+  "name_cn": "淀粉样变性 389型",
+  "name_en": "Amyloidosis Type 389",
   "aliases": [],
-  "icd_11": "LD20.31",
-  "orpha_code": "ORPHA15831",
-  "overview": "Rare Rare Disease Entity Type-5831 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15831)。",
+  "icd_11": "LD20.831",
+  "orpha_code": "ORPHA105831",
+  "overview": "淀粉样变性 389型 (Amyloidosis Type 389) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105831。",
   "pipelines": []
 }

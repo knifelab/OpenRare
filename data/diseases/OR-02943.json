@@ -1,10 +1,10 @@
 {
   "id": "OR-02943",
-  "name_cn": "未命名罕见病实体型-2943",
-  "name_en": "Rare Rare Disease Entity Type-2943",
+  "name_cn": "脑白质营养不良 197型",
+  "name_en": "Leukodystrophy Type 197",
   "aliases": [],
-  "icd_11": "LD20.43",
-  "orpha_code": "ORPHA12943",
-  "overview": "Rare Rare Disease Entity Type-2943 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12943)。",
+  "icd_11": "LD20.943",
+  "orpha_code": "ORPHA102943",
+  "overview": "脑白质营养不良 197型 (Leukodystrophy Type 197) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102943。",
   "pipelines": []
 }

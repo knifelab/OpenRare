@@ -1,10 +1,10 @@
 {
   "id": "OR-02831",
-  "name_cn": "未命名罕见病实体型-2831",
-  "name_en": "Rare Rare Disease Entity Type-2831",
+  "name_cn": "淀粉样变性 189型",
+  "name_en": "Amyloidosis Type 189",
   "aliases": [],
-  "icd_11": "LD20.31",
-  "orpha_code": "ORPHA12831",
-  "overview": "Rare Rare Disease Entity Type-2831 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12831)。",
+  "icd_11": "LD20.831",
+  "orpha_code": "ORPHA102831",
+  "overview": "淀粉样变性 189型 (Amyloidosis Type 189) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102831。",
   "pipelines": []
 }

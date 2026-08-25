@@ -1,10 +1,10 @@
 {
   "id": "OR-05577",
-  "name_cn": "未命名罕见病实体型-5577",
-  "name_en": "Rare Rare Disease Entity Type-5577",
+  "name_cn": "骨骼发育不良 372型",
+  "name_en": "Skeletal Dysplasia Type 372",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA15577",
-  "overview": "Rare Rare Disease Entity Type-5577 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15577)。",
+  "icd_11": "LD20.577",
+  "orpha_code": "ORPHA105577",
+  "overview": "骨骼发育不良 372型 (Skeletal Dysplasia Type 372) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105577。",
   "pipelines": []
 }

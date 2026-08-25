@@ -1,10 +1,10 @@
 {
   "id": "OR-03529",
-  "name_cn": "未命名罕见病实体型-3529",
-  "name_en": "Rare Rare Disease Entity Type-3529",
+  "name_cn": "视网膜营养不良 236型",
+  "name_en": "Retinal Dystrophy Type 236",
   "aliases": [],
-  "icd_11": "LD20.29",
-  "orpha_code": "ORPHA13529",
-  "overview": "Rare Rare Disease Entity Type-3529 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13529)。",
+  "icd_11": "LD20.529",
+  "orpha_code": "ORPHA103529",
+  "overview": "视网膜营养不良 236型 (Retinal Dystrophy Type 236) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103529。",
   "pipelines": []
 }

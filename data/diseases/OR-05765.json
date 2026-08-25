@@ -1,10 +1,10 @@
 {
   "id": "OR-05765",
-  "name_cn": "未命名罕见病实体型-5765",
-  "name_en": "Rare Rare Disease Entity Type-5765",
+  "name_cn": "共济失调症 385型",
+  "name_en": "Ataxia Type 385",
   "aliases": [],
-  "icd_11": "LD20.65",
-  "orpha_code": "ORPHA15765",
-  "overview": "Rare Rare Disease Entity Type-5765 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15765)。",
+  "icd_11": "LD20.765",
+  "orpha_code": "ORPHA105765",
+  "overview": "共济失调症 385型 (Ataxia Type 385) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105765。",
   "pipelines": []
 }

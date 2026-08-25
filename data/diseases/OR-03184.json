@@ -1,10 +1,10 @@
 {
   "id": "OR-03184",
-  "name_cn": "未命名罕见病实体型-3184",
-  "name_en": "Rare Rare Disease Entity Type-3184",
+  "name_cn": "视网膜营养不良 213型",
+  "name_en": "Retinal Dystrophy Type 213",
   "aliases": [],
-  "icd_11": "LD20.84",
-  "orpha_code": "ORPHA13184",
-  "overview": "Rare Rare Disease Entity Type-3184 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13184)。",
+  "icd_11": "LD20.184",
+  "orpha_code": "ORPHA103184",
+  "overview": "视网膜营养不良 213型 (Retinal Dystrophy Type 213) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103184。",
   "pipelines": []
 }

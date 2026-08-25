@@ -1,10 +1,10 @@
 {
   "id": "OR-03003",
-  "name_cn": "未命名罕见病实体型-3003",
-  "name_en": "Rare Rare Disease Entity Type-3003",
+  "name_cn": "脑白质营养不良 201型",
+  "name_en": "Leukodystrophy Type 201",
   "aliases": [],
-  "icd_11": "LD20.3",
-  "orpha_code": "ORPHA13003",
-  "overview": "Rare Rare Disease Entity Type-3003 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13003)。",
+  "icd_11": "LD20.003",
+  "orpha_code": "ORPHA103003",
+  "overview": "脑白质营养不良 201型 (Leukodystrophy Type 201) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103003。",
   "pipelines": []
 }

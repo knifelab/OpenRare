@@ -1,10 +1,10 @@
 {
   "id": "OR-04973",
-  "name_cn": "未命名罕见病实体型-4973",
-  "name_en": "Rare Rare Disease Entity Type-4973",
+  "name_cn": "原发性免疫缺陷病 332型",
+  "name_en": "Primary Immunodeficiency Type 332",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA14973",
-  "overview": "Rare Rare Disease Entity Type-4973 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14973)。",
+  "icd_11": "LD20.973",
+  "orpha_code": "ORPHA104973",
+  "overview": "原发性免疫缺陷病 332型 (Primary Immunodeficiency Type 332) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104973。",
   "pipelines": []
 }

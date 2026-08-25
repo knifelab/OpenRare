@@ -1,10 +1,10 @@
 {
   "id": "OR-05594",
-  "name_cn": "未命名罕见病实体型-5594",
-  "name_en": "Rare Rare Disease Entity Type-5594",
+  "name_cn": "动脉性肺动脉高压 373型",
+  "name_en": "Pulmonary Arterial Hypertension Type 373",
   "aliases": [],
-  "icd_11": "LD20.94",
-  "orpha_code": "ORPHA15594",
-  "overview": "Rare Rare Disease Entity Type-5594 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15594)。",
+  "icd_11": "LD20.594",
+  "orpha_code": "ORPHA105594",
+  "overview": "动脉性肺动脉高压 373型 (Pulmonary Arterial Hypertension Type 373) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105594。",
   "pipelines": []
 }

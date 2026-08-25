@@ -1,10 +1,10 @@
 {
   "id": "OR-00950",
-  "name_cn": "未命名罕见病实体型-950",
-  "name_en": "Rare Rare Disease Entity Type-950",
+  "name_cn": "共济失调症 64型",
+  "name_en": "Ataxia Type 64",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA10950",
-  "overview": "Rare Rare Disease Entity Type-950 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10950)。",
+  "icd_11": "LD20.950",
+  "orpha_code": "ORPHA100950",
+  "overview": "共济失调症 64型 (Ataxia Type 64) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100950。",
   "pipelines": []
 }

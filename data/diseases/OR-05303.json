@@ -1,10 +1,10 @@
 {
   "id": "OR-05303",
-  "name_cn": "未命名罕见病实体型-5303",
-  "name_en": "Rare Rare Disease Entity Type-5303",
+  "name_cn": "原发性免疫缺陷病 354型",
+  "name_en": "Primary Immunodeficiency Type 354",
   "aliases": [],
-  "icd_11": "LD20.3",
-  "orpha_code": "ORPHA15303",
-  "overview": "Rare Rare Disease Entity Type-5303 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15303)。",
+  "icd_11": "LD20.303",
+  "orpha_code": "ORPHA105303",
+  "overview": "原发性免疫缺陷病 354型 (Primary Immunodeficiency Type 354) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105303。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04082",
-  "name_cn": "未命名罕见病实体型-4082",
-  "name_en": "Rare Rare Disease Entity Type-4082",
+  "name_cn": "溶酶体贮积症 273型",
+  "name_en": "Lysosomal Storage Disorder Type 273",
   "aliases": [],
-  "icd_11": "LD20.82",
-  "orpha_code": "ORPHA14082",
-  "overview": "Rare Rare Disease Entity Type-4082 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14082)。",
+  "icd_11": "LD20.082",
+  "orpha_code": "ORPHA104082",
+  "overview": "溶酶体贮积症 273型 (Lysosomal Storage Disorder Type 273) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104082。",
   "pipelines": []
 }

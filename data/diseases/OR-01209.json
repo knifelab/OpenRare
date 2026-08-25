@@ -1,10 +1,10 @@
 {
   "id": "OR-01209",
-  "name_cn": "未命名罕见病实体型-1209",
-  "name_en": "Rare Rare Disease Entity Type-1209",
+  "name_cn": "外胚层发育不良 81型",
+  "name_en": "Ectodermal Dysplasia Type 81",
   "aliases": [],
-  "icd_11": "LD20.9",
-  "orpha_code": "ORPHA11209",
-  "overview": "Rare Rare Disease Entity Type-1209 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11209)。",
+  "icd_11": "LD20.209",
+  "orpha_code": "ORPHA101209",
+  "overview": "外胚层发育不良 81型 (Ectodermal Dysplasia Type 81) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101209。",
   "pipelines": []
 }

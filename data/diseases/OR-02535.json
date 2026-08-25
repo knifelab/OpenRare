@@ -1,10 +1,10 @@
 {
   "id": "OR-02535",
-  "name_cn": "未命名罕见病实体型-2535",
-  "name_en": "Rare Rare Disease Entity Type-2535",
+  "name_cn": "肌营养不良症 170型",
+  "name_en": "Muscular Dystrophy Type 170",
   "aliases": [],
-  "icd_11": "LD20.35",
-  "orpha_code": "ORPHA12535",
-  "overview": "Rare Rare Disease Entity Type-2535 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12535)。",
+  "icd_11": "LD20.535",
+  "orpha_code": "ORPHA102535",
+  "overview": "肌营养不良症 170型 (Muscular Dystrophy Type 170) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102535。",
   "pipelines": []
 }

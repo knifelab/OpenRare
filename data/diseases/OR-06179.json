@@ -1,10 +1,10 @@
 {
   "id": "OR-06179",
-  "name_cn": "未命名罕见病实体型-6179",
-  "name_en": "Rare Rare Disease Entity Type-6179",
+  "name_cn": "动脉性肺动脉高压 412型",
+  "name_en": "Pulmonary Arterial Hypertension Type 412",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA16179",
-  "overview": "Rare Rare Disease Entity Type-6179 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16179)。",
+  "icd_11": "LD20.179",
+  "orpha_code": "ORPHA106179",
+  "overview": "动脉性肺动脉高压 412型 (Pulmonary Arterial Hypertension Type 412) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106179。",
   "pipelines": []
 }

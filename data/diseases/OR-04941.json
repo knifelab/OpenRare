@@ -1,10 +1,10 @@
 {
   "id": "OR-04941",
-  "name_cn": "未命名罕见病实体型-4941",
-  "name_en": "Rare Rare Disease Entity Type-4941",
+  "name_cn": "脑病 330型",
+  "name_en": "Encephalopathy Type 330",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA14941",
-  "overview": "Rare Rare Disease Entity Type-4941 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14941)。",
+  "icd_11": "LD20.941",
+  "orpha_code": "ORPHA104941",
+  "overview": "脑病 330型 (Encephalopathy Type 330) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104941。",
   "pipelines": []
 }

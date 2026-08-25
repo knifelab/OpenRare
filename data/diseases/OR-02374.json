@@ -1,10 +1,10 @@
 {
   "id": "OR-02374",
-  "name_cn": "未命名罕见病实体型-2374",
-  "name_en": "Rare Rare Disease Entity Type-2374",
+  "name_cn": "视网膜营养不良 159型",
+  "name_en": "Retinal Dystrophy Type 159",
   "aliases": [],
-  "icd_11": "LD20.74",
-  "orpha_code": "ORPHA12374",
-  "overview": "Rare Rare Disease Entity Type-2374 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12374)。",
+  "icd_11": "LD20.374",
+  "orpha_code": "ORPHA102374",
+  "overview": "视网膜营养不良 159型 (Retinal Dystrophy Type 159) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102374。",
   "pipelines": []
 }

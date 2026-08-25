@@ -1,10 +1,10 @@
 {
   "id": "OR-05151",
-  "name_cn": "未命名罕见病实体型-5151",
-  "name_en": "Rare Rare Disease Entity Type-5151",
+  "name_cn": "脑病 344型",
+  "name_en": "Encephalopathy Type 344",
   "aliases": [],
-  "icd_11": "LD20.51",
-  "orpha_code": "ORPHA15151",
-  "overview": "Rare Rare Disease Entity Type-5151 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15151)。",
+  "icd_11": "LD20.151",
+  "orpha_code": "ORPHA105151",
+  "overview": "脑病 344型 (Encephalopathy Type 344) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105151。",
   "pipelines": []
 }

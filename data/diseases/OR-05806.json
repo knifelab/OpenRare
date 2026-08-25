@@ -1,10 +1,10 @@
 {
   "id": "OR-05806",
-  "name_cn": "未命名罕见病实体型-5806",
-  "name_en": "Rare Rare Disease Entity Type-5806",
+  "name_cn": "脊髓性肌萎缩症 388型",
+  "name_en": "Spinal Muscular Atrophy Type 388",
   "aliases": [],
-  "icd_11": "LD20.6",
-  "orpha_code": "ORPHA15806",
-  "overview": "Rare Rare Disease Entity Type-5806 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15806)。",
+  "icd_11": "LD20.806",
+  "orpha_code": "ORPHA105806",
+  "overview": "脊髓性肌萎缩症 388型 (Spinal Muscular Atrophy Type 388) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105806。",
   "pipelines": []
 }

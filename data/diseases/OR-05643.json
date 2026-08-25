@@ -1,10 +1,10 @@
 {
   "id": "OR-05643",
-  "name_cn": "未命名罕见病实体型-5643",
-  "name_en": "Rare Rare Disease Entity Type-5643",
+  "name_cn": "脑白质营养不良 377型",
+  "name_en": "Leukodystrophy Type 377",
   "aliases": [],
-  "icd_11": "LD20.43",
-  "orpha_code": "ORPHA15643",
-  "overview": "Rare Rare Disease Entity Type-5643 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15643)。",
+  "icd_11": "LD20.643",
+  "orpha_code": "ORPHA105643",
+  "overview": "脑白质营养不良 377型 (Leukodystrophy Type 377) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105643。",
   "pipelines": []
 }

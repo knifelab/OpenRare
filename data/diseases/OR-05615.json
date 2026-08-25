@@ -1,10 +1,10 @@
 {
   "id": "OR-05615",
-  "name_cn": "未命名罕见病实体型-5615",
-  "name_en": "Rare Rare Disease Entity Type-5615",
+  "name_cn": "共济失调症 375型",
+  "name_en": "Ataxia Type 375",
   "aliases": [],
-  "icd_11": "LD20.15",
-  "orpha_code": "ORPHA15615",
-  "overview": "Rare Rare Disease Entity Type-5615 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15615)。",
+  "icd_11": "LD20.615",
+  "orpha_code": "ORPHA105615",
+  "overview": "共济失调症 375型 (Ataxia Type 375) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105615。",
   "pipelines": []
 }

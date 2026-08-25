@@ -1,10 +1,10 @@
 {
   "id": "OR-06066",
-  "name_cn": "未命名罕见病实体型-6066",
-  "name_en": "Rare Rare Disease Entity Type-6066",
+  "name_cn": "脑病 405型",
+  "name_en": "Encephalopathy Type 405",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA16066",
-  "overview": "Rare Rare Disease Entity Type-6066 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16066)。",
+  "icd_11": "LD20.066",
+  "orpha_code": "ORPHA106066",
+  "overview": "脑病 405型 (Encephalopathy Type 405) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106066。",
   "pipelines": []
 }

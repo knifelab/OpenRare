@@ -1,10 +1,10 @@
 {
   "id": "OR-06197",
-  "name_cn": "未命名罕见病实体型-6197",
-  "name_en": "Rare Rare Disease Entity Type-6197",
+  "name_cn": "溶酶体贮积症 414型",
+  "name_en": "Lysosomal Storage Disorder Type 414",
   "aliases": [],
-  "icd_11": "LD20.97",
-  "orpha_code": "ORPHA16197",
-  "overview": "Rare Rare Disease Entity Type-6197 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16197)。",
+  "icd_11": "LD20.197",
+  "orpha_code": "ORPHA106197",
+  "overview": "溶酶体贮积症 414型 (Lysosomal Storage Disorder Type 414) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106197。",
   "pipelines": []
 }

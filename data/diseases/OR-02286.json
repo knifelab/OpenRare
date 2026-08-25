@@ -1,10 +1,10 @@
 {
   "id": "OR-02286",
-  "name_cn": "未命名罕见病实体型-2286",
-  "name_en": "Rare Rare Disease Entity Type-2286",
+  "name_cn": "脑病 153型",
+  "name_en": "Encephalopathy Type 153",
   "aliases": [],
-  "icd_11": "LD20.86",
-  "orpha_code": "ORPHA12286",
-  "overview": "Rare Rare Disease Entity Type-2286 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12286)。",
+  "icd_11": "LD20.286",
+  "orpha_code": "ORPHA102286",
+  "overview": "脑病 153型 (Encephalopathy Type 153) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102286。",
   "pipelines": []
 }

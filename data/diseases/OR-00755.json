@@ -1,10 +1,10 @@
 {
   "id": "OR-00755",
-  "name_cn": "未命名罕见病实体型-755",
-  "name_en": "Rare Rare Disease Entity Type-755",
+  "name_cn": "共济失调症 51型",
+  "name_en": "Ataxia Type 51",
   "aliases": [],
-  "icd_11": "LD20.55",
-  "orpha_code": "ORPHA10755",
-  "overview": "Rare Rare Disease Entity Type-755 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10755)。",
+  "icd_11": "LD20.755",
+  "orpha_code": "ORPHA100755",
+  "overview": "共济失调症 51型 (Ataxia Type 51) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100755。",
   "pipelines": []
 }

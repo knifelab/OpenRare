@@ -1,10 +1,10 @@
 {
   "id": "OR-01829",
-  "name_cn": "未命名罕见病实体型-1829",
-  "name_en": "Rare Rare Disease Entity Type-1829",
+  "name_cn": "动脉性肺动脉高压 122型",
+  "name_en": "Pulmonary Arterial Hypertension Type 122",
   "aliases": [],
-  "icd_11": "LD20.29",
-  "orpha_code": "ORPHA11829",
-  "overview": "Rare Rare Disease Entity Type-1829 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11829)。",
+  "icd_11": "LD20.829",
+  "orpha_code": "ORPHA101829",
+  "overview": "动脉性肺动脉高压 122型 (Pulmonary Arterial Hypertension Type 122) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101829。",
   "pipelines": []
 }

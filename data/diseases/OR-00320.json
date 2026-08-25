@@ -1,10 +1,10 @@
 {
   "id": "OR-00320",
-  "name_cn": "未命名罕见病实体型-320",
-  "name_en": "Rare Rare Disease Entity Type-320",
+  "name_cn": "共济失调症 22型",
+  "name_en": "Ataxia Type 22",
   "aliases": [],
-  "icd_11": "LD20.20",
-  "orpha_code": "ORPHA10320",
-  "overview": "Rare Rare Disease Entity Type-320 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10320)。",
+  "icd_11": "LD20.320",
+  "orpha_code": "ORPHA100320",
+  "overview": "共济失调症 22型 (Ataxia Type 22) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100320。",
   "pipelines": []
 }

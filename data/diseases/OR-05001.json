@@ -1,10 +1,10 @@
 {
   "id": "OR-05001",
-  "name_cn": "未命名罕见病实体型-5001",
-  "name_en": "Rare Rare Disease Entity Type-5001",
+  "name_cn": "脑病 334型",
+  "name_en": "Encephalopathy Type 334",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA15001",
-  "overview": "Rare Rare Disease Entity Type-5001 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15001)。",
+  "icd_11": "LD20.001",
+  "orpha_code": "ORPHA105001",
+  "overview": "脑病 334型 (Encephalopathy Type 334) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105001。",
   "pipelines": []
 }

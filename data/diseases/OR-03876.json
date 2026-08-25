@@ -1,10 +1,10 @@
 {
   "id": "OR-03876",
-  "name_cn": "未命名罕见病实体型-3876",
-  "name_en": "Rare Rare Disease Entity Type-3876",
+  "name_cn": "脑病 259型",
+  "name_en": "Encephalopathy Type 259",
   "aliases": [],
-  "icd_11": "LD20.76",
-  "orpha_code": "ORPHA13876",
-  "overview": "Rare Rare Disease Entity Type-3876 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13876)。",
+  "icd_11": "LD20.876",
+  "orpha_code": "ORPHA103876",
+  "overview": "脑病 259型 (Encephalopathy Type 259) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103876。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03667",
-  "name_cn": "未命名罕见病实体型-3667",
-  "name_en": "Rare Rare Disease Entity Type-3667",
+  "name_cn": "先天性糖基化异常 245型",
+  "name_en": "Congenital Disorder of Glycosylation Type 245",
   "aliases": [],
-  "icd_11": "LD20.67",
-  "orpha_code": "ORPHA13667",
-  "overview": "Rare Rare Disease Entity Type-3667 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13667)。",
+  "icd_11": "LD20.667",
+  "orpha_code": "ORPHA103667",
+  "overview": "先天性糖基化异常 245型 (Congenital Disorder of Glycosylation Type 245) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103667。",
   "pipelines": []
 }

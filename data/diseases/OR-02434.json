@@ -1,10 +1,10 @@
 {
   "id": "OR-02434",
-  "name_cn": "未命名罕见病实体型-2434",
-  "name_en": "Rare Rare Disease Entity Type-2434",
+  "name_cn": "视网膜营养不良 163型",
+  "name_en": "Retinal Dystrophy Type 163",
   "aliases": [],
-  "icd_11": "LD20.34",
-  "orpha_code": "ORPHA12434",
-  "overview": "Rare Rare Disease Entity Type-2434 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12434)。",
+  "icd_11": "LD20.434",
+  "orpha_code": "ORPHA102434",
+  "overview": "视网膜营养不良 163型 (Retinal Dystrophy Type 163) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102434。",
   "pipelines": []
 }

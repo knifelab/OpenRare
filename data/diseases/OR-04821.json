@@ -1,10 +1,10 @@
 {
   "id": "OR-04821",
-  "name_cn": "未命名罕见病实体型-4821",
-  "name_en": "Rare Rare Disease Entity Type-4821",
+  "name_cn": "脑病 322型",
+  "name_en": "Encephalopathy Type 322",
   "aliases": [],
-  "icd_11": "LD20.21",
-  "orpha_code": "ORPHA14821",
-  "overview": "Rare Rare Disease Entity Type-4821 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14821)。",
+  "icd_11": "LD20.821",
+  "orpha_code": "ORPHA104821",
+  "overview": "脑病 322型 (Encephalopathy Type 322) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104821。",
   "pipelines": []
 }

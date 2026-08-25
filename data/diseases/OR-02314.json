@@ -1,10 +1,10 @@
 {
   "id": "OR-02314",
-  "name_cn": "未命名罕见病实体型-2314",
-  "name_en": "Rare Rare Disease Entity Type-2314",
+  "name_cn": "视网膜营养不良 155型",
+  "name_en": "Retinal Dystrophy Type 155",
   "aliases": [],
-  "icd_11": "LD20.14",
-  "orpha_code": "ORPHA12314",
-  "overview": "Rare Rare Disease Entity Type-2314 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12314)。",
+  "icd_11": "LD20.314",
+  "orpha_code": "ORPHA102314",
+  "overview": "视网膜营养不良 155型 (Retinal Dystrophy Type 155) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102314。",
   "pipelines": []
 }

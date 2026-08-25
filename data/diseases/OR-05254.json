@@ -1,10 +1,10 @@
 {
   "id": "OR-05254",
-  "name_cn": "未命名罕见病实体型-5254",
-  "name_en": "Rare Rare Disease Entity Type-5254",
+  "name_cn": "视网膜营养不良 351型",
+  "name_en": "Retinal Dystrophy Type 351",
   "aliases": [],
-  "icd_11": "LD20.54",
-  "orpha_code": "ORPHA15254",
-  "overview": "Rare Rare Disease Entity Type-5254 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15254)。",
+  "icd_11": "LD20.254",
+  "orpha_code": "ORPHA105254",
+  "overview": "视网膜营养不良 351型 (Retinal Dystrophy Type 351) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105254。",
   "pipelines": []
 }

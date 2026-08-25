@@ -1,10 +1,10 @@
 {
   "id": "OR-02621",
-  "name_cn": "未命名罕见病实体型-2621",
-  "name_en": "Rare Rare Disease Entity Type-2621",
+  "name_cn": "淀粉样变性 175型",
+  "name_en": "Amyloidosis Type 175",
   "aliases": [],
-  "icd_11": "LD20.21",
-  "orpha_code": "ORPHA12621",
-  "overview": "Rare Rare Disease Entity Type-2621 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12621)。",
+  "icd_11": "LD20.621",
+  "orpha_code": "ORPHA102621",
+  "overview": "淀粉样变性 175型 (Amyloidosis Type 175) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102621。",
   "pipelines": []
 }

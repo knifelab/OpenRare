@@ -1,10 +1,10 @@
 {
   "id": "OR-01293",
-  "name_cn": "未命名罕见病实体型-1293",
-  "name_en": "Rare Rare Disease Entity Type-1293",
+  "name_cn": "脑白质营养不良 87型",
+  "name_en": "Leukodystrophy Type 87",
   "aliases": [],
-  "icd_11": "LD20.93",
-  "orpha_code": "ORPHA11293",
-  "overview": "Rare Rare Disease Entity Type-1293 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11293)。",
+  "icd_11": "LD20.293",
+  "orpha_code": "ORPHA101293",
+  "overview": "脑白质营养不良 87型 (Leukodystrophy Type 87) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101293。",
   "pipelines": []
 }

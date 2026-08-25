@@ -1,10 +1,10 @@
 {
   "id": "OR-00621",
-  "name_cn": "未命名罕见病实体型-621",
-  "name_en": "Rare Rare Disease Entity Type-621",
+  "name_cn": "脑病 42型",
+  "name_en": "Encephalopathy Type 42",
   "aliases": [],
-  "icd_11": "LD20.21",
-  "orpha_code": "ORPHA10621",
-  "overview": "Rare Rare Disease Entity Type-621 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10621)。",
+  "icd_11": "LD20.621",
+  "orpha_code": "ORPHA100621",
+  "overview": "脑病 42型 (Encephalopathy Type 42) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100621。",
   "pipelines": []
 }

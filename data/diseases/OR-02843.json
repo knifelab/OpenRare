@@ -1,10 +1,10 @@
 {
   "id": "OR-02843",
-  "name_cn": "未命名罕见病实体型-2843",
-  "name_en": "Rare Rare Disease Entity Type-2843",
+  "name_cn": "原发性免疫缺陷病 190型",
+  "name_en": "Primary Immunodeficiency Type 190",
   "aliases": [],
-  "icd_11": "LD20.43",
-  "orpha_code": "ORPHA12843",
-  "overview": "Rare Rare Disease Entity Type-2843 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12843)。",
+  "icd_11": "LD20.843",
+  "orpha_code": "ORPHA102843",
+  "overview": "原发性免疫缺陷病 190型 (Primary Immunodeficiency Type 190) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102843。",
   "pipelines": []
 }

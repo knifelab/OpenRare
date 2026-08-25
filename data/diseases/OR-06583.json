@@ -1,10 +1,10 @@
 {
   "id": "OR-06583",
-  "name_cn": "未命名罕见病实体型-6583",
-  "name_en": "Rare Rare Disease Entity Type-6583",
+  "name_cn": "线粒体肌病 439型",
+  "name_en": "Mitochondrial Myopathy Type 439",
   "aliases": [],
-  "icd_11": "LD20.83",
-  "orpha_code": "ORPHA16583",
-  "overview": "Rare Rare Disease Entity Type-6583 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16583)。",
+  "icd_11": "LD20.583",
+  "orpha_code": "ORPHA106583",
+  "overview": "线粒体肌病 439型 (Mitochondrial Myopathy Type 439) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106583。",
   "pipelines": []
 }

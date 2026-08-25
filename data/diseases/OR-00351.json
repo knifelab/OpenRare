@@ -1,10 +1,10 @@
 {
   "id": "OR-00351",
-  "name_cn": "未命名罕见病实体型-351",
-  "name_en": "Rare Rare Disease Entity Type-351",
+  "name_cn": "脑病 24型",
+  "name_en": "Encephalopathy Type 24",
   "aliases": [],
-  "icd_11": "LD20.51",
-  "orpha_code": "ORPHA10351",
-  "overview": "Rare Rare Disease Entity Type-351 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10351)。",
+  "icd_11": "LD20.351",
+  "orpha_code": "ORPHA100351",
+  "overview": "脑病 24型 (Encephalopathy Type 24) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100351。",
   "pipelines": []
 }

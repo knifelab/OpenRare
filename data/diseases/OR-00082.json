@@ -1,10 +1,10 @@
 {
   "id": "OR-00082",
-  "name_cn": "未命名罕见病实体型-82",
-  "name_en": "Rare Rare Disease Entity Type-82",
+  "name_cn": "先天性糖基化异常 6型",
+  "name_en": "Congenital Disorder of Glycosylation Type 6",
   "aliases": [],
-  "icd_11": "LD20.82",
-  "orpha_code": "ORPHA10082",
-  "overview": "Rare Rare Disease Entity Type-82 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10082)。",
+  "icd_11": "LD20.082",
+  "orpha_code": "ORPHA100082",
+  "overview": "先天性糖基化异常 6型 (Congenital Disorder of Glycosylation Type 6) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100082。",
   "pipelines": []
 }

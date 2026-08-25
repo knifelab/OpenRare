@@ -1,10 +1,10 @@
 {
   "id": "OR-04528",
-  "name_cn": "未命名罕见病实体型-4528",
-  "name_en": "Rare Rare Disease Entity Type-4528",
+  "name_cn": "线粒体肌病 302型",
+  "name_en": "Mitochondrial Myopathy Type 302",
   "aliases": [],
-  "icd_11": "LD20.28",
-  "orpha_code": "ORPHA14528",
-  "overview": "Rare Rare Disease Entity Type-4528 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14528)。",
+  "icd_11": "LD20.528",
+  "orpha_code": "ORPHA104528",
+  "overview": "线粒体肌病 302型 (Mitochondrial Myopathy Type 302) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104528。",
   "pipelines": []
 }

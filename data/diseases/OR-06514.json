@@ -1,10 +1,10 @@
 {
   "id": "OR-06514",
-  "name_cn": "未命名罕见病实体型-6514",
-  "name_en": "Rare Rare Disease Entity Type-6514",
+  "name_cn": "视网膜营养不良 435型",
+  "name_en": "Retinal Dystrophy Type 435",
   "aliases": [],
-  "icd_11": "LD20.14",
-  "orpha_code": "ORPHA16514",
-  "overview": "Rare Rare Disease Entity Type-6514 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16514)。",
+  "icd_11": "LD20.514",
+  "orpha_code": "ORPHA106514",
+  "overview": "视网膜营养不良 435型 (Retinal Dystrophy Type 435) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106514。",
   "pipelines": []
 }

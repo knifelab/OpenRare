@@ -1,10 +1,10 @@
 {
   "id": "OR-02556",
-  "name_cn": "未命名罕见病实体型-2556",
-  "name_en": "Rare Rare Disease Entity Type-2556",
+  "name_cn": "脑病 171型",
+  "name_en": "Encephalopathy Type 171",
   "aliases": [],
-  "icd_11": "LD20.56",
-  "orpha_code": "ORPHA12556",
-  "overview": "Rare Rare Disease Entity Type-2556 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12556)。",
+  "icd_11": "LD20.556",
+  "orpha_code": "ORPHA102556",
+  "overview": "脑病 171型 (Encephalopathy Type 171) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102556。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03873",
-  "name_cn": "未命名罕见病实体型-3873",
-  "name_en": "Rare Rare Disease Entity Type-3873",
+  "name_cn": "脑白质营养不良 259型",
+  "name_en": "Leukodystrophy Type 259",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA13873",
-  "overview": "Rare Rare Disease Entity Type-3873 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13873)。",
+  "icd_11": "LD20.873",
+  "orpha_code": "ORPHA103873",
+  "overview": "脑白质营养不良 259型 (Leukodystrophy Type 259) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103873。",
   "pipelines": []
 }

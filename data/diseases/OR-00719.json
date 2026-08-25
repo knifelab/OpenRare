@@ -1,10 +1,10 @@
 {
   "id": "OR-00719",
-  "name_cn": "未命名罕见病实体型-719",
-  "name_en": "Rare Rare Disease Entity Type-719",
+  "name_cn": "动脉性肺动脉高压 48型",
+  "name_en": "Pulmonary Arterial Hypertension Type 48",
   "aliases": [],
-  "icd_11": "LD20.19",
-  "orpha_code": "ORPHA10719",
-  "overview": "Rare Rare Disease Entity Type-719 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10719)。",
+  "icd_11": "LD20.719",
+  "orpha_code": "ORPHA100719",
+  "overview": "动脉性肺动脉高压 48型 (Pulmonary Arterial Hypertension Type 48) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100719。",
   "pipelines": []
 }

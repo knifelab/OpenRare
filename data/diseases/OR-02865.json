@@ -1,10 +1,10 @@
 {
   "id": "OR-02865",
-  "name_cn": "未命名罕见病实体型-2865",
-  "name_en": "Rare Rare Disease Entity Type-2865",
+  "name_cn": "肌营养不良症 192型",
+  "name_en": "Muscular Dystrophy Type 192",
   "aliases": [],
-  "icd_11": "LD20.65",
-  "orpha_code": "ORPHA12865",
-  "overview": "Rare Rare Disease Entity Type-2865 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12865)。",
+  "icd_11": "LD20.865",
+  "orpha_code": "ORPHA102865",
+  "overview": "肌营养不良症 192型 (Muscular Dystrophy Type 192) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102865。",
   "pipelines": []
 }

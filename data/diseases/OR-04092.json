@@ -1,10 +1,10 @@
 {
   "id": "OR-04092",
-  "name_cn": "未命名罕见病实体型-4092",
-  "name_en": "Rare Rare Disease Entity Type-4092",
+  "name_cn": "骨骼发育不良 273型",
+  "name_en": "Skeletal Dysplasia Type 273",
   "aliases": [],
-  "icd_11": "LD20.92",
-  "orpha_code": "ORPHA14092",
-  "overview": "Rare Rare Disease Entity Type-4092 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14092)。",
+  "icd_11": "LD20.092",
+  "orpha_code": "ORPHA104092",
+  "overview": "骨骼发育不良 273型 (Skeletal Dysplasia Type 273) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104092。",
   "pipelines": []
 }

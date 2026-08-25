@@ -1,10 +1,10 @@
 {
   "id": "OR-03528",
-  "name_cn": "未命名罕见病实体型-3528",
-  "name_en": "Rare Rare Disease Entity Type-3528",
+  "name_cn": "脑白质营养不良 236型",
+  "name_en": "Leukodystrophy Type 236",
   "aliases": [],
-  "icd_11": "LD20.28",
-  "orpha_code": "ORPHA13528",
-  "overview": "Rare Rare Disease Entity Type-3528 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13528)。",
+  "icd_11": "LD20.528",
+  "orpha_code": "ORPHA103528",
+  "overview": "脑白质营养不良 236型 (Leukodystrophy Type 236) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103528。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02599",
-  "name_cn": "未命名罕见病实体型-2599",
-  "name_en": "Rare Rare Disease Entity Type-2599",
+  "name_cn": "视网膜营养不良 174型",
+  "name_en": "Retinal Dystrophy Type 174",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA12599",
-  "overview": "Rare Rare Disease Entity Type-2599 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12599)。",
+  "icd_11": "LD20.599",
+  "orpha_code": "ORPHA102599",
+  "overview": "视网膜营养不良 174型 (Retinal Dystrophy Type 174) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102599。",
   "pipelines": []
 }

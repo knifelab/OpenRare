@@ -1,10 +1,10 @@
 {
   "id": "OR-03001",
-  "name_cn": "未命名罕见病实体型-3001",
-  "name_en": "Rare Rare Disease Entity Type-3001",
+  "name_cn": "脊髓性肌萎缩症 201型",
+  "name_en": "Spinal Muscular Atrophy Type 201",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA13001",
-  "overview": "Rare Rare Disease Entity Type-3001 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13001)。",
+  "icd_11": "LD20.001",
+  "orpha_code": "ORPHA103001",
+  "overview": "脊髓性肌萎缩症 201型 (Spinal Muscular Atrophy Type 201) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103001。",
   "pipelines": []
 }

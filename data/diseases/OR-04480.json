@@ -1,10 +1,10 @@
 {
   "id": "OR-04480",
-  "name_cn": "未命名罕见病实体型-4480",
-  "name_en": "Rare Rare Disease Entity Type-4480",
+  "name_cn": "周期性瘫痪 299型",
+  "name_en": "Periodic Paralysis Type 299",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA14480",
-  "overview": "Rare Rare Disease Entity Type-4480 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14480)。",
+  "icd_11": "LD20.480",
+  "orpha_code": "ORPHA104480",
+  "overview": "周期性瘫痪 299型 (Periodic Paralysis Type 299) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104480。",
   "pipelines": []
 }

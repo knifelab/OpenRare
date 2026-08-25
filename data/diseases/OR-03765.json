@@ -1,10 +1,10 @@
 {
   "id": "OR-03765",
-  "name_cn": "未命名罕见病实体型-3765",
-  "name_en": "Rare Rare Disease Entity Type-3765",
+  "name_cn": "肌营养不良症 252型",
+  "name_en": "Muscular Dystrophy Type 252",
   "aliases": [],
-  "icd_11": "LD20.65",
-  "orpha_code": "ORPHA13765",
-  "overview": "Rare Rare Disease Entity Type-3765 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13765)。",
+  "icd_11": "LD20.765",
+  "orpha_code": "ORPHA103765",
+  "overview": "肌营养不良症 252型 (Muscular Dystrophy Type 252) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103765。",
   "pipelines": []
 }

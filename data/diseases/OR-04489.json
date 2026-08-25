@@ -1,10 +1,10 @@
 {
   "id": "OR-04489",
-  "name_cn": "未命名罕见病实体型-4489",
-  "name_en": "Rare Rare Disease Entity Type-4489",
+  "name_cn": "视网膜营养不良 300型",
+  "name_en": "Retinal Dystrophy Type 300",
   "aliases": [],
-  "icd_11": "LD20.89",
-  "orpha_code": "ORPHA14489",
-  "overview": "Rare Rare Disease Entity Type-4489 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14489)。",
+  "icd_11": "LD20.489",
+  "orpha_code": "ORPHA104489",
+  "overview": "视网膜营养不良 300型 (Retinal Dystrophy Type 300) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104489。",
   "pipelines": []
 }

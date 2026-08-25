@@ -1,10 +1,10 @@
 {
   "id": "OR-01000",
-  "name_cn": "未命名罕见病实体型-1000",
-  "name_en": "Rare Rare Disease Entity Type-1000",
+  "name_cn": "周期性瘫痪 67型",
+  "name_en": "Periodic Paralysis Type 67",
   "aliases": [],
-  "icd_11": "LD20.0",
-  "orpha_code": "ORPHA11000",
-  "overview": "Rare Rare Disease Entity Type-1000 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11000)。",
+  "icd_11": "LD20.000",
+  "orpha_code": "ORPHA101000",
+  "overview": "周期性瘫痪 67型 (Periodic Paralysis Type 67) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101000。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00369",
-  "name_cn": "未命名罕见病实体型-369",
-  "name_en": "Rare Rare Disease Entity Type-369",
+  "name_cn": "外胚层发育不良 25型",
+  "name_en": "Ectodermal Dysplasia Type 25",
   "aliases": [],
-  "icd_11": "LD20.69",
-  "orpha_code": "ORPHA10369",
-  "overview": "Rare Rare Disease Entity Type-369 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10369)。",
+  "icd_11": "LD20.369",
+  "orpha_code": "ORPHA100369",
+  "overview": "外胚层发育不良 25型 (Ectodermal Dysplasia Type 25) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100369。",
   "pipelines": []
 }

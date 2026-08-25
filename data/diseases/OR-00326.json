@@ -1,10 +1,10 @@
 {
   "id": "OR-00326",
-  "name_cn": "未命名罕见病实体型-326",
-  "name_en": "Rare Rare Disease Entity Type-326",
+  "name_cn": "淀粉样变性 22型",
+  "name_en": "Amyloidosis Type 22",
   "aliases": [],
-  "icd_11": "LD20.26",
-  "orpha_code": "ORPHA10326",
-  "overview": "Rare Rare Disease Entity Type-326 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10326)。",
+  "icd_11": "LD20.326",
+  "orpha_code": "ORPHA100326",
+  "overview": "淀粉样变性 22型 (Amyloidosis Type 22) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100326。",
   "pipelines": []
 }

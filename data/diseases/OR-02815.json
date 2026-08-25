@@ -1,10 +1,10 @@
 {
   "id": "OR-02815",
-  "name_cn": "未命名罕见病实体型-2815",
-  "name_en": "Rare Rare Disease Entity Type-2815",
+  "name_cn": "周期性瘫痪 188型",
+  "name_en": "Periodic Paralysis Type 188",
   "aliases": [],
-  "icd_11": "LD20.15",
-  "orpha_code": "ORPHA12815",
-  "overview": "Rare Rare Disease Entity Type-2815 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12815)。",
+  "icd_11": "LD20.815",
+  "orpha_code": "ORPHA102815",
+  "overview": "周期性瘫痪 188型 (Periodic Paralysis Type 188) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102815。",
   "pipelines": []
 }

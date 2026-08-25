@@ -1,10 +1,10 @@
 {
   "id": "OR-03971",
-  "name_cn": "未命名罕见病实体型-3971",
-  "name_en": "Rare Rare Disease Entity Type-3971",
+  "name_cn": "淀粉样变性 265型",
+  "name_en": "Amyloidosis Type 265",
   "aliases": [],
-  "icd_11": "LD20.71",
-  "orpha_code": "ORPHA13971",
-  "overview": "Rare Rare Disease Entity Type-3971 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13971)。",
+  "icd_11": "LD20.971",
+  "orpha_code": "ORPHA103971",
+  "overview": "淀粉样变性 265型 (Amyloidosis Type 265) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103971。",
   "pipelines": []
 }

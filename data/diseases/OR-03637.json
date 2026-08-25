@@ -1,10 +1,10 @@
 {
   "id": "OR-03637",
-  "name_cn": "未命名罕见病实体型-3637",
-  "name_en": "Rare Rare Disease Entity Type-3637",
+  "name_cn": "先天性糖基化异常 243型",
+  "name_en": "Congenital Disorder of Glycosylation Type 243",
   "aliases": [],
-  "icd_11": "LD20.37",
-  "orpha_code": "ORPHA13637",
-  "overview": "Rare Rare Disease Entity Type-3637 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13637)。",
+  "icd_11": "LD20.637",
+  "orpha_code": "ORPHA103637",
+  "overview": "先天性糖基化异常 243型 (Congenital Disorder of Glycosylation Type 243) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103637。",
   "pipelines": []
 }

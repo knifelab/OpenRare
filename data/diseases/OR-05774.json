@@ -1,10 +1,10 @@
 {
   "id": "OR-05774",
-  "name_cn": "未命名罕见病实体型-5774",
-  "name_en": "Rare Rare Disease Entity Type-5774",
+  "name_cn": "动脉性肺动脉高压 385型",
+  "name_en": "Pulmonary Arterial Hypertension Type 385",
   "aliases": [],
-  "icd_11": "LD20.74",
-  "orpha_code": "ORPHA15774",
-  "overview": "Rare Rare Disease Entity Type-5774 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15774)。",
+  "icd_11": "LD20.774",
+  "orpha_code": "ORPHA105774",
+  "overview": "动脉性肺动脉高压 385型 (Pulmonary Arterial Hypertension Type 385) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105774。",
   "pipelines": []
 }

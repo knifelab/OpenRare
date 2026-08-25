@@ -1,10 +1,10 @@
 {
   "id": "OR-05233",
-  "name_cn": "未命名罕见病实体型-5233",
-  "name_en": "Rare Rare Disease Entity Type-5233",
+  "name_cn": "线粒体肌病 349型",
+  "name_en": "Mitochondrial Myopathy Type 349",
   "aliases": [],
-  "icd_11": "LD20.33",
-  "orpha_code": "ORPHA15233",
-  "overview": "Rare Rare Disease Entity Type-5233 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15233)。",
+  "icd_11": "LD20.233",
+  "orpha_code": "ORPHA105233",
+  "overview": "线粒体肌病 349型 (Mitochondrial Myopathy Type 349) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105233。",
   "pipelines": []
 }

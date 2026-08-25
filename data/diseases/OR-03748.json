@@ -1,10 +1,10 @@
 {
   "id": "OR-03748",
-  "name_cn": "未命名罕见病实体型-3748",
-  "name_en": "Rare Rare Disease Entity Type-3748",
+  "name_cn": "线粒体肌病 250型",
+  "name_en": "Mitochondrial Myopathy Type 250",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA13748",
-  "overview": "Rare Rare Disease Entity Type-3748 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13748)。",
+  "icd_11": "LD20.748",
+  "orpha_code": "ORPHA103748",
+  "overview": "线粒体肌病 250型 (Mitochondrial Myopathy Type 250) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103748。",
   "pipelines": []
 }

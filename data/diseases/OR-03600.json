@@ -1,10 +1,10 @@
 {
   "id": "OR-03600",
-  "name_cn": "未命名罕见病实体型-3600",
-  "name_en": "Rare Rare Disease Entity Type-3600",
+  "name_cn": "肌营养不良症 241型",
+  "name_en": "Muscular Dystrophy Type 241",
   "aliases": [],
-  "icd_11": "LD20.0",
-  "orpha_code": "ORPHA13600",
-  "overview": "Rare Rare Disease Entity Type-3600 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13600)。",
+  "icd_11": "LD20.600",
+  "orpha_code": "ORPHA103600",
+  "overview": "肌营养不良症 241型 (Muscular Dystrophy Type 241) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103600。",
   "pipelines": []
 }

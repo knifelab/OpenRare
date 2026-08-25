@@ -1,10 +1,10 @@
 {
   "id": "OR-02682",
-  "name_cn": "未命名罕见病实体型-2682",
-  "name_en": "Rare Rare Disease Entity Type-2682",
+  "name_cn": "骨骼发育不良 179型",
+  "name_en": "Skeletal Dysplasia Type 179",
   "aliases": [],
-  "icd_11": "LD20.82",
-  "orpha_code": "ORPHA12682",
-  "overview": "Rare Rare Disease Entity Type-2682 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12682)。",
+  "icd_11": "LD20.682",
+  "orpha_code": "ORPHA102682",
+  "overview": "骨骼发育不良 179型 (Skeletal Dysplasia Type 179) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102682。",
   "pipelines": []
 }

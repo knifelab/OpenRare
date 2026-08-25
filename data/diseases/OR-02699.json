@@ -1,10 +1,10 @@
 {
   "id": "OR-02699",
-  "name_cn": "未命名罕见病实体型-2699",
-  "name_en": "Rare Rare Disease Entity Type-2699",
+  "name_cn": "动脉性肺动脉高压 180型",
+  "name_en": "Pulmonary Arterial Hypertension Type 180",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA12699",
-  "overview": "Rare Rare Disease Entity Type-2699 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12699)。",
+  "icd_11": "LD20.699",
+  "orpha_code": "ORPHA102699",
+  "overview": "动脉性肺动脉高压 180型 (Pulmonary Arterial Hypertension Type 180) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102699。",
   "pipelines": []
 }

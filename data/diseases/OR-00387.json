@@ -1,10 +1,10 @@
 {
   "id": "OR-00387",
-  "name_cn": "未命名罕见病实体型-387",
-  "name_en": "Rare Rare Disease Entity Type-387",
+  "name_cn": "骨骼发育不良 26型",
+  "name_en": "Skeletal Dysplasia Type 26",
   "aliases": [],
-  "icd_11": "LD20.87",
-  "orpha_code": "ORPHA10387",
-  "overview": "Rare Rare Disease Entity Type-387 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10387)。",
+  "icd_11": "LD20.387",
+  "orpha_code": "ORPHA100387",
+  "overview": "骨骼发育不良 26型 (Skeletal Dysplasia Type 26) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100387。",
   "pipelines": []
 }

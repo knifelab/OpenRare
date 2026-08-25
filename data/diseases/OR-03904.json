@@ -1,10 +1,10 @@
 {
   "id": "OR-03904",
-  "name_cn": "未命名罕见病实体型-3904",
-  "name_en": "Rare Rare Disease Entity Type-3904",
+  "name_cn": "视网膜营养不良 261型",
+  "name_en": "Retinal Dystrophy Type 261",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA13904",
-  "overview": "Rare Rare Disease Entity Type-3904 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13904)。",
+  "icd_11": "LD20.904",
+  "orpha_code": "ORPHA103904",
+  "overview": "视网膜营养不良 261型 (Retinal Dystrophy Type 261) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103904。",
   "pipelines": []
 }

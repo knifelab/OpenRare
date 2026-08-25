@@ -1,10 +1,10 @@
 {
   "id": "OR-03057",
-  "name_cn": "未命名罕见病实体型-3057",
-  "name_en": "Rare Rare Disease Entity Type-3057",
+  "name_cn": "骨骼发育不良 204型",
+  "name_en": "Skeletal Dysplasia Type 204",
   "aliases": [],
-  "icd_11": "LD20.57",
-  "orpha_code": "ORPHA13057",
-  "overview": "Rare Rare Disease Entity Type-3057 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13057)。",
+  "icd_11": "LD20.057",
+  "orpha_code": "ORPHA103057",
+  "overview": "骨骼发育不良 204型 (Skeletal Dysplasia Type 204) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103057。",
   "pipelines": []
 }

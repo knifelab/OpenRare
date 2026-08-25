@@ -1,10 +1,10 @@
 {
   "id": "OR-00185",
-  "name_cn": "未命名罕见病实体型-185",
-  "name_en": "Rare Rare Disease Entity Type-185",
+  "name_cn": "共济失调症 13型",
+  "name_en": "Ataxia Type 13",
   "aliases": [],
-  "icd_11": "LD20.85",
-  "orpha_code": "ORPHA10185",
-  "overview": "Rare Rare Disease Entity Type-185 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10185)。",
+  "icd_11": "LD20.185",
+  "orpha_code": "ORPHA100185",
+  "overview": "共济失调症 13型 (Ataxia Type 13) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100185。",
   "pipelines": []
 }

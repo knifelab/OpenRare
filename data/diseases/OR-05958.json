@@ -1,10 +1,10 @@
 {
   "id": "OR-05958",
-  "name_cn": "未命名罕见病实体型-5958",
-  "name_en": "Rare Rare Disease Entity Type-5958",
+  "name_cn": "脑白质营养不良 398型",
+  "name_en": "Leukodystrophy Type 398",
   "aliases": [],
-  "icd_11": "LD20.58",
-  "orpha_code": "ORPHA15958",
-  "overview": "Rare Rare Disease Entity Type-5958 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15958)。",
+  "icd_11": "LD20.958",
+  "orpha_code": "ORPHA105958",
+  "overview": "脑白质营养不良 398型 (Leukodystrophy Type 398) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105958。",
   "pipelines": []
 }

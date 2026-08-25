@@ -1,10 +1,10 @@
 {
   "id": "OR-02030",
-  "name_cn": "未命名罕见病实体型-2030",
-  "name_en": "Rare Rare Disease Entity Type-2030",
+  "name_cn": "共济失调症 136型",
+  "name_en": "Ataxia Type 136",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA12030",
-  "overview": "Rare Rare Disease Entity Type-2030 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12030)。",
+  "icd_11": "LD20.030",
+  "orpha_code": "ORPHA102030",
+  "overview": "共济失调症 136型 (Ataxia Type 136) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102030。",
   "pipelines": []
 }

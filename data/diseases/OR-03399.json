@@ -1,10 +1,10 @@
 {
   "id": "OR-03399",
-  "name_cn": "未命名罕见病实体型-3399",
-  "name_en": "Rare Rare Disease Entity Type-3399",
+  "name_cn": "外胚层发育不良 227型",
+  "name_en": "Ectodermal Dysplasia Type 227",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA13399",
-  "overview": "Rare Rare Disease Entity Type-3399 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13399)。",
+  "icd_11": "LD20.399",
+  "orpha_code": "ORPHA103399",
+  "overview": "外胚层发育不良 227型 (Ectodermal Dysplasia Type 227) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103399。",
   "pipelines": []
 }

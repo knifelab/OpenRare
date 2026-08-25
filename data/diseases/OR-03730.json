@@ -1,10 +1,10 @@
 {
   "id": "OR-03730",
-  "name_cn": "未命名罕见病实体型-3730",
-  "name_en": "Rare Rare Disease Entity Type-3730",
+  "name_cn": "周期性瘫痪 249型",
+  "name_en": "Periodic Paralysis Type 249",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA13730",
-  "overview": "Rare Rare Disease Entity Type-3730 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13730)。",
+  "icd_11": "LD20.730",
+  "orpha_code": "ORPHA103730",
+  "overview": "周期性瘫痪 249型 (Periodic Paralysis Type 249) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103730。",
   "pipelines": []
 }

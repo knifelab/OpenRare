@@ -1,10 +1,10 @@
 {
   "id": "OR-06010",
-  "name_cn": "未命名罕见病实体型-6010",
-  "name_en": "Rare Rare Disease Entity Type-6010",
+  "name_cn": "周期性瘫痪 401型",
+  "name_en": "Periodic Paralysis Type 401",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA16010",
-  "overview": "Rare Rare Disease Entity Type-6010 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16010)。",
+  "icd_11": "LD20.010",
+  "orpha_code": "ORPHA106010",
+  "overview": "周期性瘫痪 401型 (Periodic Paralysis Type 401) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106010。",
   "pipelines": []
 }

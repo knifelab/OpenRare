@@ -1,10 +1,10 @@
 {
   "id": "OR-03260",
-  "name_cn": "未命名罕见病实体型-3260",
-  "name_en": "Rare Rare Disease Entity Type-3260",
+  "name_cn": "共济失调症 218型",
+  "name_en": "Ataxia Type 218",
   "aliases": [],
-  "icd_11": "LD20.60",
-  "orpha_code": "ORPHA13260",
-  "overview": "Rare Rare Disease Entity Type-3260 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13260)。",
+  "icd_11": "LD20.260",
+  "orpha_code": "ORPHA103260",
+  "overview": "共济失调症 218型 (Ataxia Type 218) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103260。",
   "pipelines": []
 }

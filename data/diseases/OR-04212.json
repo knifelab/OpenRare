@@ -1,10 +1,10 @@
 {
   "id": "OR-04212",
-  "name_cn": "未命名罕见病实体型-4212",
-  "name_en": "Rare Rare Disease Entity Type-4212",
+  "name_cn": "骨骼发育不良 281型",
+  "name_en": "Skeletal Dysplasia Type 281",
   "aliases": [],
-  "icd_11": "LD20.12",
-  "orpha_code": "ORPHA14212",
-  "overview": "Rare Rare Disease Entity Type-4212 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14212)。",
+  "icd_11": "LD20.212",
+  "orpha_code": "ORPHA104212",
+  "overview": "骨骼发育不良 281型 (Skeletal Dysplasia Type 281) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104212。",
   "pipelines": []
 }

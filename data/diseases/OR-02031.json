@@ -1,10 +1,10 @@
 {
   "id": "OR-02031",
-  "name_cn": "未命名罕见病实体型-2031",
-  "name_en": "Rare Rare Disease Entity Type-2031",
+  "name_cn": "脑病 136型",
+  "name_en": "Encephalopathy Type 136",
   "aliases": [],
-  "icd_11": "LD20.31",
-  "orpha_code": "ORPHA12031",
-  "overview": "Rare Rare Disease Entity Type-2031 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12031)。",
+  "icd_11": "LD20.031",
+  "orpha_code": "ORPHA102031",
+  "overview": "脑病 136型 (Encephalopathy Type 136) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102031。",
   "pipelines": []
 }

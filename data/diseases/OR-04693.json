@@ -1,10 +1,10 @@
 {
   "id": "OR-04693",
-  "name_cn": "未命名罕见病实体型-4693",
-  "name_en": "Rare Rare Disease Entity Type-4693",
+  "name_cn": "线粒体肌病 313型",
+  "name_en": "Mitochondrial Myopathy Type 313",
   "aliases": [],
-  "icd_11": "LD20.93",
-  "orpha_code": "ORPHA14693",
-  "overview": "Rare Rare Disease Entity Type-4693 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14693)。",
+  "icd_11": "LD20.693",
+  "orpha_code": "ORPHA104693",
+  "overview": "线粒体肌病 313型 (Mitochondrial Myopathy Type 313) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104693。",
   "pipelines": []
 }

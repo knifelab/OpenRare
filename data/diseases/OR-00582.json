@@ -1,10 +1,10 @@
 {
   "id": "OR-00582",
-  "name_cn": "未命名罕见病实体型-582",
-  "name_en": "Rare Rare Disease Entity Type-582",
+  "name_cn": "骨骼发育不良 39型",
+  "name_en": "Skeletal Dysplasia Type 39",
   "aliases": [],
-  "icd_11": "LD20.82",
-  "orpha_code": "ORPHA10582",
-  "overview": "Rare Rare Disease Entity Type-582 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10582)。",
+  "icd_11": "LD20.582",
+  "orpha_code": "ORPHA100582",
+  "overview": "骨骼发育不良 39型 (Skeletal Dysplasia Type 39) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100582。",
   "pipelines": []
 }

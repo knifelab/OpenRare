@@ -1,10 +1,10 @@
 {
   "id": "OR-05252",
-  "name_cn": "未命名罕见病实体型-5252",
-  "name_en": "Rare Rare Disease Entity Type-5252",
+  "name_cn": "溶酶体贮积症 351型",
+  "name_en": "Lysosomal Storage Disorder Type 351",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA15252",
-  "overview": "Rare Rare Disease Entity Type-5252 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15252)。",
+  "icd_11": "LD20.252",
+  "orpha_code": "ORPHA105252",
+  "overview": "溶酶体贮积症 351型 (Lysosomal Storage Disorder Type 351) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105252。",
   "pipelines": []
 }

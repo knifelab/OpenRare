@@ -1,10 +1,10 @@
 {
   "id": "OR-04999",
-  "name_cn": "未命名罕见病实体型-4999",
-  "name_en": "Rare Rare Disease Entity Type-4999",
+  "name_cn": "视网膜营养不良 334型",
+  "name_en": "Retinal Dystrophy Type 334",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA14999",
-  "overview": "Rare Rare Disease Entity Type-4999 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14999)。",
+  "icd_11": "LD20.999",
+  "orpha_code": "ORPHA104999",
+  "overview": "视网膜营养不良 334型 (Retinal Dystrophy Type 334) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104999。",
   "pipelines": []
 }

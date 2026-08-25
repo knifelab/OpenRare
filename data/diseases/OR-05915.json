@@ -1,10 +1,10 @@
 {
   "id": "OR-05915",
-  "name_cn": "未命名罕见病实体型-5915",
-  "name_en": "Rare Rare Disease Entity Type-5915",
+  "name_cn": "共济失调症 395型",
+  "name_en": "Ataxia Type 395",
   "aliases": [],
-  "icd_11": "LD20.15",
-  "orpha_code": "ORPHA15915",
-  "overview": "Rare Rare Disease Entity Type-5915 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15915)。",
+  "icd_11": "LD20.915",
+  "orpha_code": "ORPHA105915",
+  "overview": "共济失调症 395型 (Ataxia Type 395) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105915。",
   "pipelines": []
 }

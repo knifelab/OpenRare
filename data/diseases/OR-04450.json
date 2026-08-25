@@ -1,10 +1,10 @@
 {
   "id": "OR-04450",
-  "name_cn": "未命名罕见病实体型-4450",
-  "name_en": "Rare Rare Disease Entity Type-4450",
+  "name_cn": "周期性瘫痪 297型",
+  "name_en": "Periodic Paralysis Type 297",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA14450",
-  "overview": "Rare Rare Disease Entity Type-4450 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14450)。",
+  "icd_11": "LD20.450",
+  "orpha_code": "ORPHA104450",
+  "overview": "周期性瘫痪 297型 (Periodic Paralysis Type 297) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104450。",
   "pipelines": []
 }

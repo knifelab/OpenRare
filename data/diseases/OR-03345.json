@@ -1,10 +1,10 @@
 {
   "id": "OR-03345",
-  "name_cn": "未命名罕见病实体型-3345",
-  "name_en": "Rare Rare Disease Entity Type-3345",
+  "name_cn": "肌营养不良症 224型",
+  "name_en": "Muscular Dystrophy Type 224",
   "aliases": [],
-  "icd_11": "LD20.45",
-  "orpha_code": "ORPHA13345",
-  "overview": "Rare Rare Disease Entity Type-3345 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13345)。",
+  "icd_11": "LD20.345",
+  "orpha_code": "ORPHA103345",
+  "overview": "肌营养不良症 224型 (Muscular Dystrophy Type 224) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103345。",
   "pipelines": []
 }

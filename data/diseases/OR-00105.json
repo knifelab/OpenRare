@@ -1,10 +1,10 @@
 {
   "id": "OR-00105",
-  "name_cn": "未命名罕见病实体型-105",
-  "name_en": "Rare Rare Disease Entity Type-105",
+  "name_cn": "肌营养不良症 8型",
+  "name_en": "Muscular Dystrophy Type 8",
   "aliases": [],
-  "icd_11": "LD20.5",
-  "orpha_code": "ORPHA10105",
-  "overview": "Rare Rare Disease Entity Type-105 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10105)。",
+  "icd_11": "LD20.105",
+  "orpha_code": "ORPHA100105",
+  "overview": "肌营养不良症 8型 (Muscular Dystrophy Type 8) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100105。",
   "pipelines": []
 }

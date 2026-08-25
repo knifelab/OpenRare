@@ -1,10 +1,10 @@
 {
   "id": "OR-03009",
-  "name_cn": "未命名罕见病实体型-3009",
-  "name_en": "Rare Rare Disease Entity Type-3009",
+  "name_cn": "外胚层发育不良 201型",
+  "name_en": "Ectodermal Dysplasia Type 201",
   "aliases": [],
-  "icd_11": "LD20.9",
-  "orpha_code": "ORPHA13009",
-  "overview": "Rare Rare Disease Entity Type-3009 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13009)。",
+  "icd_11": "LD20.009",
+  "orpha_code": "ORPHA103009",
+  "overview": "外胚层发育不良 201型 (Ectodermal Dysplasia Type 201) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103009。",
   "pipelines": []
 }

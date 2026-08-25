@@ -1,10 +1,10 @@
 {
   "id": "OR-04417",
-  "name_cn": "未命名罕见病实体型-4417",
-  "name_en": "Rare Rare Disease Entity Type-4417",
+  "name_cn": "先天性糖基化异常 295型",
+  "name_en": "Congenital Disorder of Glycosylation Type 295",
   "aliases": [],
-  "icd_11": "LD20.17",
-  "orpha_code": "ORPHA14417",
-  "overview": "Rare Rare Disease Entity Type-4417 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14417)。",
+  "icd_11": "LD20.417",
+  "orpha_code": "ORPHA104417",
+  "overview": "先天性糖基化异常 295型 (Congenital Disorder of Glycosylation Type 295) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104417。",
   "pipelines": []
 }

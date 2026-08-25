@@ -1,10 +1,10 @@
 {
   "id": "OR-00057",
-  "name_cn": "未命名罕见病实体型-57",
-  "name_en": "Rare Rare Disease Entity Type-57",
+  "name_cn": "骨骼发育不良 4型",
+  "name_en": "Skeletal Dysplasia Type 4",
   "aliases": [],
-  "icd_11": "LD20.57",
-  "orpha_code": "ORPHA10057",
-  "overview": "Rare Rare Disease Entity Type-57 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10057)。",
+  "icd_11": "LD20.057",
+  "orpha_code": "ORPHA100057",
+  "overview": "骨骼发育不良 4型 (Skeletal Dysplasia Type 4) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100057。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00538",
-  "name_cn": "未命名罕见病实体型-538",
-  "name_en": "Rare Rare Disease Entity Type-538",
+  "name_cn": "线粒体肌病 36型",
+  "name_en": "Mitochondrial Myopathy Type 36",
   "aliases": [],
-  "icd_11": "LD20.38",
-  "orpha_code": "ORPHA10538",
-  "overview": "Rare Rare Disease Entity Type-538 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10538)。",
+  "icd_11": "LD20.538",
+  "orpha_code": "ORPHA100538",
+  "overview": "线粒体肌病 36型 (Mitochondrial Myopathy Type 36) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100538。",
   "pipelines": []
 }

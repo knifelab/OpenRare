@@ -1,10 +1,10 @@
 {
   "id": "OR-05366",
-  "name_cn": "未命名罕见病实体型-5366",
-  "name_en": "Rare Rare Disease Entity Type-5366",
+  "name_cn": "淀粉样变性 358型",
+  "name_en": "Amyloidosis Type 358",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA15366",
-  "overview": "Rare Rare Disease Entity Type-5366 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15366)。",
+  "icd_11": "LD20.366",
+  "orpha_code": "ORPHA105366",
+  "overview": "淀粉样变性 358型 (Amyloidosis Type 358) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105366。",
   "pipelines": []
 }

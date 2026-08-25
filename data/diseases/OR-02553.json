@@ -1,10 +1,10 @@
 {
   "id": "OR-02553",
-  "name_cn": "未命名罕见病实体型-2553",
-  "name_en": "Rare Rare Disease Entity Type-2553",
+  "name_cn": "脑白质营养不良 171型",
+  "name_en": "Leukodystrophy Type 171",
   "aliases": [],
-  "icd_11": "LD20.53",
-  "orpha_code": "ORPHA12553",
-  "overview": "Rare Rare Disease Entity Type-2553 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12553)。",
+  "icd_11": "LD20.553",
+  "orpha_code": "ORPHA102553",
+  "overview": "脑白质营养不良 171型 (Leukodystrophy Type 171) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102553。",
   "pipelines": []
 }

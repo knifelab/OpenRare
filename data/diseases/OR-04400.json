@@ -1,10 +1,10 @@
 {
   "id": "OR-04400",
-  "name_cn": "未命名罕见病实体型-4400",
-  "name_en": "Rare Rare Disease Entity Type-4400",
+  "name_cn": "共济失调症 294型",
+  "name_en": "Ataxia Type 294",
   "aliases": [],
-  "icd_11": "LD20.0",
-  "orpha_code": "ORPHA14400",
-  "overview": "Rare Rare Disease Entity Type-4400 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14400)。",
+  "icd_11": "LD20.400",
+  "orpha_code": "ORPHA104400",
+  "overview": "共济失调症 294型 (Ataxia Type 294) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104400。",
   "pipelines": []
 }

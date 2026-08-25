@@ -1,10 +1,10 @@
 {
   "id": "OR-04512",
-  "name_cn": "未命名罕见病实体型-4512",
-  "name_en": "Rare Rare Disease Entity Type-4512",
+  "name_cn": "骨骼发育不良 301型",
+  "name_en": "Skeletal Dysplasia Type 301",
   "aliases": [],
-  "icd_11": "LD20.12",
-  "orpha_code": "ORPHA14512",
-  "overview": "Rare Rare Disease Entity Type-4512 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14512)。",
+  "icd_11": "LD20.512",
+  "orpha_code": "ORPHA104512",
+  "overview": "骨骼发育不良 301型 (Skeletal Dysplasia Type 301) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104512。",
   "pipelines": []
 }

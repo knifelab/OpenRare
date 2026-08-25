@@ -1,10 +1,10 @@
 {
   "id": "OR-03246",
-  "name_cn": "未命名罕见病实体型-3246",
-  "name_en": "Rare Rare Disease Entity Type-3246",
+  "name_cn": "脑病 217型",
+  "name_en": "Encephalopathy Type 217",
   "aliases": [],
-  "icd_11": "LD20.46",
-  "orpha_code": "ORPHA13246",
-  "overview": "Rare Rare Disease Entity Type-3246 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13246)。",
+  "icd_11": "LD20.246",
+  "orpha_code": "ORPHA103246",
+  "overview": "脑病 217型 (Encephalopathy Type 217) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103246。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-01357",
-  "name_cn": "未命名罕见病实体型-1357",
-  "name_en": "Rare Rare Disease Entity Type-1357",
+  "name_cn": "先天性糖基化异常 91型",
+  "name_en": "Congenital Disorder of Glycosylation Type 91",
   "aliases": [],
-  "icd_11": "LD20.57",
-  "orpha_code": "ORPHA11357",
-  "overview": "Rare Rare Disease Entity Type-1357 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11357)。",
+  "icd_11": "LD20.357",
+  "orpha_code": "ORPHA101357",
+  "overview": "先天性糖基化异常 91型 (Congenital Disorder of Glycosylation Type 91) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101357。",
   "pipelines": []
 }

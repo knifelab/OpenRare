@@ -1,10 +1,10 @@
 {
   "id": "OR-06670",
-  "name_cn": "未命名罕见病实体型-6670",
-  "name_en": "Rare Rare Disease Entity Type-6670",
+  "name_cn": "周期性瘫痪 445型",
+  "name_en": "Periodic Paralysis Type 445",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA16670",
-  "overview": "Rare Rare Disease Entity Type-6670 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16670)。",
+  "icd_11": "LD20.670",
+  "orpha_code": "ORPHA106670",
+  "overview": "周期性瘫痪 445型 (Periodic Paralysis Type 445) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106670。",
   "pipelines": []
 }

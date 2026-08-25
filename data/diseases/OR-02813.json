@@ -1,10 +1,10 @@
 {
   "id": "OR-02813",
-  "name_cn": "未命名罕见病实体型-2813",
-  "name_en": "Rare Rare Disease Entity Type-2813",
+  "name_cn": "原发性免疫缺陷病 188型",
+  "name_en": "Primary Immunodeficiency Type 188",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA12813",
-  "overview": "Rare Rare Disease Entity Type-2813 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12813)。",
+  "icd_11": "LD20.813",
+  "orpha_code": "ORPHA102813",
+  "overview": "原发性免疫缺陷病 188型 (Primary Immunodeficiency Type 188) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102813。",
   "pipelines": []
 }

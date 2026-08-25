@@ -1,10 +1,10 @@
 {
   "id": "OR-05826",
-  "name_cn": "未命名罕见病实体型-5826",
-  "name_en": "Rare Rare Disease Entity Type-5826",
+  "name_cn": "脑病 389型",
+  "name_en": "Encephalopathy Type 389",
   "aliases": [],
-  "icd_11": "LD20.26",
-  "orpha_code": "ORPHA15826",
-  "overview": "Rare Rare Disease Entity Type-5826 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15826)。",
+  "icd_11": "LD20.826",
+  "orpha_code": "ORPHA105826",
+  "overview": "脑病 389型 (Encephalopathy Type 389) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105826。",
   "pipelines": []
 }

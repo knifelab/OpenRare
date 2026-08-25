@@ -1,10 +1,10 @@
 {
   "id": "OR-05965",
-  "name_cn": "未命名罕见病实体型-5965",
-  "name_en": "Rare Rare Disease Entity Type-5965",
+  "name_cn": "周期性瘫痪 398型",
+  "name_en": "Periodic Paralysis Type 398",
   "aliases": [],
-  "icd_11": "LD20.65",
-  "orpha_code": "ORPHA15965",
-  "overview": "Rare Rare Disease Entity Type-5965 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15965)。",
+  "icd_11": "LD20.965",
+  "orpha_code": "ORPHA105965",
+  "overview": "周期性瘫痪 398型 (Periodic Paralysis Type 398) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105965。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03521",
-  "name_cn": "未命名罕见病实体型-3521",
-  "name_en": "Rare Rare Disease Entity Type-3521",
+  "name_cn": "淀粉样变性 235型",
+  "name_en": "Amyloidosis Type 235",
   "aliases": [],
-  "icd_11": "LD20.21",
-  "orpha_code": "ORPHA13521",
-  "overview": "Rare Rare Disease Entity Type-3521 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13521)。",
+  "icd_11": "LD20.521",
+  "orpha_code": "ORPHA103521",
+  "overview": "淀粉样变性 235型 (Amyloidosis Type 235) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103521。",
   "pipelines": []
 }

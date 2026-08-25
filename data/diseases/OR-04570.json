@@ -1,10 +1,10 @@
 {
   "id": "OR-04570",
-  "name_cn": "未命名罕见病实体型-4570",
-  "name_en": "Rare Rare Disease Entity Type-4570",
+  "name_cn": "周期性瘫痪 305型",
+  "name_en": "Periodic Paralysis Type 305",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA14570",
-  "overview": "Rare Rare Disease Entity Type-4570 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14570)。",
+  "icd_11": "LD20.570",
+  "orpha_code": "ORPHA104570",
+  "overview": "周期性瘫痪 305型 (Periodic Paralysis Type 305) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104570。",
   "pipelines": []
 }

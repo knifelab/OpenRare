@@ -1,10 +1,10 @@
 {
   "id": "OR-00122",
-  "name_cn": "未命名罕见病实体型-122",
-  "name_en": "Rare Rare Disease Entity Type-122",
+  "name_cn": "溶酶体贮积症 9型",
+  "name_en": "Lysosomal Storage Disorder Type 9",
   "aliases": [],
-  "icd_11": "LD20.22",
-  "orpha_code": "ORPHA10122",
-  "overview": "Rare Rare Disease Entity Type-122 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10122)。",
+  "icd_11": "LD20.122",
+  "orpha_code": "ORPHA100122",
+  "overview": "溶酶体贮积症 9型 (Lysosomal Storage Disorder Type 9) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100122。",
   "pipelines": []
 }

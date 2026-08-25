@@ -1,10 +1,10 @@
 {
   "id": "OR-02587",
-  "name_cn": "未命名罕见病实体型-2587",
-  "name_en": "Rare Rare Disease Entity Type-2587",
+  "name_cn": "先天性糖基化异常 173型",
+  "name_en": "Congenital Disorder of Glycosylation Type 173",
   "aliases": [],
-  "icd_11": "LD20.87",
-  "orpha_code": "ORPHA12587",
-  "overview": "Rare Rare Disease Entity Type-2587 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12587)。",
+  "icd_11": "LD20.587",
+  "orpha_code": "ORPHA102587",
+  "overview": "先天性糖基化异常 173型 (Congenital Disorder of Glycosylation Type 173) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102587。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-06148",
-  "name_cn": "未命名罕见病实体型-6148",
-  "name_en": "Rare Rare Disease Entity Type-6148",
+  "name_cn": "线粒体肌病 410型",
+  "name_en": "Mitochondrial Myopathy Type 410",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA16148",
-  "overview": "Rare Rare Disease Entity Type-6148 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16148)。",
+  "icd_11": "LD20.148",
+  "orpha_code": "ORPHA106148",
+  "overview": "线粒体肌病 410型 (Mitochondrial Myopathy Type 410) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106148。",
   "pipelines": []
 }

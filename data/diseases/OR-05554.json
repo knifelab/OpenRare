@@ -1,10 +1,10 @@
 {
   "id": "OR-05554",
-  "name_cn": "未命名罕见病实体型-5554",
-  "name_en": "Rare Rare Disease Entity Type-5554",
+  "name_cn": "视网膜营养不良 371型",
+  "name_en": "Retinal Dystrophy Type 371",
   "aliases": [],
-  "icd_11": "LD20.54",
-  "orpha_code": "ORPHA15554",
-  "overview": "Rare Rare Disease Entity Type-5554 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15554)。",
+  "icd_11": "LD20.554",
+  "orpha_code": "ORPHA105554",
+  "overview": "视网膜营养不良 371型 (Retinal Dystrophy Type 371) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105554。",
   "pipelines": []
 }

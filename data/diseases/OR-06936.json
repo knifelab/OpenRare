@@ -1,10 +1,10 @@
 {
   "id": "OR-06936",
-  "name_cn": "未命名罕见病实体型-6936",
-  "name_en": "Rare Rare Disease Entity Type-6936",
+  "name_cn": "脑病 463型",
+  "name_en": "Encephalopathy Type 463",
   "aliases": [],
-  "icd_11": "LD20.36",
-  "orpha_code": "ORPHA16936",
-  "overview": "Rare Rare Disease Entity Type-6936 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16936)。",
+  "icd_11": "LD20.936",
+  "orpha_code": "ORPHA106936",
+  "overview": "脑病 463型 (Encephalopathy Type 463) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106936。",
   "pipelines": []
 }

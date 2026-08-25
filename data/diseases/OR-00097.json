@@ -1,10 +1,10 @@
 {
   "id": "OR-00097",
-  "name_cn": "未命名罕见病实体型-97",
-  "name_en": "Rare Rare Disease Entity Type-97",
+  "name_cn": "先天性糖基化异常 7型",
+  "name_en": "Congenital Disorder of Glycosylation Type 7",
   "aliases": [],
-  "icd_11": "LD20.97",
-  "orpha_code": "ORPHA10097",
-  "overview": "Rare Rare Disease Entity Type-97 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10097)。",
+  "icd_11": "LD20.097",
+  "orpha_code": "ORPHA100097",
+  "overview": "先天性糖基化异常 7型 (Congenital Disorder of Glycosylation Type 7) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100097。",
   "pipelines": []
 }

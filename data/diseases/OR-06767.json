@@ -1,10 +1,10 @@
 {
   "id": "OR-06767",
-  "name_cn": "未命名罕见病实体型-6767",
-  "name_en": "Rare Rare Disease Entity Type-6767",
+  "name_cn": "溶酶体贮积症 452型",
+  "name_en": "Lysosomal Storage Disorder Type 452",
   "aliases": [],
-  "icd_11": "LD20.67",
-  "orpha_code": "ORPHA16767",
-  "overview": "Rare Rare Disease Entity Type-6767 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16767)。",
+  "icd_11": "LD20.767",
+  "orpha_code": "ORPHA106767",
+  "overview": "溶酶体贮积症 452型 (Lysosomal Storage Disorder Type 452) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106767。",
   "pipelines": []
 }

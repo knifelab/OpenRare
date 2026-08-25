@@ -1,10 +1,10 @@
 {
   "id": "OR-06109",
-  "name_cn": "未命名罕见病实体型-6109",
-  "name_en": "Rare Rare Disease Entity Type-6109",
+  "name_cn": "视网膜营养不良 408型",
+  "name_en": "Retinal Dystrophy Type 408",
   "aliases": [],
-  "icd_11": "LD20.9",
-  "orpha_code": "ORPHA16109",
-  "overview": "Rare Rare Disease Entity Type-6109 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16109)。",
+  "icd_11": "LD20.109",
+  "orpha_code": "ORPHA106109",
+  "overview": "视网膜营养不良 408型 (Retinal Dystrophy Type 408) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106109。",
   "pipelines": []
 }

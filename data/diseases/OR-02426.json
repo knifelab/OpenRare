@@ -1,10 +1,10 @@
 {
   "id": "OR-02426",
-  "name_cn": "未命名罕见病实体型-2426",
-  "name_en": "Rare Rare Disease Entity Type-2426",
+  "name_cn": "淀粉样变性 162型",
+  "name_en": "Amyloidosis Type 162",
   "aliases": [],
-  "icd_11": "LD20.26",
-  "orpha_code": "ORPHA12426",
-  "overview": "Rare Rare Disease Entity Type-2426 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12426)。",
+  "icd_11": "LD20.426",
+  "orpha_code": "ORPHA102426",
+  "overview": "淀粉样变性 162型 (Amyloidosis Type 162) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102426。",
   "pipelines": []
 }

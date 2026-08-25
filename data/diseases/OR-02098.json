@@ -1,10 +1,10 @@
 {
   "id": "OR-02098",
-  "name_cn": "未命名罕见病实体型-2098",
-  "name_en": "Rare Rare Disease Entity Type-2098",
+  "name_cn": "线粒体肌病 140型",
+  "name_en": "Mitochondrial Myopathy Type 140",
   "aliases": [],
-  "icd_11": "LD20.98",
-  "orpha_code": "ORPHA12098",
-  "overview": "Rare Rare Disease Entity Type-2098 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12098)。",
+  "icd_11": "LD20.098",
+  "orpha_code": "ORPHA102098",
+  "overview": "线粒体肌病 140型 (Mitochondrial Myopathy Type 140) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102098。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02990",
-  "name_cn": "未命名罕见病实体型-2990",
-  "name_en": "Rare Rare Disease Entity Type-2990",
+  "name_cn": "共济失调症 200型",
+  "name_en": "Ataxia Type 200",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA12990",
-  "overview": "Rare Rare Disease Entity Type-2990 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12990)。",
+  "icd_11": "LD20.990",
+  "orpha_code": "ORPHA102990",
+  "overview": "共济失调症 200型 (Ataxia Type 200) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102990。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02251",
-  "name_cn": "未命名罕见病实体型-2251",
-  "name_en": "Rare Rare Disease Entity Type-2251",
+  "name_cn": "脊髓性肌萎缩症 151型",
+  "name_en": "Spinal Muscular Atrophy Type 151",
   "aliases": [],
-  "icd_11": "LD20.51",
-  "orpha_code": "ORPHA12251",
-  "overview": "Rare Rare Disease Entity Type-2251 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12251)。",
+  "icd_11": "LD20.251",
+  "orpha_code": "ORPHA102251",
+  "overview": "脊髓性肌萎缩症 151型 (Spinal Muscular Atrophy Type 151) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102251。",
   "pipelines": []
 }

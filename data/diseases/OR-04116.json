@@ -1,10 +1,10 @@
 {
   "id": "OR-04116",
-  "name_cn": "未命名罕见病实体型-4116",
-  "name_en": "Rare Rare Disease Entity Type-4116",
+  "name_cn": "脑病 275型",
+  "name_en": "Encephalopathy Type 275",
   "aliases": [],
-  "icd_11": "LD20.16",
-  "orpha_code": "ORPHA14116",
-  "overview": "Rare Rare Disease Entity Type-4116 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14116)。",
+  "icd_11": "LD20.116",
+  "orpha_code": "ORPHA104116",
+  "overview": "脑病 275型 (Encephalopathy Type 275) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104116。",
   "pipelines": []
 }

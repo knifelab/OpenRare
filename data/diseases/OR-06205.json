@@ -1,10 +1,10 @@
 {
   "id": "OR-06205",
-  "name_cn": "未命名罕见病实体型-6205",
-  "name_en": "Rare Rare Disease Entity Type-6205",
+  "name_cn": "周期性瘫痪 414型",
+  "name_en": "Periodic Paralysis Type 414",
   "aliases": [],
-  "icd_11": "LD20.5",
-  "orpha_code": "ORPHA16205",
-  "overview": "Rare Rare Disease Entity Type-6205 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16205)。",
+  "icd_11": "LD20.205",
+  "orpha_code": "ORPHA106205",
+  "overview": "周期性瘫痪 414型 (Periodic Paralysis Type 414) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106205。",
   "pipelines": []
 }

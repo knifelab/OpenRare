@@ -1,10 +1,10 @@
 {
   "id": "OR-04384",
-  "name_cn": "未命名罕见病实体型-4384",
-  "name_en": "Rare Rare Disease Entity Type-4384",
+  "name_cn": "视网膜营养不良 293型",
+  "name_en": "Retinal Dystrophy Type 293",
   "aliases": [],
-  "icd_11": "LD20.84",
-  "orpha_code": "ORPHA14384",
-  "overview": "Rare Rare Disease Entity Type-4384 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14384)。",
+  "icd_11": "LD20.384",
+  "orpha_code": "ORPHA104384",
+  "overview": "视网膜营养不良 293型 (Retinal Dystrophy Type 293) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104384。",
   "pipelines": []
 }

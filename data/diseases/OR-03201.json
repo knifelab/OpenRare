@@ -1,10 +1,10 @@
 {
   "id": "OR-03201",
-  "name_cn": "未命名罕见病实体型-3201",
-  "name_en": "Rare Rare Disease Entity Type-3201",
+  "name_cn": "脑病 214型",
+  "name_en": "Encephalopathy Type 214",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA13201",
-  "overview": "Rare Rare Disease Entity Type-3201 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13201)。",
+  "icd_11": "LD20.201",
+  "orpha_code": "ORPHA103201",
+  "overview": "脑病 214型 (Encephalopathy Type 214) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103201。",
   "pipelines": []
 }

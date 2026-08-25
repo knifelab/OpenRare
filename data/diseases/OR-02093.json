@@ -1,10 +1,10 @@
 {
   "id": "OR-02093",
-  "name_cn": "未命名罕见病实体型-2093",
-  "name_en": "Rare Rare Disease Entity Type-2093",
+  "name_cn": "原发性免疫缺陷病 140型",
+  "name_en": "Primary Immunodeficiency Type 140",
   "aliases": [],
-  "icd_11": "LD20.93",
-  "orpha_code": "ORPHA12093",
-  "overview": "Rare Rare Disease Entity Type-2093 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12093)。",
+  "icd_11": "LD20.093",
+  "orpha_code": "ORPHA102093",
+  "overview": "原发性免疫缺陷病 140型 (Primary Immunodeficiency Type 140) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102093。",
   "pipelines": []
 }

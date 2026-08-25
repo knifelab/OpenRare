@@ -1,10 +1,10 @@
 {
   "id": "OR-05466",
-  "name_cn": "未命名罕见病实体型-5466",
-  "name_en": "Rare Rare Disease Entity Type-5466",
+  "name_cn": "脑病 365型",
+  "name_en": "Encephalopathy Type 365",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA15466",
-  "overview": "Rare Rare Disease Entity Type-5466 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15466)。",
+  "icd_11": "LD20.466",
+  "orpha_code": "ORPHA105466",
+  "overview": "脑病 365型 (Encephalopathy Type 365) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105466。",
   "pipelines": []
 }

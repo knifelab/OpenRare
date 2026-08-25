@@ -1,10 +1,10 @@
 {
   "id": "OR-04877",
-  "name_cn": "未命名罕见病实体型-4877",
-  "name_en": "Rare Rare Disease Entity Type-4877",
+  "name_cn": "溶酶体贮积症 326型",
+  "name_en": "Lysosomal Storage Disorder Type 326",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA14877",
-  "overview": "Rare Rare Disease Entity Type-4877 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14877)。",
+  "icd_11": "LD20.877",
+  "orpha_code": "ORPHA104877",
+  "overview": "溶酶体贮积症 326型 (Lysosomal Storage Disorder Type 326) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104877。",
   "pipelines": []
 }

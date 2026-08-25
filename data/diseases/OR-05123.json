@@ -1,10 +1,10 @@
 {
   "id": "OR-05123",
-  "name_cn": "未命名罕见病实体型-5123",
-  "name_en": "Rare Rare Disease Entity Type-5123",
+  "name_cn": "原发性免疫缺陷病 342型",
+  "name_en": "Primary Immunodeficiency Type 342",
   "aliases": [],
-  "icd_11": "LD20.23",
-  "orpha_code": "ORPHA15123",
-  "overview": "Rare Rare Disease Entity Type-5123 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15123)。",
+  "icd_11": "LD20.123",
+  "orpha_code": "ORPHA105123",
+  "overview": "原发性免疫缺陷病 342型 (Primary Immunodeficiency Type 342) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105123。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03312",
-  "name_cn": "未命名罕见病实体型-3312",
-  "name_en": "Rare Rare Disease Entity Type-3312",
+  "name_cn": "骨骼发育不良 221型",
+  "name_en": "Skeletal Dysplasia Type 221",
   "aliases": [],
-  "icd_11": "LD20.12",
-  "orpha_code": "ORPHA13312",
-  "overview": "Rare Rare Disease Entity Type-3312 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13312)。",
+  "icd_11": "LD20.312",
+  "orpha_code": "ORPHA103312",
+  "overview": "骨骼发育不良 221型 (Skeletal Dysplasia Type 221) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103312。",
   "pipelines": []
 }

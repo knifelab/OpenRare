@@ -1,10 +1,10 @@
 {
   "id": "OR-06584",
-  "name_cn": "未命名罕见病实体型-6584",
-  "name_en": "Rare Rare Disease Entity Type-6584",
+  "name_cn": "动脉性肺动脉高压 439型",
+  "name_en": "Pulmonary Arterial Hypertension Type 439",
   "aliases": [],
-  "icd_11": "LD20.84",
-  "orpha_code": "ORPHA16584",
-  "overview": "Rare Rare Disease Entity Type-6584 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16584)。",
+  "icd_11": "LD20.584",
+  "orpha_code": "ORPHA106584",
+  "overview": "动脉性肺动脉高压 439型 (Pulmonary Arterial Hypertension Type 439) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106584。",
   "pipelines": []
 }

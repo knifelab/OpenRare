@@ -1,10 +1,10 @@
 {
   "id": "OR-00917",
-  "name_cn": "未命名罕见病实体型-917",
-  "name_en": "Rare Rare Disease Entity Type-917",
+  "name_cn": "溶酶体贮积症 62型",
+  "name_en": "Lysosomal Storage Disorder Type 62",
   "aliases": [],
-  "icd_11": "LD20.17",
-  "orpha_code": "ORPHA10917",
-  "overview": "Rare Rare Disease Entity Type-917 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10917)。",
+  "icd_11": "LD20.917",
+  "orpha_code": "ORPHA100917",
+  "overview": "溶酶体贮积症 62型 (Lysosomal Storage Disorder Type 62) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100917。",
   "pipelines": []
 }

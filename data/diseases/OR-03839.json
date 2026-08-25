@@ -1,10 +1,10 @@
 {
   "id": "OR-03839",
-  "name_cn": "未命名罕见病实体型-3839",
-  "name_en": "Rare Rare Disease Entity Type-3839",
+  "name_cn": "动脉性肺动脉高压 256型",
+  "name_en": "Pulmonary Arterial Hypertension Type 256",
   "aliases": [],
-  "icd_11": "LD20.39",
-  "orpha_code": "ORPHA13839",
-  "overview": "Rare Rare Disease Entity Type-3839 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13839)。",
+  "icd_11": "LD20.839",
+  "orpha_code": "ORPHA103839",
+  "overview": "动脉性肺动脉高压 256型 (Pulmonary Arterial Hypertension Type 256) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103839。",
   "pipelines": []
 }

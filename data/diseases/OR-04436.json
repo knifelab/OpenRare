@@ -1,10 +1,10 @@
 {
   "id": "OR-04436",
-  "name_cn": "未命名罕见病实体型-4436",
-  "name_en": "Rare Rare Disease Entity Type-4436",
+  "name_cn": "淀粉样变性 296型",
+  "name_en": "Amyloidosis Type 296",
   "aliases": [],
-  "icd_11": "LD20.36",
-  "orpha_code": "ORPHA14436",
-  "overview": "Rare Rare Disease Entity Type-4436 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14436)。",
+  "icd_11": "LD20.436",
+  "orpha_code": "ORPHA104436",
+  "overview": "淀粉样变性 296型 (Amyloidosis Type 296) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104436。",
   "pipelines": []
 }

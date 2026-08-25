@@ -1,10 +1,10 @@
 {
   "id": "OR-04710",
-  "name_cn": "未命名罕见病实体型-4710",
-  "name_en": "Rare Rare Disease Entity Type-4710",
+  "name_cn": "肌营养不良症 315型",
+  "name_en": "Muscular Dystrophy Type 315",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA14710",
-  "overview": "Rare Rare Disease Entity Type-4710 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14710)。",
+  "icd_11": "LD20.710",
+  "orpha_code": "ORPHA104710",
+  "overview": "肌营养不良症 315型 (Muscular Dystrophy Type 315) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104710。",
   "pipelines": []
 }

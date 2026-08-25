@@ -1,10 +1,10 @@
 {
   "id": "OR-05922",
-  "name_cn": "未命名罕见病实体型-5922",
-  "name_en": "Rare Rare Disease Entity Type-5922",
+  "name_cn": "骨骼发育不良 395型",
+  "name_en": "Skeletal Dysplasia Type 395",
   "aliases": [],
-  "icd_11": "LD20.22",
-  "orpha_code": "ORPHA15922",
-  "overview": "Rare Rare Disease Entity Type-5922 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15922)。",
+  "icd_11": "LD20.922",
+  "orpha_code": "ORPHA105922",
+  "overview": "骨骼发育不良 395型 (Skeletal Dysplasia Type 395) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105922。",
   "pipelines": []
 }

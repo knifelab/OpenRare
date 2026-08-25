@@ -1,10 +1,10 @@
 {
   "id": "OR-03571",
-  "name_cn": "未命名罕见病实体型-3571",
-  "name_en": "Rare Rare Disease Entity Type-3571",
+  "name_cn": "脊髓性肌萎缩症 239型",
+  "name_en": "Spinal Muscular Atrophy Type 239",
   "aliases": [],
-  "icd_11": "LD20.71",
-  "orpha_code": "ORPHA13571",
-  "overview": "Rare Rare Disease Entity Type-3571 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13571)。",
+  "icd_11": "LD20.571",
+  "orpha_code": "ORPHA103571",
+  "overview": "脊髓性肌萎缩症 239型 (Spinal Muscular Atrophy Type 239) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103571。",
   "pipelines": []
 }

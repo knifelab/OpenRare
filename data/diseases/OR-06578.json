@@ -1,10 +1,10 @@
 {
   "id": "OR-06578",
-  "name_cn": "未命名罕见病实体型-6578",
-  "name_en": "Rare Rare Disease Entity Type-6578",
+  "name_cn": "原发性免疫缺陷病 439型",
+  "name_en": "Primary Immunodeficiency Type 439",
   "aliases": [],
-  "icd_11": "LD20.78",
-  "orpha_code": "ORPHA16578",
-  "overview": "Rare Rare Disease Entity Type-6578 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16578)。",
+  "icd_11": "LD20.578",
+  "orpha_code": "ORPHA106578",
+  "overview": "原发性免疫缺陷病 439型 (Primary Immunodeficiency Type 439) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106578。",
   "pipelines": []
 }

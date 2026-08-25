@@ -1,10 +1,10 @@
 {
   "id": "OR-01303",
-  "name_cn": "未命名罕见病实体型-1303",
-  "name_en": "Rare Rare Disease Entity Type-1303",
+  "name_cn": "线粒体肌病 87型",
+  "name_en": "Mitochondrial Myopathy Type 87",
   "aliases": [],
-  "icd_11": "LD20.3",
-  "orpha_code": "ORPHA11303",
-  "overview": "Rare Rare Disease Entity Type-1303 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11303)。",
+  "icd_11": "LD20.303",
+  "orpha_code": "ORPHA101303",
+  "overview": "线粒体肌病 87型 (Mitochondrial Myopathy Type 87) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101303。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03226",
-  "name_cn": "未命名罕见病实体型-3226",
-  "name_en": "Rare Rare Disease Entity Type-3226",
+  "name_cn": "脊髓性肌萎缩症 216型",
+  "name_en": "Spinal Muscular Atrophy Type 216",
   "aliases": [],
-  "icd_11": "LD20.26",
-  "orpha_code": "ORPHA13226",
-  "overview": "Rare Rare Disease Entity Type-3226 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13226)。",
+  "icd_11": "LD20.226",
+  "orpha_code": "ORPHA103226",
+  "overview": "脊髓性肌萎缩症 216型 (Spinal Muscular Atrophy Type 216) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103226。",
   "pipelines": []
 }

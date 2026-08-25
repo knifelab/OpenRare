@@ -1,10 +1,10 @@
 {
   "id": "OR-02666",
-  "name_cn": "未命名罕见病实体型-2666",
-  "name_en": "Rare Rare Disease Entity Type-2666",
+  "name_cn": "淀粉样变性 178型",
+  "name_en": "Amyloidosis Type 178",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA12666",
-  "overview": "Rare Rare Disease Entity Type-2666 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12666)。",
+  "icd_11": "LD20.666",
+  "orpha_code": "ORPHA102666",
+  "overview": "淀粉样变性 178型 (Amyloidosis Type 178) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102666。",
   "pipelines": []
 }

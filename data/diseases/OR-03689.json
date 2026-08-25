@@ -1,10 +1,10 @@
 {
   "id": "OR-03689",
-  "name_cn": "未命名罕见病实体型-3689",
-  "name_en": "Rare Rare Disease Entity Type-3689",
+  "name_cn": "动脉性肺动脉高压 246型",
+  "name_en": "Pulmonary Arterial Hypertension Type 246",
   "aliases": [],
-  "icd_11": "LD20.89",
-  "orpha_code": "ORPHA13689",
-  "overview": "Rare Rare Disease Entity Type-3689 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13689)。",
+  "icd_11": "LD20.689",
+  "orpha_code": "ORPHA103689",
+  "overview": "动脉性肺动脉高压 246型 (Pulmonary Arterial Hypertension Type 246) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103689。",
   "pipelines": []
 }

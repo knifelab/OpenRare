@@ -1,10 +1,10 @@
 {
   "id": "OR-03627",
-  "name_cn": "未命名罕见病实体型-3627",
-  "name_en": "Rare Rare Disease Entity Type-3627",
+  "name_cn": "骨骼发育不良 242型",
+  "name_en": "Skeletal Dysplasia Type 242",
   "aliases": [],
-  "icd_11": "LD20.27",
-  "orpha_code": "ORPHA13627",
-  "overview": "Rare Rare Disease Entity Type-3627 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13627)。",
+  "icd_11": "LD20.627",
+  "orpha_code": "ORPHA103627",
+  "overview": "骨骼发育不良 242型 (Skeletal Dysplasia Type 242) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103627。",
   "pipelines": []
 }

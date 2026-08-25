@@ -1,10 +1,10 @@
 {
   "id": "OR-06636",
-  "name_cn": "未命名罕见病实体型-6636",
-  "name_en": "Rare Rare Disease Entity Type-6636",
+  "name_cn": "脑病 443型",
+  "name_en": "Encephalopathy Type 443",
   "aliases": [],
-  "icd_11": "LD20.36",
-  "orpha_code": "ORPHA16636",
-  "overview": "Rare Rare Disease Entity Type-6636 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16636)。",
+  "icd_11": "LD20.636",
+  "orpha_code": "ORPHA106636",
+  "overview": "脑病 443型 (Encephalopathy Type 443) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106636。",
   "pipelines": []
 }

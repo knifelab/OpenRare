@@ -1,10 +1,10 @@
 {
   "id": "OR-02147",
-  "name_cn": "未命名罕见病实体型-2147",
-  "name_en": "Rare Rare Disease Entity Type-2147",
+  "name_cn": "溶酶体贮积症 144型",
+  "name_en": "Lysosomal Storage Disorder Type 144",
   "aliases": [],
-  "icd_11": "LD20.47",
-  "orpha_code": "ORPHA12147",
-  "overview": "Rare Rare Disease Entity Type-2147 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12147)。",
+  "icd_11": "LD20.147",
+  "orpha_code": "ORPHA102147",
+  "overview": "溶酶体贮积症 144型 (Lysosomal Storage Disorder Type 144) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102147。",
   "pipelines": []
 }

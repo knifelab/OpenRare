@@ -1,10 +1,10 @@
 {
   "id": "OR-02470",
-  "name_cn": "未命名罕见病实体型-2470",
-  "name_en": "Rare Rare Disease Entity Type-2470",
+  "name_cn": "周期性瘫痪 165型",
+  "name_en": "Periodic Paralysis Type 165",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA12470",
-  "overview": "Rare Rare Disease Entity Type-2470 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12470)。",
+  "icd_11": "LD20.470",
+  "orpha_code": "ORPHA102470",
+  "overview": "周期性瘫痪 165型 (Periodic Paralysis Type 165) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102470。",
   "pipelines": []
 }

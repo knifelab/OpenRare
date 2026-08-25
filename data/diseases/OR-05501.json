@@ -1,10 +1,10 @@
 {
   "id": "OR-05501",
-  "name_cn": "未命名罕见病实体型-5501",
-  "name_en": "Rare Rare Disease Entity Type-5501",
+  "name_cn": "淀粉样变性 367型",
+  "name_en": "Amyloidosis Type 367",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA15501",
-  "overview": "Rare Rare Disease Entity Type-5501 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15501)。",
+  "icd_11": "LD20.501",
+  "orpha_code": "ORPHA105501",
+  "overview": "淀粉样变性 367型 (Amyloidosis Type 367) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105501。",
   "pipelines": []
 }

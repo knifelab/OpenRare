@@ -1,10 +1,10 @@
 {
   "id": "OR-06694",
-  "name_cn": "未命名罕见病实体型-6694",
-  "name_en": "Rare Rare Disease Entity Type-6694",
+  "name_cn": "视网膜营养不良 447型",
+  "name_en": "Retinal Dystrophy Type 447",
   "aliases": [],
-  "icd_11": "LD20.94",
-  "orpha_code": "ORPHA16694",
-  "overview": "Rare Rare Disease Entity Type-6694 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16694)。",
+  "icd_11": "LD20.694",
+  "orpha_code": "ORPHA106694",
+  "overview": "视网膜营养不良 447型 (Retinal Dystrophy Type 447) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106694。",
   "pipelines": []
 }

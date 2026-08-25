@@ -1,10 +1,10 @@
 {
   "id": "OR-02181",
-  "name_cn": "未命名罕见病实体型-2181",
-  "name_en": "Rare Rare Disease Entity Type-2181",
+  "name_cn": "脑病 146型",
+  "name_en": "Encephalopathy Type 146",
   "aliases": [],
-  "icd_11": "LD20.81",
-  "orpha_code": "ORPHA12181",
-  "overview": "Rare Rare Disease Entity Type-2181 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12181)。",
+  "icd_11": "LD20.181",
+  "orpha_code": "ORPHA102181",
+  "overview": "脑病 146型 (Encephalopathy Type 146) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102181。",
   "pipelines": []
 }

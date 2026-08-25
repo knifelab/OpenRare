@@ -1,10 +1,10 @@
 {
   "id": "OR-00888",
-  "name_cn": "未命名罕见病实体型-888",
-  "name_en": "Rare Rare Disease Entity Type-888",
+  "name_cn": "脑白质营养不良 60型",
+  "name_en": "Leukodystrophy Type 60",
   "aliases": [],
-  "icd_11": "LD20.88",
-  "orpha_code": "ORPHA10888",
-  "overview": "Rare Rare Disease Entity Type-888 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10888)。",
+  "icd_11": "LD20.888",
+  "orpha_code": "ORPHA100888",
+  "overview": "脑白质营养不良 60型 (Leukodystrophy Type 60) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100888。",
   "pipelines": []
 }

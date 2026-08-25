@@ -1,10 +1,10 @@
 {
   "id": "OR-03424",
-  "name_cn": "未命名罕见病实体型-3424",
-  "name_en": "Rare Rare Disease Entity Type-3424",
+  "name_cn": "视网膜营养不良 229型",
+  "name_en": "Retinal Dystrophy Type 229",
   "aliases": [],
-  "icd_11": "LD20.24",
-  "orpha_code": "ORPHA13424",
-  "overview": "Rare Rare Disease Entity Type-3424 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13424)。",
+  "icd_11": "LD20.424",
+  "orpha_code": "ORPHA103424",
+  "overview": "视网膜营养不良 229型 (Retinal Dystrophy Type 229) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103424。",
   "pipelines": []
 }

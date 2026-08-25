@@ -1,10 +1,10 @@
 {
   "id": "OR-06149",
-  "name_cn": "未命名罕见病实体型-6149",
-  "name_en": "Rare Rare Disease Entity Type-6149",
+  "name_cn": "动脉性肺动脉高压 410型",
+  "name_en": "Pulmonary Arterial Hypertension Type 410",
   "aliases": [],
-  "icd_11": "LD20.49",
-  "orpha_code": "ORPHA16149",
-  "overview": "Rare Rare Disease Entity Type-6149 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16149)。",
+  "icd_11": "LD20.149",
+  "orpha_code": "ORPHA106149",
+  "overview": "动脉性肺动脉高压 410型 (Pulmonary Arterial Hypertension Type 410) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106149。",
   "pipelines": []
 }

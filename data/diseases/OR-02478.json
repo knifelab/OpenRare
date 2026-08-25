@@ -1,10 +1,10 @@
 {
   "id": "OR-02478",
-  "name_cn": "未命名罕见病实体型-2478",
-  "name_en": "Rare Rare Disease Entity Type-2478",
+  "name_cn": "脑白质营养不良 166型",
+  "name_en": "Leukodystrophy Type 166",
   "aliases": [],
-  "icd_11": "LD20.78",
-  "orpha_code": "ORPHA12478",
-  "overview": "Rare Rare Disease Entity Type-2478 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12478)。",
+  "icd_11": "LD20.478",
+  "orpha_code": "ORPHA102478",
+  "overview": "脑白质营养不良 166型 (Leukodystrophy Type 166) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102478。",
   "pipelines": []
 }

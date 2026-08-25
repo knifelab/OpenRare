@@ -1,10 +1,10 @@
 {
   "id": "OR-02752",
-  "name_cn": "未命名罕见病实体型-2752",
-  "name_en": "Rare Rare Disease Entity Type-2752",
+  "name_cn": "先天性糖基化异常 184型",
+  "name_en": "Congenital Disorder of Glycosylation Type 184",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA12752",
-  "overview": "Rare Rare Disease Entity Type-2752 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12752)。",
+  "icd_11": "LD20.752",
+  "orpha_code": "ORPHA102752",
+  "overview": "先天性糖基化异常 184型 (Congenital Disorder of Glycosylation Type 184) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102752。",
   "pipelines": []
 }

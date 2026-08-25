@@ -1,10 +1,10 @@
 {
   "id": "OR-02755",
-  "name_cn": "未命名罕见病实体型-2755",
-  "name_en": "Rare Rare Disease Entity Type-2755",
+  "name_cn": "周期性瘫痪 184型",
+  "name_en": "Periodic Paralysis Type 184",
   "aliases": [],
-  "icd_11": "LD20.55",
-  "orpha_code": "ORPHA12755",
-  "overview": "Rare Rare Disease Entity Type-2755 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12755)。",
+  "icd_11": "LD20.755",
+  "orpha_code": "ORPHA102755",
+  "overview": "周期性瘫痪 184型 (Periodic Paralysis Type 184) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102755。",
   "pipelines": []
 }

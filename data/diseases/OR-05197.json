@@ -1,10 +1,10 @@
 {
   "id": "OR-05197",
-  "name_cn": "未命名罕见病实体型-5197",
-  "name_en": "Rare Rare Disease Entity Type-5197",
+  "name_cn": "先天性糖基化异常 347型",
+  "name_en": "Congenital Disorder of Glycosylation Type 347",
   "aliases": [],
-  "icd_11": "LD20.97",
-  "orpha_code": "ORPHA15197",
-  "overview": "Rare Rare Disease Entity Type-5197 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15197)。",
+  "icd_11": "LD20.197",
+  "orpha_code": "ORPHA105197",
+  "overview": "先天性糖基化异常 347型 (Congenital Disorder of Glycosylation Type 347) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105197。",
   "pipelines": []
 }

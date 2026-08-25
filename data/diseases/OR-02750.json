@@ -1,10 +1,10 @@
 {
   "id": "OR-02750",
-  "name_cn": "未命名罕见病实体型-2750",
-  "name_en": "Rare Rare Disease Entity Type-2750",
+  "name_cn": "共济失调症 184型",
+  "name_en": "Ataxia Type 184",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA12750",
-  "overview": "Rare Rare Disease Entity Type-2750 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12750)。",
+  "icd_11": "LD20.750",
+  "orpha_code": "ORPHA102750",
+  "overview": "共济失调症 184型 (Ataxia Type 184) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102750。",
   "pipelines": []
 }

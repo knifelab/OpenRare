@@ -1,10 +1,10 @@
 {
   "id": "OR-00461",
-  "name_cn": "未命名罕见病实体型-461",
-  "name_en": "Rare Rare Disease Entity Type-461",
+  "name_cn": "淀粉样变性 31型",
+  "name_en": "Amyloidosis Type 31",
   "aliases": [],
-  "icd_11": "LD20.61",
-  "orpha_code": "ORPHA10461",
-  "overview": "Rare Rare Disease Entity Type-461 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10461)。",
+  "icd_11": "LD20.461",
+  "orpha_code": "ORPHA100461",
+  "overview": "淀粉样变性 31型 (Amyloidosis Type 31) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100461。",
   "pipelines": []
 }

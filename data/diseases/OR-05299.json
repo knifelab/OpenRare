@@ -1,10 +1,10 @@
 {
   "id": "OR-05299",
-  "name_cn": "未命名罕见病实体型-5299",
-  "name_en": "Rare Rare Disease Entity Type-5299",
+  "name_cn": "视网膜营养不良 354型",
+  "name_en": "Retinal Dystrophy Type 354",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA15299",
-  "overview": "Rare Rare Disease Entity Type-5299 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15299)。",
+  "icd_11": "LD20.299",
+  "orpha_code": "ORPHA105299",
+  "overview": "视网膜营养不良 354型 (Retinal Dystrophy Type 354) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105299。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04960",
-  "name_cn": "未命名罕见病实体型-4960",
-  "name_en": "Rare Rare Disease Entity Type-4960",
+  "name_cn": "周期性瘫痪 331型",
+  "name_en": "Periodic Paralysis Type 331",
   "aliases": [],
-  "icd_11": "LD20.60",
-  "orpha_code": "ORPHA14960",
-  "overview": "Rare Rare Disease Entity Type-4960 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14960)。",
+  "icd_11": "LD20.960",
+  "orpha_code": "ORPHA104960",
+  "overview": "周期性瘫痪 331型 (Periodic Paralysis Type 331) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104960。",
   "pipelines": []
 }

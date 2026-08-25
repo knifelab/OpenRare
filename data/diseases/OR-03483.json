@@ -1,10 +1,10 @@
 {
   "id": "OR-03483",
-  "name_cn": "未命名罕见病实体型-3483",
-  "name_en": "Rare Rare Disease Entity Type-3483",
+  "name_cn": "脑白质营养不良 233型",
+  "name_en": "Leukodystrophy Type 233",
   "aliases": [],
-  "icd_11": "LD20.83",
-  "orpha_code": "ORPHA13483",
-  "overview": "Rare Rare Disease Entity Type-3483 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13483)。",
+  "icd_11": "LD20.483",
+  "orpha_code": "ORPHA103483",
+  "overview": "脑白质营养不良 233型 (Leukodystrophy Type 233) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103483。",
   "pipelines": []
 }

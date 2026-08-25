@@ -1,10 +1,10 @@
 {
   "id": "OR-02778",
-  "name_cn": "未命名罕见病实体型-2778",
-  "name_en": "Rare Rare Disease Entity Type-2778",
+  "name_cn": "脑白质营养不良 186型",
+  "name_en": "Leukodystrophy Type 186",
   "aliases": [],
-  "icd_11": "LD20.78",
-  "orpha_code": "ORPHA12778",
-  "overview": "Rare Rare Disease Entity Type-2778 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12778)。",
+  "icd_11": "LD20.778",
+  "orpha_code": "ORPHA102778",
+  "overview": "脑白质营养不良 186型 (Leukodystrophy Type 186) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102778。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04460",
-  "name_cn": "未命名罕见病实体型-4460",
-  "name_en": "Rare Rare Disease Entity Type-4460",
+  "name_cn": "共济失调症 298型",
+  "name_en": "Ataxia Type 298",
   "aliases": [],
-  "icd_11": "LD20.60",
-  "orpha_code": "ORPHA14460",
-  "overview": "Rare Rare Disease Entity Type-4460 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14460)。",
+  "icd_11": "LD20.460",
+  "orpha_code": "ORPHA104460",
+  "overview": "共济失调症 298型 (Ataxia Type 298) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104460。",
   "pipelines": []
 }

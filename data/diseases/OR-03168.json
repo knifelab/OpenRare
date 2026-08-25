@@ -1,10 +1,10 @@
 {
   "id": "OR-03168",
-  "name_cn": "未命名罕见病实体型-3168",
-  "name_en": "Rare Rare Disease Entity Type-3168",
+  "name_cn": "脑白质营养不良 212型",
+  "name_en": "Leukodystrophy Type 212",
   "aliases": [],
-  "icd_11": "LD20.68",
-  "orpha_code": "ORPHA13168",
-  "overview": "Rare Rare Disease Entity Type-3168 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13168)。",
+  "icd_11": "LD20.168",
+  "orpha_code": "ORPHA103168",
+  "overview": "脑白质营养不良 212型 (Leukodystrophy Type 212) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103168。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00086",
-  "name_cn": "未命名罕见病实体型-86",
-  "name_en": "Rare Rare Disease Entity Type-86",
+  "name_cn": "淀粉样变性 6型",
+  "name_en": "Amyloidosis Type 6",
   "aliases": [],
-  "icd_11": "LD20.86",
-  "orpha_code": "ORPHA10086",
-  "overview": "Rare Rare Disease Entity Type-86 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10086)。",
+  "icd_11": "LD20.086",
+  "orpha_code": "ORPHA100086",
+  "overview": "淀粉样变性 6型 (Amyloidosis Type 6) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100086。",
   "pipelines": []
 }

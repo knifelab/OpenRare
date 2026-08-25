@@ -1,10 +1,10 @@
 {
   "id": "OR-04394",
-  "name_cn": "未命名罕见病实体型-4394",
-  "name_en": "Rare Rare Disease Entity Type-4394",
+  "name_cn": "动脉性肺动脉高压 293型",
+  "name_en": "Pulmonary Arterial Hypertension Type 293",
   "aliases": [],
-  "icd_11": "LD20.94",
-  "orpha_code": "ORPHA14394",
-  "overview": "Rare Rare Disease Entity Type-4394 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14394)。",
+  "icd_11": "LD20.394",
+  "orpha_code": "ORPHA104394",
+  "overview": "动脉性肺动脉高压 293型 (Pulmonary Arterial Hypertension Type 293) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104394。",
   "pipelines": []
 }

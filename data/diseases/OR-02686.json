@@ -1,10 +1,10 @@
 {
   "id": "OR-02686",
-  "name_cn": "未命名罕见病实体型-2686",
-  "name_en": "Rare Rare Disease Entity Type-2686",
+  "name_cn": "脊髓性肌萎缩症 180型",
+  "name_en": "Spinal Muscular Atrophy Type 180",
   "aliases": [],
-  "icd_11": "LD20.86",
-  "orpha_code": "ORPHA12686",
-  "overview": "Rare Rare Disease Entity Type-2686 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12686)。",
+  "icd_11": "LD20.686",
+  "orpha_code": "ORPHA102686",
+  "overview": "脊髓性肌萎缩症 180型 (Spinal Muscular Atrophy Type 180) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102686。",
   "pipelines": []
 }

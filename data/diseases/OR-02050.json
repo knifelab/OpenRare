@@ -1,10 +1,10 @@
 {
   "id": "OR-02050",
-  "name_cn": "未命名罕见病实体型-2050",
-  "name_en": "Rare Rare Disease Entity Type-2050",
+  "name_cn": "周期性瘫痪 137型",
+  "name_en": "Periodic Paralysis Type 137",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA12050",
-  "overview": "Rare Rare Disease Entity Type-2050 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12050)。",
+  "icd_11": "LD20.050",
+  "orpha_code": "ORPHA102050",
+  "overview": "周期性瘫痪 137型 (Periodic Paralysis Type 137) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102050。",
   "pipelines": []
 }

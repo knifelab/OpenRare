@@ -1,10 +1,10 @@
 {
   "id": "OR-03304",
-  "name_cn": "未命名罕见病实体型-3304",
-  "name_en": "Rare Rare Disease Entity Type-3304",
+  "name_cn": "视网膜营养不良 221型",
+  "name_en": "Retinal Dystrophy Type 221",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA13304",
-  "overview": "Rare Rare Disease Entity Type-3304 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13304)。",
+  "icd_11": "LD20.304",
+  "orpha_code": "ORPHA103304",
+  "overview": "视网膜营养不良 221型 (Retinal Dystrophy Type 221) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103304。",
   "pipelines": []
 }

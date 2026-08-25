@@ -1,10 +1,10 @@
 {
   "id": "OR-05234",
-  "name_cn": "未命名罕见病实体型-5234",
-  "name_en": "Rare Rare Disease Entity Type-5234",
+  "name_cn": "动脉性肺动脉高压 349型",
+  "name_en": "Pulmonary Arterial Hypertension Type 349",
   "aliases": [],
-  "icd_11": "LD20.34",
-  "orpha_code": "ORPHA15234",
-  "overview": "Rare Rare Disease Entity Type-5234 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15234)。",
+  "icd_11": "LD20.234",
+  "orpha_code": "ORPHA105234",
+  "overview": "动脉性肺动脉高压 349型 (Pulmonary Arterial Hypertension Type 349) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105234。",
   "pipelines": []
 }

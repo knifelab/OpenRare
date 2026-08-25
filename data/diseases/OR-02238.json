@@ -1,10 +1,10 @@
 {
   "id": "OR-02238",
-  "name_cn": "未命名罕见病实体型-2238",
-  "name_en": "Rare Rare Disease Entity Type-2238",
+  "name_cn": "脑白质营养不良 150型",
+  "name_en": "Leukodystrophy Type 150",
   "aliases": [],
-  "icd_11": "LD20.38",
-  "orpha_code": "ORPHA12238",
-  "overview": "Rare Rare Disease Entity Type-2238 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12238)。",
+  "icd_11": "LD20.238",
+  "orpha_code": "ORPHA102238",
+  "overview": "脑白质营养不良 150型 (Leukodystrophy Type 150) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102238。",
   "pipelines": []
 }

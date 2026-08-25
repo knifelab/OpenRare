@@ -1,10 +1,10 @@
 {
   "id": "OR-05162",
-  "name_cn": "未命名罕见病实体型-5162",
-  "name_en": "Rare Rare Disease Entity Type-5162",
+  "name_cn": "溶酶体贮积症 345型",
+  "name_en": "Lysosomal Storage Disorder Type 345",
   "aliases": [],
-  "icd_11": "LD20.62",
-  "orpha_code": "ORPHA15162",
-  "overview": "Rare Rare Disease Entity Type-5162 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15162)。",
+  "icd_11": "LD20.162",
+  "orpha_code": "ORPHA105162",
+  "overview": "溶酶体贮积症 345型 (Lysosomal Storage Disorder Type 345) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105162。",
   "pipelines": []
 }

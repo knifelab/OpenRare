@@ -1,10 +1,10 @@
 {
   "id": "OR-04842",
-  "name_cn": "未命名罕见病实体型-4842",
-  "name_en": "Rare Rare Disease Entity Type-4842",
+  "name_cn": "骨骼发育不良 323型",
+  "name_en": "Skeletal Dysplasia Type 323",
   "aliases": [],
-  "icd_11": "LD20.42",
-  "orpha_code": "ORPHA14842",
-  "overview": "Rare Rare Disease Entity Type-4842 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14842)。",
+  "icd_11": "LD20.842",
+  "orpha_code": "ORPHA104842",
+  "overview": "骨骼发育不良 323型 (Skeletal Dysplasia Type 323) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104842。",
   "pipelines": []
 }

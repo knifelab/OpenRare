@@ -1,10 +1,10 @@
 {
   "id": "OR-06465",
-  "name_cn": "未命名罕见病实体型-6465",
-  "name_en": "Rare Rare Disease Entity Type-6465",
+  "name_cn": "肌营养不良症 432型",
+  "name_en": "Muscular Dystrophy Type 432",
   "aliases": [],
-  "icd_11": "LD20.65",
-  "orpha_code": "ORPHA16465",
-  "overview": "Rare Rare Disease Entity Type-6465 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16465)。",
+  "icd_11": "LD20.465",
+  "orpha_code": "ORPHA106465",
+  "overview": "肌营养不良症 432型 (Muscular Dystrophy Type 432) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106465。",
   "pipelines": []
 }

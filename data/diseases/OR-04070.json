@@ -1,10 +1,10 @@
 {
   "id": "OR-04070",
-  "name_cn": "未命名罕见病实体型-4070",
-  "name_en": "Rare Rare Disease Entity Type-4070",
+  "name_cn": "共济失调症 272型",
+  "name_en": "Ataxia Type 272",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA14070",
-  "overview": "Rare Rare Disease Entity Type-4070 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14070)。",
+  "icd_11": "LD20.070",
+  "orpha_code": "ORPHA104070",
+  "overview": "共济失调症 272型 (Ataxia Type 272) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104070。",
   "pipelines": []
 }

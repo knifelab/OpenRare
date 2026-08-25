@@ -1,10 +1,10 @@
 {
   "id": "OR-03907",
-  "name_cn": "未命名罕见病实体型-3907",
-  "name_en": "Rare Rare Disease Entity Type-3907",
+  "name_cn": "先天性糖基化异常 261型",
+  "name_en": "Congenital Disorder of Glycosylation Type 261",
   "aliases": [],
-  "icd_11": "LD20.7",
-  "orpha_code": "ORPHA13907",
-  "overview": "Rare Rare Disease Entity Type-3907 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13907)。",
+  "icd_11": "LD20.907",
+  "orpha_code": "ORPHA103907",
+  "overview": "先天性糖基化异常 261型 (Congenital Disorder of Glycosylation Type 261) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103907。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02555",
-  "name_cn": "未命名罕见病实体型-2555",
-  "name_en": "Rare Rare Disease Entity Type-2555",
+  "name_cn": "共济失调症 171型",
+  "name_en": "Ataxia Type 171",
   "aliases": [],
-  "icd_11": "LD20.55",
-  "orpha_code": "ORPHA12555",
-  "overview": "Rare Rare Disease Entity Type-2555 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12555)。",
+  "icd_11": "LD20.555",
+  "orpha_code": "ORPHA102555",
+  "overview": "共济失调症 171型 (Ataxia Type 171) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102555。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03773",
-  "name_cn": "未命名罕见病实体型-3773",
-  "name_en": "Rare Rare Disease Entity Type-3773",
+  "name_cn": "原发性免疫缺陷病 252型",
+  "name_en": "Primary Immunodeficiency Type 252",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA13773",
-  "overview": "Rare Rare Disease Entity Type-3773 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13773)。",
+  "icd_11": "LD20.773",
+  "orpha_code": "ORPHA103773",
+  "overview": "原发性免疫缺陷病 252型 (Primary Immunodeficiency Type 252) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103773。",
   "pipelines": []
 }

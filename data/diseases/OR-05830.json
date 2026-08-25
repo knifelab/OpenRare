@@ -1,10 +1,10 @@
 {
   "id": "OR-05830",
-  "name_cn": "未命名罕见病实体型-5830",
-  "name_en": "Rare Rare Disease Entity Type-5830",
+  "name_cn": "周期性瘫痪 389型",
+  "name_en": "Periodic Paralysis Type 389",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA15830",
-  "overview": "Rare Rare Disease Entity Type-5830 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15830)。",
+  "icd_11": "LD20.830",
+  "orpha_code": "ORPHA105830",
+  "overview": "周期性瘫痪 389型 (Periodic Paralysis Type 389) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105830。",
   "pipelines": []
 }

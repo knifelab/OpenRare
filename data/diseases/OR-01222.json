@@ -1,10 +1,10 @@
 {
   "id": "OR-01222",
-  "name_cn": "未命名罕见病实体型-1222",
-  "name_en": "Rare Rare Disease Entity Type-1222",
+  "name_cn": "先天性糖基化异常 82型",
+  "name_en": "Congenital Disorder of Glycosylation Type 82",
   "aliases": [],
-  "icd_11": "LD20.22",
-  "orpha_code": "ORPHA11222",
-  "overview": "Rare Rare Disease Entity Type-1222 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11222)。",
+  "icd_11": "LD20.222",
+  "orpha_code": "ORPHA101222",
+  "overview": "先天性糖基化异常 82型 (Congenital Disorder of Glycosylation Type 82) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101222。",
   "pipelines": []
 }

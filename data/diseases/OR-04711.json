@@ -1,10 +1,10 @@
 {
   "id": "OR-04711",
-  "name_cn": "未命名罕见病实体型-4711",
-  "name_en": "Rare Rare Disease Entity Type-4711",
+  "name_cn": "脊髓性肌萎缩症 315型",
+  "name_en": "Spinal Muscular Atrophy Type 315",
   "aliases": [],
-  "icd_11": "LD20.11",
-  "orpha_code": "ORPHA14711",
-  "overview": "Rare Rare Disease Entity Type-4711 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14711)。",
+  "icd_11": "LD20.711",
+  "orpha_code": "ORPHA104711",
+  "overview": "脊髓性肌萎缩症 315型 (Spinal Muscular Atrophy Type 315) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104711。",
   "pipelines": []
 }

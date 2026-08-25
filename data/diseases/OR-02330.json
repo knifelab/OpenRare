@@ -1,10 +1,10 @@
 {
   "id": "OR-02330",
-  "name_cn": "未命名罕见病实体型-2330",
-  "name_en": "Rare Rare Disease Entity Type-2330",
+  "name_cn": "共济失调症 156型",
+  "name_en": "Ataxia Type 156",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA12330",
-  "overview": "Rare Rare Disease Entity Type-2330 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12330)。",
+  "icd_11": "LD20.330",
+  "orpha_code": "ORPHA102330",
+  "overview": "共济失调症 156型 (Ataxia Type 156) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102330。",
   "pipelines": []
 }

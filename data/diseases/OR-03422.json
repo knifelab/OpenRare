@@ -1,10 +1,10 @@
 {
   "id": "OR-03422",
-  "name_cn": "未命名罕见病实体型-3422",
-  "name_en": "Rare Rare Disease Entity Type-3422",
+  "name_cn": "溶酶体贮积症 229型",
+  "name_en": "Lysosomal Storage Disorder Type 229",
   "aliases": [],
-  "icd_11": "LD20.22",
-  "orpha_code": "ORPHA13422",
-  "overview": "Rare Rare Disease Entity Type-3422 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13422)。",
+  "icd_11": "LD20.422",
+  "orpha_code": "ORPHA103422",
+  "overview": "溶酶体贮积症 229型 (Lysosomal Storage Disorder Type 229) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103422。",
   "pipelines": []
 }

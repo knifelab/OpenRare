@@ -1,10 +1,10 @@
 {
   "id": "OR-05877",
-  "name_cn": "未命名罕见病实体型-5877",
-  "name_en": "Rare Rare Disease Entity Type-5877",
+  "name_cn": "骨骼发育不良 392型",
+  "name_en": "Skeletal Dysplasia Type 392",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA15877",
-  "overview": "Rare Rare Disease Entity Type-5877 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15877)。",
+  "icd_11": "LD20.877",
+  "orpha_code": "ORPHA105877",
+  "overview": "骨骼发育不良 392型 (Skeletal Dysplasia Type 392) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105877。",
   "pipelines": []
 }

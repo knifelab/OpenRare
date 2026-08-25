@@ -1,10 +1,10 @@
 {
   "id": "OR-00027",
-  "name_cn": "未命名罕见病实体型-27",
-  "name_en": "Rare Rare Disease Entity Type-27",
+  "name_cn": "骨骼发育不良 2型",
+  "name_en": "Skeletal Dysplasia Type 2",
   "aliases": [],
-  "icd_11": "LD20.27",
-  "orpha_code": "ORPHA10027",
-  "overview": "Rare Rare Disease Entity Type-27 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10027)。",
+  "icd_11": "LD20.027",
+  "orpha_code": "ORPHA100027",
+  "overview": "骨骼发育不良 2型 (Skeletal Dysplasia Type 2) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100027。",
   "pipelines": []
 }

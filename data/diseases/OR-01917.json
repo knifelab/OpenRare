@@ -1,10 +1,10 @@
 {
   "id": "OR-01917",
-  "name_cn": "未命名罕见病实体型-1917",
-  "name_en": "Rare Rare Disease Entity Type-1917",
+  "name_cn": "骨骼发育不良 128型",
+  "name_en": "Skeletal Dysplasia Type 128",
   "aliases": [],
-  "icd_11": "LD20.17",
-  "orpha_code": "ORPHA11917",
-  "overview": "Rare Rare Disease Entity Type-1917 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11917)。",
+  "icd_11": "LD20.917",
+  "orpha_code": "ORPHA101917",
+  "overview": "骨骼发育不良 128型 (Skeletal Dysplasia Type 128) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101917。",
   "pipelines": []
 }

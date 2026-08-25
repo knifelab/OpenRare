@@ -1,10 +1,10 @@
 {
   "id": "OR-00454",
-  "name_cn": "未命名罕见病实体型-454",
-  "name_en": "Rare Rare Disease Entity Type-454",
+  "name_cn": "视网膜营养不良 31型",
+  "name_en": "Retinal Dystrophy Type 31",
   "aliases": [],
-  "icd_11": "LD20.54",
-  "orpha_code": "ORPHA10454",
-  "overview": "Rare Rare Disease Entity Type-454 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10454)。",
+  "icd_11": "LD20.454",
+  "orpha_code": "ORPHA100454",
+  "overview": "视网膜营养不良 31型 (Retinal Dystrophy Type 31) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100454。",
   "pipelines": []
 }

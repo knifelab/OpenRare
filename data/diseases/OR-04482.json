@@ -1,10 +1,10 @@
 {
   "id": "OR-04482",
-  "name_cn": "未命名罕见病实体型-4482",
-  "name_en": "Rare Rare Disease Entity Type-4482",
+  "name_cn": "骨骼发育不良 299型",
+  "name_en": "Skeletal Dysplasia Type 299",
   "aliases": [],
-  "icd_11": "LD20.82",
-  "orpha_code": "ORPHA14482",
-  "overview": "Rare Rare Disease Entity Type-4482 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14482)。",
+  "icd_11": "LD20.482",
+  "orpha_code": "ORPHA104482",
+  "overview": "骨骼发育不良 299型 (Skeletal Dysplasia Type 299) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104482。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04853",
-  "name_cn": "未命名罕见病实体型-4853",
-  "name_en": "Rare Rare Disease Entity Type-4853",
+  "name_cn": "原发性免疫缺陷病 324型",
+  "name_en": "Primary Immunodeficiency Type 324",
   "aliases": [],
-  "icd_11": "LD20.53",
-  "orpha_code": "ORPHA14853",
-  "overview": "Rare Rare Disease Entity Type-4853 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14853)。",
+  "icd_11": "LD20.853",
+  "orpha_code": "ORPHA104853",
+  "overview": "原发性免疫缺陷病 324型 (Primary Immunodeficiency Type 324) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104853。",
   "pipelines": []
 }

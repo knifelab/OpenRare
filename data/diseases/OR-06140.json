@@ -1,10 +1,10 @@
 {
   "id": "OR-06140",
-  "name_cn": "未命名罕见病实体型-6140",
-  "name_en": "Rare Rare Disease Entity Type-6140",
+  "name_cn": "共济失调症 410型",
+  "name_en": "Ataxia Type 410",
   "aliases": [],
-  "icd_11": "LD20.40",
-  "orpha_code": "ORPHA16140",
-  "overview": "Rare Rare Disease Entity Type-6140 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16140)。",
+  "icd_11": "LD20.140",
+  "orpha_code": "ORPHA106140",
+  "overview": "共济失调症 410型 (Ataxia Type 410) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106140。",
   "pipelines": []
 }

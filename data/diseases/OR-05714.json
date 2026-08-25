@@ -1,10 +1,10 @@
 {
   "id": "OR-05714",
-  "name_cn": "未命名罕见病实体型-5714",
-  "name_en": "Rare Rare Disease Entity Type-5714",
+  "name_cn": "动脉性肺动脉高压 381型",
+  "name_en": "Pulmonary Arterial Hypertension Type 381",
   "aliases": [],
-  "icd_11": "LD20.14",
-  "orpha_code": "ORPHA15714",
-  "overview": "Rare Rare Disease Entity Type-5714 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15714)。",
+  "icd_11": "LD20.714",
+  "orpha_code": "ORPHA105714",
+  "overview": "动脉性肺动脉高压 381型 (Pulmonary Arterial Hypertension Type 381) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105714。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04548",
-  "name_cn": "未命名罕见病实体型-4548",
-  "name_en": "Rare Rare Disease Entity Type-4548",
+  "name_cn": "脑白质营养不良 304型",
+  "name_en": "Leukodystrophy Type 304",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA14548",
-  "overview": "Rare Rare Disease Entity Type-4548 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14548)。",
+  "icd_11": "LD20.548",
+  "orpha_code": "ORPHA104548",
+  "overview": "脑白质营养不良 304型 (Leukodystrophy Type 304) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104548。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00008",
-  "name_cn": "未命名罕见病实体型-8",
-  "name_en": "Rare Rare Disease Entity Type-8",
+  "name_cn": "尼曼匹克病C型",
+  "name_en": "Niemann-Pick disease type C",
   "aliases": [],
-  "icd_11": "LD20.8",
-  "orpha_code": "ORPHA10008",
-  "overview": "Rare Rare Disease Entity Type-8 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10008)。",
+  "icd_11": "5C56.2",
+  "orpha_code": "ORPHA793",
+  "overview": "尼曼匹克病C型 (Niemann-Pick disease type C) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA793。",
   "pipelines": []
 }

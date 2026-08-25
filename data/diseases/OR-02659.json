@@ -1,10 +1,10 @@
 {
   "id": "OR-02659",
-  "name_cn": "未命名罕见病实体型-2659",
-  "name_en": "Rare Rare Disease Entity Type-2659",
+  "name_cn": "视网膜营养不良 178型",
+  "name_en": "Retinal Dystrophy Type 178",
   "aliases": [],
-  "icd_11": "LD20.59",
-  "orpha_code": "ORPHA12659",
-  "overview": "Rare Rare Disease Entity Type-2659 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12659)。",
+  "icd_11": "LD20.659",
+  "orpha_code": "ORPHA102659",
+  "overview": "视网膜营养不良 178型 (Retinal Dystrophy Type 178) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102659。",
   "pipelines": []
 }

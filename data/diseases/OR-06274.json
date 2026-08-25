@@ -1,10 +1,10 @@
 {
   "id": "OR-06274",
-  "name_cn": "未命名罕见病实体型-6274",
-  "name_en": "Rare Rare Disease Entity Type-6274",
+  "name_cn": "视网膜营养不良 419型",
+  "name_en": "Retinal Dystrophy Type 419",
   "aliases": [],
-  "icd_11": "LD20.74",
-  "orpha_code": "ORPHA16274",
-  "overview": "Rare Rare Disease Entity Type-6274 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16274)。",
+  "icd_11": "LD20.274",
+  "orpha_code": "ORPHA106274",
+  "overview": "视网膜营养不良 419型 (Retinal Dystrophy Type 419) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106274。",
   "pipelines": []
 }

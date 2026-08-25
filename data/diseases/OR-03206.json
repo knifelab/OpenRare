@@ -1,10 +1,10 @@
 {
   "id": "OR-03206",
-  "name_cn": "未命名罕见病实体型-3206",
-  "name_en": "Rare Rare Disease Entity Type-3206",
+  "name_cn": "淀粉样变性 214型",
+  "name_en": "Amyloidosis Type 214",
   "aliases": [],
-  "icd_11": "LD20.6",
-  "orpha_code": "ORPHA13206",
-  "overview": "Rare Rare Disease Entity Type-3206 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13206)。",
+  "icd_11": "LD20.206",
+  "orpha_code": "ORPHA103206",
+  "overview": "淀粉样变性 214型 (Amyloidosis Type 214) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103206。",
   "pipelines": []
 }

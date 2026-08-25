@@ -1,10 +1,10 @@
 {
   "id": "OR-01669",
-  "name_cn": "未命名罕见病实体型-1669",
-  "name_en": "Rare Rare Disease Entity Type-1669",
+  "name_cn": "视网膜营养不良 112型",
+  "name_en": "Retinal Dystrophy Type 112",
   "aliases": [],
-  "icd_11": "LD20.69",
-  "orpha_code": "ORPHA11669",
-  "overview": "Rare Rare Disease Entity Type-1669 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11669)。",
+  "icd_11": "LD20.669",
+  "orpha_code": "ORPHA101669",
+  "overview": "视网膜营养不良 112型 (Retinal Dystrophy Type 112) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101669。",
   "pipelines": []
 }

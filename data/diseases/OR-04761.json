@@ -1,10 +1,10 @@
 {
   "id": "OR-04761",
-  "name_cn": "未命名罕见病实体型-4761",
-  "name_en": "Rare Rare Disease Entity Type-4761",
+  "name_cn": "脑病 318型",
+  "name_en": "Encephalopathy Type 318",
   "aliases": [],
-  "icd_11": "LD20.61",
-  "orpha_code": "ORPHA14761",
-  "overview": "Rare Rare Disease Entity Type-4761 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14761)。",
+  "icd_11": "LD20.761",
+  "orpha_code": "ORPHA104761",
+  "overview": "脑病 318型 (Encephalopathy Type 318) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104761。",
   "pipelines": []
 }

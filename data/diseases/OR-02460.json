@@ -1,10 +1,10 @@
 {
   "id": "OR-02460",
-  "name_cn": "未命名罕见病实体型-2460",
-  "name_en": "Rare Rare Disease Entity Type-2460",
+  "name_cn": "肌营养不良症 165型",
+  "name_en": "Muscular Dystrophy Type 165",
   "aliases": [],
-  "icd_11": "LD20.60",
-  "orpha_code": "ORPHA12460",
-  "overview": "Rare Rare Disease Entity Type-2460 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12460)。",
+  "icd_11": "LD20.460",
+  "orpha_code": "ORPHA102460",
+  "overview": "肌营养不良症 165型 (Muscular Dystrophy Type 165) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102460。",
   "pipelines": []
 }

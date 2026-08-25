@@ -1,10 +1,10 @@
 {
   "id": "OR-04687",
-  "name_cn": "未命名罕见病实体型-4687",
-  "name_en": "Rare Rare Disease Entity Type-4687",
+  "name_cn": "先天性糖基化异常 313型",
+  "name_en": "Congenital Disorder of Glycosylation Type 313",
   "aliases": [],
-  "icd_11": "LD20.87",
-  "orpha_code": "ORPHA14687",
-  "overview": "Rare Rare Disease Entity Type-4687 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14687)。",
+  "icd_11": "LD20.687",
+  "orpha_code": "ORPHA104687",
+  "overview": "先天性糖基化异常 313型 (Congenital Disorder of Glycosylation Type 313) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104687。",
   "pipelines": []
 }

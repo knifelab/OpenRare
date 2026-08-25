@@ -1,10 +1,10 @@
 {
   "id": "OR-06810",
-  "name_cn": "未命名罕见病实体型-6810",
-  "name_en": "Rare Rare Disease Entity Type-6810",
+  "name_cn": "肌营养不良症 455型",
+  "name_en": "Muscular Dystrophy Type 455",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA16810",
-  "overview": "Rare Rare Disease Entity Type-6810 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16810)。",
+  "icd_11": "LD20.810",
+  "orpha_code": "ORPHA106810",
+  "overview": "肌营养不良症 455型 (Muscular Dystrophy Type 455) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106810。",
   "pipelines": []
 }

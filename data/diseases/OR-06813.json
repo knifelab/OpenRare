@@ -1,10 +1,10 @@
 {
   "id": "OR-06813",
-  "name_cn": "未命名罕见病实体型-6813",
-  "name_en": "Rare Rare Disease Entity Type-6813",
+  "name_cn": "脑白质营养不良 455型",
+  "name_en": "Leukodystrophy Type 455",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA16813",
-  "overview": "Rare Rare Disease Entity Type-6813 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16813)。",
+  "icd_11": "LD20.813",
+  "orpha_code": "ORPHA106813",
+  "overview": "脑白质营养不良 455型 (Leukodystrophy Type 455) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106813。",
   "pipelines": []
 }

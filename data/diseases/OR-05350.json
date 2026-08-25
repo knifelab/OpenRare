@@ -1,10 +1,10 @@
 {
   "id": "OR-05350",
-  "name_cn": "未命名罕见病实体型-5350",
-  "name_en": "Rare Rare Disease Entity Type-5350",
+  "name_cn": "周期性瘫痪 357型",
+  "name_en": "Periodic Paralysis Type 357",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA15350",
-  "overview": "Rare Rare Disease Entity Type-5350 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15350)。",
+  "icd_11": "LD20.350",
+  "orpha_code": "ORPHA105350",
+  "overview": "周期性瘫痪 357型 (Periodic Paralysis Type 357) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105350。",
   "pipelines": []
 }

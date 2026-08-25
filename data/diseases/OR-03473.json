@@ -1,10 +1,10 @@
 {
   "id": "OR-03473",
-  "name_cn": "未命名罕见病实体型-3473",
-  "name_en": "Rare Rare Disease Entity Type-3473",
+  "name_cn": "原发性免疫缺陷病 232型",
+  "name_en": "Primary Immunodeficiency Type 232",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA13473",
-  "overview": "Rare Rare Disease Entity Type-3473 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13473)。",
+  "icd_11": "LD20.473",
+  "orpha_code": "ORPHA103473",
+  "overview": "原发性免疫缺陷病 232型 (Primary Immunodeficiency Type 232) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103473。",
   "pipelines": []
 }

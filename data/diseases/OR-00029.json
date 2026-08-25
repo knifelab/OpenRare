@@ -1,10 +1,10 @@
 {
   "id": "OR-00029",
-  "name_cn": "未命名罕见病实体型-29",
-  "name_en": "Rare Rare Disease Entity Type-29",
+  "name_cn": "动脉性肺动脉高压 2型",
+  "name_en": "Pulmonary Arterial Hypertension Type 2",
   "aliases": [],
-  "icd_11": "LD20.29",
-  "orpha_code": "ORPHA10029",
-  "overview": "Rare Rare Disease Entity Type-29 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10029)。",
+  "icd_11": "LD20.029",
+  "orpha_code": "ORPHA100029",
+  "overview": "动脉性肺动脉高压 2型 (Pulmonary Arterial Hypertension Type 2) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100029。",
   "pipelines": []
 }

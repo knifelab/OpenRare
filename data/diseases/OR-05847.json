@@ -1,10 +1,10 @@
 {
   "id": "OR-05847",
-  "name_cn": "未命名罕见病实体型-5847",
-  "name_en": "Rare Rare Disease Entity Type-5847",
+  "name_cn": "骨骼发育不良 390型",
+  "name_en": "Skeletal Dysplasia Type 390",
   "aliases": [],
-  "icd_11": "LD20.47",
-  "orpha_code": "ORPHA15847",
-  "overview": "Rare Rare Disease Entity Type-5847 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15847)。",
+  "icd_11": "LD20.847",
+  "orpha_code": "ORPHA105847",
+  "overview": "骨骼发育不良 390型 (Skeletal Dysplasia Type 390) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105847。",
   "pipelines": []
 }

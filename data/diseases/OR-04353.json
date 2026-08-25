@@ -1,10 +1,10 @@
 {
   "id": "OR-04353",
-  "name_cn": "未命名罕见病实体型-4353",
-  "name_en": "Rare Rare Disease Entity Type-4353",
+  "name_cn": "脑白质营养不良 291型",
+  "name_en": "Leukodystrophy Type 291",
   "aliases": [],
-  "icd_11": "LD20.53",
-  "orpha_code": "ORPHA14353",
-  "overview": "Rare Rare Disease Entity Type-4353 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14353)。",
+  "icd_11": "LD20.353",
+  "orpha_code": "ORPHA104353",
+  "overview": "脑白质营养不良 291型 (Leukodystrophy Type 291) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104353。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00825",
-  "name_cn": "未命名罕见病实体型-825",
-  "name_en": "Rare Rare Disease Entity Type-825",
+  "name_cn": "肌营养不良症 56型",
+  "name_en": "Muscular Dystrophy Type 56",
   "aliases": [],
-  "icd_11": "LD20.25",
-  "orpha_code": "ORPHA10825",
-  "overview": "Rare Rare Disease Entity Type-825 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10825)。",
+  "icd_11": "LD20.825",
+  "orpha_code": "ORPHA100825",
+  "overview": "肌营养不良症 56型 (Muscular Dystrophy Type 56) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100825。",
   "pipelines": []
 }

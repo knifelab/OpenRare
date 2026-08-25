@@ -1,10 +1,10 @@
 {
   "id": "OR-04604",
-  "name_cn": "未命名罕见病实体型-4604",
-  "name_en": "Rare Rare Disease Entity Type-4604",
+  "name_cn": "动脉性肺动脉高压 307型",
+  "name_en": "Pulmonary Arterial Hypertension Type 307",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA14604",
-  "overview": "Rare Rare Disease Entity Type-4604 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14604)。",
+  "icd_11": "LD20.604",
+  "orpha_code": "ORPHA104604",
+  "overview": "动脉性肺动脉高压 307型 (Pulmonary Arterial Hypertension Type 307) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104604。",
   "pipelines": []
 }

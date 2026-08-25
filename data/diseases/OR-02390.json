@@ -1,10 +1,10 @@
 {
   "id": "OR-02390",
-  "name_cn": "未命名罕见病实体型-2390",
-  "name_en": "Rare Rare Disease Entity Type-2390",
+  "name_cn": "共济失调症 160型",
+  "name_en": "Ataxia Type 160",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA12390",
-  "overview": "Rare Rare Disease Entity Type-2390 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12390)。",
+  "icd_11": "LD20.390",
+  "orpha_code": "ORPHA102390",
+  "overview": "共济失调症 160型 (Ataxia Type 160) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102390。",
   "pipelines": []
 }

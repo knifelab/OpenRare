@@ -1,10 +1,10 @@
 {
   "id": "OR-06500",
-  "name_cn": "未命名罕见病实体型-6500",
-  "name_en": "Rare Rare Disease Entity Type-6500",
+  "name_cn": "共济失调症 434型",
+  "name_en": "Ataxia Type 434",
   "aliases": [],
-  "icd_11": "LD20.0",
-  "orpha_code": "ORPHA16500",
-  "overview": "Rare Rare Disease Entity Type-6500 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16500)。",
+  "icd_11": "LD20.500",
+  "orpha_code": "ORPHA106500",
+  "overview": "共济失调症 434型 (Ataxia Type 434) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106500。",
   "pipelines": []
 }

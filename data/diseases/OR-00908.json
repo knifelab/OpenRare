@@ -1,10 +1,10 @@
 {
   "id": "OR-00908",
-  "name_cn": "未命名罕见病实体型-908",
-  "name_en": "Rare Rare Disease Entity Type-908",
+  "name_cn": "原发性免疫缺陷病 61型",
+  "name_en": "Primary Immunodeficiency Type 61",
   "aliases": [],
-  "icd_11": "LD20.8",
-  "orpha_code": "ORPHA10908",
-  "overview": "Rare Rare Disease Entity Type-908 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10908)。",
+  "icd_11": "LD20.908",
+  "orpha_code": "ORPHA100908",
+  "overview": "原发性免疫缺陷病 61型 (Primary Immunodeficiency Type 61) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100908。",
   "pipelines": []
 }

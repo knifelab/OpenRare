@@ -1,10 +1,10 @@
 {
   "id": "OR-05904",
-  "name_cn": "未命名罕见病实体型-5904",
-  "name_en": "Rare Rare Disease Entity Type-5904",
+  "name_cn": "外胚层发育不良 394型",
+  "name_en": "Ectodermal Dysplasia Type 394",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA15904",
-  "overview": "Rare Rare Disease Entity Type-5904 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15904)。",
+  "icd_11": "LD20.904",
+  "orpha_code": "ORPHA105904",
+  "overview": "外胚层发育不良 394型 (Ectodermal Dysplasia Type 394) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105904。",
   "pipelines": []
 }

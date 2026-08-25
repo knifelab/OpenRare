@@ -1,10 +1,10 @@
 {
   "id": "OR-02618",
-  "name_cn": "未命名罕见病实体型-2618",
-  "name_en": "Rare Rare Disease Entity Type-2618",
+  "name_cn": "原发性免疫缺陷病 175型",
+  "name_en": "Primary Immunodeficiency Type 175",
   "aliases": [],
-  "icd_11": "LD20.18",
-  "orpha_code": "ORPHA12618",
-  "overview": "Rare Rare Disease Entity Type-2618 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12618)。",
+  "icd_11": "LD20.618",
+  "orpha_code": "ORPHA102618",
+  "overview": "原发性免疫缺陷病 175型 (Primary Immunodeficiency Type 175) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102618。",
   "pipelines": []
 }

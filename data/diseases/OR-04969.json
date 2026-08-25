@@ -1,10 +1,10 @@
 {
   "id": "OR-04969",
-  "name_cn": "未命名罕见病实体型-4969",
-  "name_en": "Rare Rare Disease Entity Type-4969",
+  "name_cn": "视网膜营养不良 332型",
+  "name_en": "Retinal Dystrophy Type 332",
   "aliases": [],
-  "icd_11": "LD20.69",
-  "orpha_code": "ORPHA14969",
-  "overview": "Rare Rare Disease Entity Type-4969 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14969)。",
+  "icd_11": "LD20.969",
+  "orpha_code": "ORPHA104969",
+  "overview": "视网膜营养不良 332型 (Retinal Dystrophy Type 332) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104969。",
   "pipelines": []
 }

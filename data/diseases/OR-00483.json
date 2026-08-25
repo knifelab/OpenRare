@@ -1,10 +1,10 @@
 {
   "id": "OR-00483",
-  "name_cn": "未命名罕见病实体型-483",
-  "name_en": "Rare Rare Disease Entity Type-483",
+  "name_cn": "脑白质营养不良 33型",
+  "name_en": "Leukodystrophy Type 33",
   "aliases": [],
-  "icd_11": "LD20.83",
-  "orpha_code": "ORPHA10483",
-  "overview": "Rare Rare Disease Entity Type-483 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10483)。",
+  "icd_11": "LD20.483",
+  "orpha_code": "ORPHA100483",
+  "overview": "脑白质营养不良 33型 (Leukodystrophy Type 33) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100483。",
   "pipelines": []
 }

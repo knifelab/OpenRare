@@ -1,10 +1,10 @@
 {
   "id": "OR-06372",
-  "name_cn": "未命名罕见病实体型-6372",
-  "name_en": "Rare Rare Disease Entity Type-6372",
+  "name_cn": "骨骼发育不良 425型",
+  "name_en": "Skeletal Dysplasia Type 425",
   "aliases": [],
-  "icd_11": "LD20.72",
-  "orpha_code": "ORPHA16372",
-  "overview": "Rare Rare Disease Entity Type-6372 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16372)。",
+  "icd_11": "LD20.372",
+  "orpha_code": "ORPHA106372",
+  "overview": "骨骼发育不良 425型 (Skeletal Dysplasia Type 425) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106372。",
   "pipelines": []
 }

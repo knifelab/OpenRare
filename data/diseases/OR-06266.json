@@ -1,10 +1,10 @@
 {
   "id": "OR-06266",
-  "name_cn": "未命名罕见病实体型-6266",
-  "name_en": "Rare Rare Disease Entity Type-6266",
+  "name_cn": "淀粉样变性 418型",
+  "name_en": "Amyloidosis Type 418",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA16266",
-  "overview": "Rare Rare Disease Entity Type-6266 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16266)。",
+  "icd_11": "LD20.266",
+  "orpha_code": "ORPHA106266",
+  "overview": "淀粉样变性 418型 (Amyloidosis Type 418) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106266。",
   "pipelines": []
 }

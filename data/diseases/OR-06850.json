@@ -1,10 +1,10 @@
 {
   "id": "OR-06850",
-  "name_cn": "未命名罕见病实体型-6850",
-  "name_en": "Rare Rare Disease Entity Type-6850",
+  "name_cn": "周期性瘫痪 457型",
+  "name_en": "Periodic Paralysis Type 457",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA16850",
-  "overview": "Rare Rare Disease Entity Type-6850 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16850)。",
+  "icd_11": "LD20.850",
+  "orpha_code": "ORPHA106850",
+  "overview": "周期性瘫痪 457型 (Periodic Paralysis Type 457) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106850。",
   "pipelines": []
 }

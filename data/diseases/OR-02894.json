@@ -1,10 +1,10 @@
 {
   "id": "OR-02894",
-  "name_cn": "未命名罕见病实体型-2894",
-  "name_en": "Rare Rare Disease Entity Type-2894",
+  "name_cn": "动脉性肺动脉高压 193型",
+  "name_en": "Pulmonary Arterial Hypertension Type 193",
   "aliases": [],
-  "icd_11": "LD20.94",
-  "orpha_code": "ORPHA12894",
-  "overview": "Rare Rare Disease Entity Type-2894 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12894)。",
+  "icd_11": "LD20.894",
+  "orpha_code": "ORPHA102894",
+  "overview": "动脉性肺动脉高压 193型 (Pulmonary Arterial Hypertension Type 193) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102894。",
   "pipelines": []
 }

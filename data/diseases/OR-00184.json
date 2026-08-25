@@ -1,10 +1,10 @@
 {
   "id": "OR-00184",
-  "name_cn": "未命名罕见病实体型-184",
-  "name_en": "Rare Rare Disease Entity Type-184",
+  "name_cn": "视网膜营养不良 13型",
+  "name_en": "Retinal Dystrophy Type 13",
   "aliases": [],
-  "icd_11": "LD20.84",
-  "orpha_code": "ORPHA10184",
-  "overview": "Rare Rare Disease Entity Type-184 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10184)。",
+  "icd_11": "LD20.184",
+  "orpha_code": "ORPHA100184",
+  "overview": "视网膜营养不良 13型 (Retinal Dystrophy Type 13) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100184。",
   "pipelines": []
 }

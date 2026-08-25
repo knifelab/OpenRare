@@ -1,10 +1,10 @@
 {
   "id": "OR-02173",
-  "name_cn": "未命名罕见病实体型-2173",
-  "name_en": "Rare Rare Disease Entity Type-2173",
+  "name_cn": "线粒体肌病 145型",
+  "name_en": "Mitochondrial Myopathy Type 145",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA12173",
-  "overview": "Rare Rare Disease Entity Type-2173 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12173)。",
+  "icd_11": "LD20.173",
+  "orpha_code": "ORPHA102173",
+  "overview": "线粒体肌病 145型 (Mitochondrial Myopathy Type 145) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102173。",
   "pipelines": []
 }

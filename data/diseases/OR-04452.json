@@ -1,10 +1,10 @@
 {
   "id": "OR-04452",
-  "name_cn": "未命名罕见病实体型-4452",
-  "name_en": "Rare Rare Disease Entity Type-4452",
+  "name_cn": "骨骼发育不良 297型",
+  "name_en": "Skeletal Dysplasia Type 297",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA14452",
-  "overview": "Rare Rare Disease Entity Type-4452 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14452)。",
+  "icd_11": "LD20.452",
+  "orpha_code": "ORPHA104452",
+  "overview": "骨骼发育不良 297型 (Skeletal Dysplasia Type 297) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104452。",
   "pipelines": []
 }

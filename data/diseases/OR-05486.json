@@ -1,10 +1,10 @@
 {
   "id": "OR-05486",
-  "name_cn": "未命名罕见病实体型-5486",
-  "name_en": "Rare Rare Disease Entity Type-5486",
+  "name_cn": "淀粉样变性 366型",
+  "name_en": "Amyloidosis Type 366",
   "aliases": [],
-  "icd_11": "LD20.86",
-  "orpha_code": "ORPHA15486",
-  "overview": "Rare Rare Disease Entity Type-5486 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15486)。",
+  "icd_11": "LD20.486",
+  "orpha_code": "ORPHA105486",
+  "overview": "淀粉样变性 366型 (Amyloidosis Type 366) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105486。",
   "pipelines": []
 }

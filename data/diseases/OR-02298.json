@@ -1,10 +1,10 @@
 {
   "id": "OR-02298",
-  "name_cn": "未命名罕见病实体型-2298",
-  "name_en": "Rare Rare Disease Entity Type-2298",
+  "name_cn": "脑白质营养不良 154型",
+  "name_en": "Leukodystrophy Type 154",
   "aliases": [],
-  "icd_11": "LD20.98",
-  "orpha_code": "ORPHA12298",
-  "overview": "Rare Rare Disease Entity Type-2298 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12298)。",
+  "icd_11": "LD20.298",
+  "orpha_code": "ORPHA102298",
+  "overview": "脑白质营养不良 154型 (Leukodystrophy Type 154) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102298。",
   "pipelines": []
 }

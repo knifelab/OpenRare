@@ -1,10 +1,10 @@
 {
   "id": "OR-06338",
-  "name_cn": "未命名罕见病实体型-6338",
-  "name_en": "Rare Rare Disease Entity Type-6338",
+  "name_cn": "原发性免疫缺陷病 423型",
+  "name_en": "Primary Immunodeficiency Type 423",
   "aliases": [],
-  "icd_11": "LD20.38",
-  "orpha_code": "ORPHA16338",
-  "overview": "Rare Rare Disease Entity Type-6338 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16338)。",
+  "icd_11": "LD20.338",
+  "orpha_code": "ORPHA106338",
+  "overview": "原发性免疫缺陷病 423型 (Primary Immunodeficiency Type 423) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106338。",
   "pipelines": []
 }

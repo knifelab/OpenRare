@@ -1,10 +1,10 @@
 {
   "id": "OR-04810",
-  "name_cn": "未命名罕见病实体型-4810",
-  "name_en": "Rare Rare Disease Entity Type-4810",
+  "name_cn": "周期性瘫痪 321型",
+  "name_en": "Periodic Paralysis Type 321",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA14810",
-  "overview": "Rare Rare Disease Entity Type-4810 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14810)。",
+  "icd_11": "LD20.810",
+  "orpha_code": "ORPHA104810",
+  "overview": "周期性瘫痪 321型 (Periodic Paralysis Type 321) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104810。",
   "pipelines": []
 }

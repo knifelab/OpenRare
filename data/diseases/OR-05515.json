@@ -1,10 +1,10 @@
 {
   "id": "OR-05515",
-  "name_cn": "未命名罕见病实体型-5515",
-  "name_en": "Rare Rare Disease Entity Type-5515",
+  "name_cn": "周期性瘫痪 368型",
+  "name_en": "Periodic Paralysis Type 368",
   "aliases": [],
-  "icd_11": "LD20.15",
-  "orpha_code": "ORPHA15515",
-  "overview": "Rare Rare Disease Entity Type-5515 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15515)。",
+  "icd_11": "LD20.515",
+  "orpha_code": "ORPHA105515",
+  "overview": "周期性瘫痪 368型 (Periodic Paralysis Type 368) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105515。",
   "pipelines": []
 }

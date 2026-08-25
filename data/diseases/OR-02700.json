@@ -1,10 +1,10 @@
 {
   "id": "OR-02700",
-  "name_cn": "未命名罕见病实体型-2700",
-  "name_en": "Rare Rare Disease Entity Type-2700",
+  "name_cn": "肌营养不良症 181型",
+  "name_en": "Muscular Dystrophy Type 181",
   "aliases": [],
-  "icd_11": "LD20.0",
-  "orpha_code": "ORPHA12700",
-  "overview": "Rare Rare Disease Entity Type-2700 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12700)。",
+  "icd_11": "LD20.700",
+  "orpha_code": "ORPHA102700",
+  "overview": "肌营养不良症 181型 (Muscular Dystrophy Type 181) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102700。",
   "pipelines": []
 }

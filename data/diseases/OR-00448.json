@@ -1,10 +1,10 @@
 {
   "id": "OR-00448",
-  "name_cn": "未命名罕见病实体型-448",
-  "name_en": "Rare Rare Disease Entity Type-448",
+  "name_cn": "线粒体肌病 30型",
+  "name_en": "Mitochondrial Myopathy Type 30",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA10448",
-  "overview": "Rare Rare Disease Entity Type-448 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10448)。",
+  "icd_11": "LD20.448",
+  "orpha_code": "ORPHA100448",
+  "overview": "线粒体肌病 30型 (Mitochondrial Myopathy Type 30) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100448。",
   "pipelines": []
 }

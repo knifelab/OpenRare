@@ -1,10 +1,10 @@
 {
   "id": "OR-00477",
-  "name_cn": "未命名罕见病实体型-477",
-  "name_en": "Rare Rare Disease Entity Type-477",
+  "name_cn": "骨骼发育不良 32型",
+  "name_en": "Skeletal Dysplasia Type 32",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA10477",
-  "overview": "Rare Rare Disease Entity Type-477 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10477)。",
+  "icd_11": "LD20.477",
+  "orpha_code": "ORPHA100477",
+  "overview": "骨骼发育不良 32型 (Skeletal Dysplasia Type 32) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100477。",
   "pipelines": []
 }

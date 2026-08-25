@@ -1,10 +1,10 @@
 {
   "id": "OR-06071",
-  "name_cn": "未命名罕见病实体型-6071",
-  "name_en": "Rare Rare Disease Entity Type-6071",
+  "name_cn": "淀粉样变性 405型",
+  "name_en": "Amyloidosis Type 405",
   "aliases": [],
-  "icd_11": "LD20.71",
-  "orpha_code": "ORPHA16071",
-  "overview": "Rare Rare Disease Entity Type-6071 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16071)。",
+  "icd_11": "LD20.071",
+  "orpha_code": "ORPHA106071",
+  "overview": "淀粉样变性 405型 (Amyloidosis Type 405) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106071。",
   "pipelines": []
 }

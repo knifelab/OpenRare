@@ -1,10 +1,10 @@
 {
   "id": "OR-03231",
-  "name_cn": "未命名罕见病实体型-3231",
-  "name_en": "Rare Rare Disease Entity Type-3231",
+  "name_cn": "脑病 216型",
+  "name_en": "Encephalopathy Type 216",
   "aliases": [],
-  "icd_11": "LD20.31",
-  "orpha_code": "ORPHA13231",
-  "overview": "Rare Rare Disease Entity Type-3231 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13231)。",
+  "icd_11": "LD20.231",
+  "orpha_code": "ORPHA103231",
+  "overview": "脑病 216型 (Encephalopathy Type 216) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103231。",
   "pipelines": []
 }

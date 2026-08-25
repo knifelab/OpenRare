@@ -1,10 +1,10 @@
 {
   "id": "OR-00510",
-  "name_cn": "未命名罕见病实体型-510",
-  "name_en": "Rare Rare Disease Entity Type-510",
+  "name_cn": "肌营养不良症 35型",
+  "name_en": "Muscular Dystrophy Type 35",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA10510",
-  "overview": "Rare Rare Disease Entity Type-510 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10510)。",
+  "icd_11": "LD20.510",
+  "orpha_code": "ORPHA100510",
+  "overview": "肌营养不良症 35型 (Muscular Dystrophy Type 35) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100510。",
   "pipelines": []
 }

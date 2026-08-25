@@ -1,10 +1,10 @@
 {
   "id": "OR-00453",
-  "name_cn": "未命名罕见病实体型-453",
-  "name_en": "Rare Rare Disease Entity Type-453",
+  "name_cn": "脑白质营养不良 31型",
+  "name_en": "Leukodystrophy Type 31",
   "aliases": [],
-  "icd_11": "LD20.53",
-  "orpha_code": "ORPHA10453",
-  "overview": "Rare Rare Disease Entity Type-453 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10453)。",
+  "icd_11": "LD20.453",
+  "orpha_code": "ORPHA100453",
+  "overview": "脑白质营养不良 31型 (Leukodystrophy Type 31) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100453。",
   "pipelines": []
 }

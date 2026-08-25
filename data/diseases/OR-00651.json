@@ -1,10 +1,10 @@
 {
   "id": "OR-00651",
-  "name_cn": "未命名罕见病实体型-651",
-  "name_en": "Rare Rare Disease Entity Type-651",
+  "name_cn": "脑病 44型",
+  "name_en": "Encephalopathy Type 44",
   "aliases": [],
-  "icd_11": "LD20.51",
-  "orpha_code": "ORPHA10651",
-  "overview": "Rare Rare Disease Entity Type-651 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10651)。",
+  "icd_11": "LD20.651",
+  "orpha_code": "ORPHA100651",
+  "overview": "脑病 44型 (Encephalopathy Type 44) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100651。",
   "pipelines": []
 }

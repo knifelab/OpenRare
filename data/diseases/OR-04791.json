@@ -1,10 +1,10 @@
 {
   "id": "OR-04791",
-  "name_cn": "未命名罕见病实体型-4791",
-  "name_en": "Rare Rare Disease Entity Type-4791",
+  "name_cn": "脑病 320型",
+  "name_en": "Encephalopathy Type 320",
   "aliases": [],
-  "icd_11": "LD20.91",
-  "orpha_code": "ORPHA14791",
-  "overview": "Rare Rare Disease Entity Type-4791 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14791)。",
+  "icd_11": "LD20.791",
+  "orpha_code": "ORPHA104791",
+  "overview": "脑病 320型 (Encephalopathy Type 320) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104791。",
   "pipelines": []
 }

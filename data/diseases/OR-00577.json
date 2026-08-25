@@ -1,10 +1,10 @@
 {
   "id": "OR-00577",
-  "name_cn": "未命名罕见病实体型-577",
-  "name_en": "Rare Rare Disease Entity Type-577",
+  "name_cn": "先天性糖基化异常 39型",
+  "name_en": "Congenital Disorder of Glycosylation Type 39",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA10577",
-  "overview": "Rare Rare Disease Entity Type-577 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10577)。",
+  "icd_11": "LD20.577",
+  "orpha_code": "ORPHA100577",
+  "overview": "先天性糖基化异常 39型 (Congenital Disorder of Glycosylation Type 39) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100577。",
   "pipelines": []
 }

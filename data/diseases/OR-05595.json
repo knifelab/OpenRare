@@ -1,10 +1,10 @@
 {
   "id": "OR-05595",
-  "name_cn": "未命名罕见病实体型-5595",
-  "name_en": "Rare Rare Disease Entity Type-5595",
+  "name_cn": "肌营养不良症 374型",
+  "name_en": "Muscular Dystrophy Type 374",
   "aliases": [],
-  "icd_11": "LD20.95",
-  "orpha_code": "ORPHA15595",
-  "overview": "Rare Rare Disease Entity Type-5595 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15595)。",
+  "icd_11": "LD20.595",
+  "orpha_code": "ORPHA105595",
+  "overview": "肌营养不良症 374型 (Muscular Dystrophy Type 374) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105595。",
   "pipelines": []
 }

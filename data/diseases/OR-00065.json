@@ -1,10 +1,10 @@
 {
   "id": "OR-00065",
-  "name_cn": "未命名罕见病实体型-65",
-  "name_en": "Rare Rare Disease Entity Type-65",
+  "name_cn": "共济失调症 5型",
+  "name_en": "Ataxia Type 5",
   "aliases": [],
-  "icd_11": "LD20.65",
-  "orpha_code": "ORPHA10065",
-  "overview": "Rare Rare Disease Entity Type-65 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10065)。",
+  "icd_11": "LD20.065",
+  "orpha_code": "ORPHA100065",
+  "overview": "共济失调症 5型 (Ataxia Type 5) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100065。",
   "pipelines": []
 }

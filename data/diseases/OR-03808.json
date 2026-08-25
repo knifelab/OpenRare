@@ -1,10 +1,10 @@
 {
   "id": "OR-03808",
-  "name_cn": "未命名罕见病实体型-3808",
-  "name_en": "Rare Rare Disease Entity Type-3808",
+  "name_cn": "线粒体肌病 254型",
+  "name_en": "Mitochondrial Myopathy Type 254",
   "aliases": [],
-  "icd_11": "LD20.8",
-  "orpha_code": "ORPHA13808",
-  "overview": "Rare Rare Disease Entity Type-3808 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13808)。",
+  "icd_11": "LD20.808",
+  "orpha_code": "ORPHA103808",
+  "overview": "线粒体肌病 254型 (Mitochondrial Myopathy Type 254) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103808。",
   "pipelines": []
 }

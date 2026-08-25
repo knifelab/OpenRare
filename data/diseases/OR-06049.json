@@ -1,10 +1,10 @@
 {
   "id": "OR-06049",
-  "name_cn": "未命名罕见病实体型-6049",
-  "name_en": "Rare Rare Disease Entity Type-6049",
+  "name_cn": "视网膜营养不良 404型",
+  "name_en": "Retinal Dystrophy Type 404",
   "aliases": [],
-  "icd_11": "LD20.49",
-  "orpha_code": "ORPHA16049",
-  "overview": "Rare Rare Disease Entity Type-6049 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16049)。",
+  "icd_11": "LD20.049",
+  "orpha_code": "ORPHA106049",
+  "overview": "视网膜营养不良 404型 (Retinal Dystrophy Type 404) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106049。",
   "pipelines": []
 }

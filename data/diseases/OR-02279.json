@@ -1,10 +1,10 @@
 {
   "id": "OR-02279",
-  "name_cn": "未命名罕见病实体型-2279",
-  "name_en": "Rare Rare Disease Entity Type-2279",
+  "name_cn": "动脉性肺动脉高压 152型",
+  "name_en": "Pulmonary Arterial Hypertension Type 152",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA12279",
-  "overview": "Rare Rare Disease Entity Type-2279 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12279)。",
+  "icd_11": "LD20.279",
+  "orpha_code": "ORPHA102279",
+  "overview": "动脉性肺动脉高压 152型 (Pulmonary Arterial Hypertension Type 152) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102279。",
   "pipelines": []
 }

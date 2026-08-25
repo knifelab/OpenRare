@@ -1,10 +1,10 @@
 {
   "id": "OR-05457",
-  "name_cn": "未命名罕见病实体型-5457",
-  "name_en": "Rare Rare Disease Entity Type-5457",
+  "name_cn": "骨骼发育不良 364型",
+  "name_en": "Skeletal Dysplasia Type 364",
   "aliases": [],
-  "icd_11": "LD20.57",
-  "orpha_code": "ORPHA15457",
-  "overview": "Rare Rare Disease Entity Type-5457 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15457)。",
+  "icd_11": "LD20.457",
+  "orpha_code": "ORPHA105457",
+  "overview": "骨骼发育不良 364型 (Skeletal Dysplasia Type 364) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105457。",
   "pipelines": []
 }

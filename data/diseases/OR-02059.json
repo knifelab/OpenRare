@@ -1,10 +1,10 @@
 {
   "id": "OR-02059",
-  "name_cn": "未命名罕见病实体型-2059",
-  "name_en": "Rare Rare Disease Entity Type-2059",
+  "name_cn": "视网膜营养不良 138型",
+  "name_en": "Retinal Dystrophy Type 138",
   "aliases": [],
-  "icd_11": "LD20.59",
-  "orpha_code": "ORPHA12059",
-  "overview": "Rare Rare Disease Entity Type-2059 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12059)。",
+  "icd_11": "LD20.059",
+  "orpha_code": "ORPHA102059",
+  "overview": "视网膜营养不良 138型 (Retinal Dystrophy Type 138) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102059。",
   "pipelines": []
 }

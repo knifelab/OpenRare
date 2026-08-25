@@ -1,10 +1,10 @@
 {
   "id": "OR-05854",
-  "name_cn": "未命名罕见病实体型-5854",
-  "name_en": "Rare Rare Disease Entity Type-5854",
+  "name_cn": "视网膜营养不良 391型",
+  "name_en": "Retinal Dystrophy Type 391",
   "aliases": [],
-  "icd_11": "LD20.54",
-  "orpha_code": "ORPHA15854",
-  "overview": "Rare Rare Disease Entity Type-5854 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15854)。",
+  "icd_11": "LD20.854",
+  "orpha_code": "ORPHA105854",
+  "overview": "视网膜营养不良 391型 (Retinal Dystrophy Type 391) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105854。",
   "pipelines": []
 }

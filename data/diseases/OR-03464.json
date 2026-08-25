@@ -1,10 +1,10 @@
 {
   "id": "OR-03464",
-  "name_cn": "未命名罕见病实体型-3464",
-  "name_en": "Rare Rare Disease Entity Type-3464",
+  "name_cn": "动脉性肺动脉高压 231型",
+  "name_en": "Pulmonary Arterial Hypertension Type 231",
   "aliases": [],
-  "icd_11": "LD20.64",
-  "orpha_code": "ORPHA13464",
-  "overview": "Rare Rare Disease Entity Type-3464 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13464)。",
+  "icd_11": "LD20.464",
+  "orpha_code": "ORPHA103464",
+  "overview": "动脉性肺动脉高压 231型 (Pulmonary Arterial Hypertension Type 231) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103464。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00889",
-  "name_cn": "未命名罕见病实体型-889",
-  "name_en": "Rare Rare Disease Entity Type-889",
+  "name_cn": "视网膜营养不良 60型",
+  "name_en": "Retinal Dystrophy Type 60",
   "aliases": [],
-  "icd_11": "LD20.89",
-  "orpha_code": "ORPHA10889",
-  "overview": "Rare Rare Disease Entity Type-889 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10889)。",
+  "icd_11": "LD20.889",
+  "orpha_code": "ORPHA100889",
+  "overview": "视网膜营养不良 60型 (Retinal Dystrophy Type 60) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100889。",
   "pipelines": []
 }

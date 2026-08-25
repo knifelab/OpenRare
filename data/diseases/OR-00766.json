@@ -1,10 +1,10 @@
 {
   "id": "OR-00766",
-  "name_cn": "未命名罕见病实体型-766",
-  "name_en": "Rare Rare Disease Entity Type-766",
+  "name_cn": "脊髓性肌萎缩症 52型",
+  "name_en": "Spinal Muscular Atrophy Type 52",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA10766",
-  "overview": "Rare Rare Disease Entity Type-766 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10766)。",
+  "icd_11": "LD20.766",
+  "orpha_code": "ORPHA100766",
+  "overview": "脊髓性肌萎缩症 52型 (Spinal Muscular Atrophy Type 52) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100766。",
   "pipelines": []
 }

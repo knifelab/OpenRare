@@ -1,10 +1,10 @@
 {
   "id": "OR-02524",
-  "name_cn": "未命名罕见病实体型-2524",
-  "name_en": "Rare Rare Disease Entity Type-2524",
+  "name_cn": "视网膜营养不良 169型",
+  "name_en": "Retinal Dystrophy Type 169",
   "aliases": [],
-  "icd_11": "LD20.24",
-  "orpha_code": "ORPHA12524",
-  "overview": "Rare Rare Disease Entity Type-2524 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12524)。",
+  "icd_11": "LD20.524",
+  "orpha_code": "ORPHA102524",
+  "overview": "视网膜营养不良 169型 (Retinal Dystrophy Type 169) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102524。",
   "pipelines": []
 }

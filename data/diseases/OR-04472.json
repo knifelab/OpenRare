@@ -1,10 +1,10 @@
 {
   "id": "OR-04472",
-  "name_cn": "未命名罕见病实体型-4472",
-  "name_en": "Rare Rare Disease Entity Type-4472",
+  "name_cn": "溶酶体贮积症 299型",
+  "name_en": "Lysosomal Storage Disorder Type 299",
   "aliases": [],
-  "icd_11": "LD20.72",
-  "orpha_code": "ORPHA14472",
-  "overview": "Rare Rare Disease Entity Type-4472 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14472)。",
+  "icd_11": "LD20.472",
+  "orpha_code": "ORPHA104472",
+  "overview": "溶酶体贮积症 299型 (Lysosomal Storage Disorder Type 299) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104472。",
   "pipelines": []
 }

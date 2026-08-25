@@ -1,10 +1,10 @@
 {
   "id": "OR-05706",
-  "name_cn": "未命名罕见病实体型-5706",
-  "name_en": "Rare Rare Disease Entity Type-5706",
+  "name_cn": "脑病 381型",
+  "name_en": "Encephalopathy Type 381",
   "aliases": [],
-  "icd_11": "LD20.6",
-  "orpha_code": "ORPHA15706",
-  "overview": "Rare Rare Disease Entity Type-5706 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15706)。",
+  "icd_11": "LD20.706",
+  "orpha_code": "ORPHA105706",
+  "overview": "脑病 381型 (Encephalopathy Type 381) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105706。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05741",
-  "name_cn": "未命名罕见病实体型-5741",
-  "name_en": "Rare Rare Disease Entity Type-5741",
+  "name_cn": "淀粉样变性 383型",
+  "name_en": "Amyloidosis Type 383",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA15741",
-  "overview": "Rare Rare Disease Entity Type-5741 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15741)。",
+  "icd_11": "LD20.741",
+  "orpha_code": "ORPHA105741",
+  "overview": "淀粉样变性 383型 (Amyloidosis Type 383) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105741。",
   "pipelines": []
 }

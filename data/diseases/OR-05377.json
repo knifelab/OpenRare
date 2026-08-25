@@ -1,10 +1,10 @@
 {
   "id": "OR-05377",
-  "name_cn": "未命名罕见病实体型-5377",
-  "name_en": "Rare Rare Disease Entity Type-5377",
+  "name_cn": "先天性糖基化异常 359型",
+  "name_en": "Congenital Disorder of Glycosylation Type 359",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA15377",
-  "overview": "Rare Rare Disease Entity Type-5377 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15377)。",
+  "icd_11": "LD20.377",
+  "orpha_code": "ORPHA105377",
+  "overview": "先天性糖基化异常 359型 (Congenital Disorder of Glycosylation Type 359) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105377。",
   "pipelines": []
 }

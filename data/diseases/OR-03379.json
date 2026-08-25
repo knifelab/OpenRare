@@ -1,10 +1,10 @@
 {
   "id": "OR-03379",
-  "name_cn": "未命名罕见病实体型-3379",
-  "name_en": "Rare Rare Disease Entity Type-3379",
+  "name_cn": "视网膜营养不良 226型",
+  "name_en": "Retinal Dystrophy Type 226",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA13379",
-  "overview": "Rare Rare Disease Entity Type-3379 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13379)。",
+  "icd_11": "LD20.379",
+  "orpha_code": "ORPHA103379",
+  "overview": "视网膜营养不良 226型 (Retinal Dystrophy Type 226) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103379。",
   "pipelines": []
 }

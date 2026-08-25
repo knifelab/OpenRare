@@ -1,10 +1,10 @@
 {
   "id": "OR-05016",
-  "name_cn": "未命名罕见病实体型-5016",
-  "name_en": "Rare Rare Disease Entity Type-5016",
+  "name_cn": "脑病 335型",
+  "name_en": "Encephalopathy Type 335",
   "aliases": [],
-  "icd_11": "LD20.16",
-  "orpha_code": "ORPHA15016",
-  "overview": "Rare Rare Disease Entity Type-5016 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15016)。",
+  "icd_11": "LD20.016",
+  "orpha_code": "ORPHA105016",
+  "overview": "脑病 335型 (Encephalopathy Type 335) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105016。",
   "pipelines": []
 }

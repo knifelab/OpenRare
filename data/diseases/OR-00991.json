@@ -1,10 +1,10 @@
 {
   "id": "OR-00991",
-  "name_cn": "未命名罕见病实体型-991",
-  "name_en": "Rare Rare Disease Entity Type-991",
+  "name_cn": "脊髓性肌萎缩症 67型",
+  "name_en": "Spinal Muscular Atrophy Type 67",
   "aliases": [],
-  "icd_11": "LD20.91",
-  "orpha_code": "ORPHA10991",
-  "overview": "Rare Rare Disease Entity Type-991 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10991)。",
+  "icd_11": "LD20.991",
+  "orpha_code": "ORPHA100991",
+  "overview": "脊髓性肌萎缩症 67型 (Spinal Muscular Atrophy Type 67) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100991。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03820",
-  "name_cn": "未命名罕见病实体型-3820",
-  "name_en": "Rare Rare Disease Entity Type-3820",
+  "name_cn": "周期性瘫痪 255型",
+  "name_en": "Periodic Paralysis Type 255",
   "aliases": [],
-  "icd_11": "LD20.20",
-  "orpha_code": "ORPHA13820",
-  "overview": "Rare Rare Disease Entity Type-3820 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13820)。",
+  "icd_11": "LD20.820",
+  "orpha_code": "ORPHA103820",
+  "overview": "周期性瘫痪 255型 (Periodic Paralysis Type 255) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103820。",
   "pipelines": []
 }

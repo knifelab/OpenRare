@@ -1,10 +1,10 @@
 {
   "id": "OR-00310",
-  "name_cn": "未命名罕见病实体型-310",
-  "name_en": "Rare Rare Disease Entity Type-310",
+  "name_cn": "周期性瘫痪 21型",
+  "name_en": "Periodic Paralysis Type 21",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA10310",
-  "overview": "Rare Rare Disease Entity Type-310 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10310)。",
+  "icd_11": "LD20.310",
+  "orpha_code": "ORPHA100310",
+  "overview": "周期性瘫痪 21型 (Periodic Paralysis Type 21) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100310。",
   "pipelines": []
 }

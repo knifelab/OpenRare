@@ -1,10 +1,10 @@
 {
   "id": "OR-05421",
-  "name_cn": "未命名罕见病实体型-5421",
-  "name_en": "Rare Rare Disease Entity Type-5421",
+  "name_cn": "脑病 362型",
+  "name_en": "Encephalopathy Type 362",
   "aliases": [],
-  "icd_11": "LD20.21",
-  "orpha_code": "ORPHA15421",
-  "overview": "Rare Rare Disease Entity Type-5421 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15421)。",
+  "icd_11": "LD20.421",
+  "orpha_code": "ORPHA105421",
+  "overview": "脑病 362型 (Encephalopathy Type 362) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105421。",
   "pipelines": []
 }

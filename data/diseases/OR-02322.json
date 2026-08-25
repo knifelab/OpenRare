@@ -1,10 +1,10 @@
 {
   "id": "OR-02322",
-  "name_cn": "未命名罕见病实体型-2322",
-  "name_en": "Rare Rare Disease Entity Type-2322",
+  "name_cn": "骨骼发育不良 155型",
+  "name_en": "Skeletal Dysplasia Type 155",
   "aliases": [],
-  "icd_11": "LD20.22",
-  "orpha_code": "ORPHA12322",
-  "overview": "Rare Rare Disease Entity Type-2322 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12322)。",
+  "icd_11": "LD20.322",
+  "orpha_code": "ORPHA102322",
+  "overview": "骨骼发育不良 155型 (Skeletal Dysplasia Type 155) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102322。",
   "pipelines": []
 }

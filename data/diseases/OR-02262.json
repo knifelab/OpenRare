@@ -1,10 +1,10 @@
 {
   "id": "OR-02262",
-  "name_cn": "未命名罕见病实体型-2262",
-  "name_en": "Rare Rare Disease Entity Type-2262",
+  "name_cn": "骨骼发育不良 151型",
+  "name_en": "Skeletal Dysplasia Type 151",
   "aliases": [],
-  "icd_11": "LD20.62",
-  "orpha_code": "ORPHA12262",
-  "overview": "Rare Rare Disease Entity Type-2262 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12262)。",
+  "icd_11": "LD20.262",
+  "orpha_code": "ORPHA102262",
+  "overview": "骨骼发育不良 151型 (Skeletal Dysplasia Type 151) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102262。",
   "pipelines": []
 }

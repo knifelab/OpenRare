@@ -1,10 +1,10 @@
 {
   "id": "OR-03813",
-  "name_cn": "未命名罕见病实体型-3813",
-  "name_en": "Rare Rare Disease Entity Type-3813",
+  "name_cn": "脑白质营养不良 255型",
+  "name_en": "Leukodystrophy Type 255",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA13813",
-  "overview": "Rare Rare Disease Entity Type-3813 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13813)。",
+  "icd_11": "LD20.813",
+  "orpha_code": "ORPHA103813",
+  "overview": "脑白质营养不良 255型 (Leukodystrophy Type 255) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103813。",
   "pipelines": []
 }

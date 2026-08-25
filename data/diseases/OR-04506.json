@@ -1,10 +1,10 @@
 {
   "id": "OR-04506",
-  "name_cn": "未命名罕见病实体型-4506",
-  "name_en": "Rare Rare Disease Entity Type-4506",
+  "name_cn": "脑病 301型",
+  "name_en": "Encephalopathy Type 301",
   "aliases": [],
-  "icd_11": "LD20.6",
-  "orpha_code": "ORPHA14506",
-  "overview": "Rare Rare Disease Entity Type-4506 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14506)。",
+  "icd_11": "LD20.506",
+  "orpha_code": "ORPHA104506",
+  "overview": "脑病 301型 (Encephalopathy Type 301) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104506。",
   "pipelines": []
 }

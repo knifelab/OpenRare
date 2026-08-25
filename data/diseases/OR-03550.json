@@ -1,10 +1,10 @@
 {
   "id": "OR-03550",
-  "name_cn": "未命名罕见病实体型-3550",
-  "name_en": "Rare Rare Disease Entity Type-3550",
+  "name_cn": "周期性瘫痪 237型",
+  "name_en": "Periodic Paralysis Type 237",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA13550",
-  "overview": "Rare Rare Disease Entity Type-3550 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13550)。",
+  "icd_11": "LD20.550",
+  "orpha_code": "ORPHA103550",
+  "overview": "周期性瘫痪 237型 (Periodic Paralysis Type 237) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103550。",
   "pipelines": []
 }

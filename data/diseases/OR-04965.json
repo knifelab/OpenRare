@@ -1,10 +1,10 @@
 {
   "id": "OR-04965",
-  "name_cn": "未命名罕见病实体型-4965",
-  "name_en": "Rare Rare Disease Entity Type-4965",
+  "name_cn": "肌营养不良症 332型",
+  "name_en": "Muscular Dystrophy Type 332",
   "aliases": [],
-  "icd_11": "LD20.65",
-  "orpha_code": "ORPHA14965",
-  "overview": "Rare Rare Disease Entity Type-4965 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14965)。",
+  "icd_11": "LD20.965",
+  "orpha_code": "ORPHA104965",
+  "overview": "肌营养不良症 332型 (Muscular Dystrophy Type 332) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104965。",
   "pipelines": []
 }

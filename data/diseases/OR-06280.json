@@ -1,10 +1,10 @@
 {
   "id": "OR-06280",
-  "name_cn": "未命名罕见病实体型-6280",
-  "name_en": "Rare Rare Disease Entity Type-6280",
+  "name_cn": "周期性瘫痪 419型",
+  "name_en": "Periodic Paralysis Type 419",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA16280",
-  "overview": "Rare Rare Disease Entity Type-6280 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16280)。",
+  "icd_11": "LD20.280",
+  "orpha_code": "ORPHA106280",
+  "overview": "周期性瘫痪 419型 (Periodic Paralysis Type 419) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106280。",
   "pipelines": []
 }

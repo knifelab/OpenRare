@@ -1,10 +1,10 @@
 {
   "id": "OR-04026",
-  "name_cn": "未命名罕见病实体型-4026",
-  "name_en": "Rare Rare Disease Entity Type-4026",
+  "name_cn": "脑病 269型",
+  "name_en": "Encephalopathy Type 269",
   "aliases": [],
-  "icd_11": "LD20.26",
-  "orpha_code": "ORPHA14026",
-  "overview": "Rare Rare Disease Entity Type-4026 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14026)。",
+  "icd_11": "LD20.026",
+  "orpha_code": "ORPHA104026",
+  "overview": "脑病 269型 (Encephalopathy Type 269) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104026。",
   "pipelines": []
 }

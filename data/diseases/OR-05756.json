@@ -1,10 +1,10 @@
 {
   "id": "OR-05756",
-  "name_cn": "未命名罕见病实体型-5756",
-  "name_en": "Rare Rare Disease Entity Type-5756",
+  "name_cn": "淀粉样变性 384型",
+  "name_en": "Amyloidosis Type 384",
   "aliases": [],
-  "icd_11": "LD20.56",
-  "orpha_code": "ORPHA15756",
-  "overview": "Rare Rare Disease Entity Type-5756 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15756)。",
+  "icd_11": "LD20.756",
+  "orpha_code": "ORPHA105756",
+  "overview": "淀粉样变性 384型 (Amyloidosis Type 384) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105756。",
   "pipelines": []
 }

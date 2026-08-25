@@ -1,10 +1,10 @@
 {
   "id": "OR-03829",
-  "name_cn": "未命名罕见病实体型-3829",
-  "name_en": "Rare Rare Disease Entity Type-3829",
+  "name_cn": "视网膜营养不良 256型",
+  "name_en": "Retinal Dystrophy Type 256",
   "aliases": [],
-  "icd_11": "LD20.29",
-  "orpha_code": "ORPHA13829",
-  "overview": "Rare Rare Disease Entity Type-3829 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13829)。",
+  "icd_11": "LD20.829",
+  "orpha_code": "ORPHA103829",
+  "overview": "视网膜营养不良 256型 (Retinal Dystrophy Type 256) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103829。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05257",
-  "name_cn": "未命名罕见病实体型-5257",
-  "name_en": "Rare Rare Disease Entity Type-5257",
+  "name_cn": "先天性糖基化异常 351型",
+  "name_en": "Congenital Disorder of Glycosylation Type 351",
   "aliases": [],
-  "icd_11": "LD20.57",
-  "orpha_code": "ORPHA15257",
-  "overview": "Rare Rare Disease Entity Type-5257 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15257)。",
+  "icd_11": "LD20.257",
+  "orpha_code": "ORPHA105257",
+  "overview": "先天性糖基化异常 351型 (Congenital Disorder of Glycosylation Type 351) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105257。",
   "pipelines": []
 }

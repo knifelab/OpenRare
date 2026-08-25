@@ -1,10 +1,10 @@
 {
   "id": "OR-06453",
-  "name_cn": "未命名罕见病实体型-6453",
-  "name_en": "Rare Rare Disease Entity Type-6453",
+  "name_cn": "脑白质营养不良 431型",
+  "name_en": "Leukodystrophy Type 431",
   "aliases": [],
-  "icd_11": "LD20.53",
-  "orpha_code": "ORPHA16453",
-  "overview": "Rare Rare Disease Entity Type-6453 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16453)。",
+  "icd_11": "LD20.453",
+  "orpha_code": "ORPHA106453",
+  "overview": "脑白质营养不良 431型 (Leukodystrophy Type 431) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106453。",
   "pipelines": []
 }

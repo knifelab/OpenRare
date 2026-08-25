@@ -1,10 +1,10 @@
 {
   "id": "OR-05655",
-  "name_cn": "未命名罕见病实体型-5655",
-  "name_en": "Rare Rare Disease Entity Type-5655",
+  "name_cn": "肌营养不良症 378型",
+  "name_en": "Muscular Dystrophy Type 378",
   "aliases": [],
-  "icd_11": "LD20.55",
-  "orpha_code": "ORPHA15655",
-  "overview": "Rare Rare Disease Entity Type-5655 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15655)。",
+  "icd_11": "LD20.655",
+  "orpha_code": "ORPHA105655",
+  "overview": "肌营养不良症 378型 (Muscular Dystrophy Type 378) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105655。",
   "pipelines": []
 }

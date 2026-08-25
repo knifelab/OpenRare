@@ -1,10 +1,10 @@
 {
   "id": "OR-04225",
-  "name_cn": "未命名罕见病实体型-4225",
-  "name_en": "Rare Rare Disease Entity Type-4225",
+  "name_cn": "周期性瘫痪 282型",
+  "name_en": "Periodic Paralysis Type 282",
   "aliases": [],
-  "icd_11": "LD20.25",
-  "orpha_code": "ORPHA14225",
-  "overview": "Rare Rare Disease Entity Type-4225 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14225)。",
+  "icd_11": "LD20.225",
+  "orpha_code": "ORPHA104225",
+  "overview": "周期性瘫痪 282型 (Periodic Paralysis Type 282) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104225。",
   "pipelines": []
 }

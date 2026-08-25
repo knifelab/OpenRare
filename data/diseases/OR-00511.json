@@ -1,10 +1,10 @@
 {
   "id": "OR-00511",
-  "name_cn": "未命名罕见病实体型-511",
-  "name_en": "Rare Rare Disease Entity Type-511",
+  "name_cn": "脊髓性肌萎缩症 35型",
+  "name_en": "Spinal Muscular Atrophy Type 35",
   "aliases": [],
-  "icd_11": "LD20.11",
-  "orpha_code": "ORPHA10511",
-  "overview": "Rare Rare Disease Entity Type-511 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10511)。",
+  "icd_11": "LD20.511",
+  "orpha_code": "ORPHA100511",
+  "overview": "脊髓性肌萎缩症 35型 (Spinal Muscular Atrophy Type 35) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100511。",
   "pipelines": []
 }

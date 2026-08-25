@@ -1,10 +1,10 @@
 {
   "id": "OR-03803",
-  "name_cn": "未命名罕见病实体型-3803",
-  "name_en": "Rare Rare Disease Entity Type-3803",
+  "name_cn": "原发性免疫缺陷病 254型",
+  "name_en": "Primary Immunodeficiency Type 254",
   "aliases": [],
-  "icd_11": "LD20.3",
-  "orpha_code": "ORPHA13803",
-  "overview": "Rare Rare Disease Entity Type-3803 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13803)。",
+  "icd_11": "LD20.803",
+  "orpha_code": "ORPHA103803",
+  "overview": "原发性免疫缺陷病 254型 (Primary Immunodeficiency Type 254) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103803。",
   "pipelines": []
 }

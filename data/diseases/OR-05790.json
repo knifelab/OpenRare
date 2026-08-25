@@ -1,10 +1,10 @@
 {
   "id": "OR-05790",
-  "name_cn": "未命名罕见病实体型-5790",
-  "name_en": "Rare Rare Disease Entity Type-5790",
+  "name_cn": "肌营养不良症 387型",
+  "name_en": "Muscular Dystrophy Type 387",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA15790",
-  "overview": "Rare Rare Disease Entity Type-5790 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15790)。",
+  "icd_11": "LD20.790",
+  "orpha_code": "ORPHA105790",
+  "overview": "肌营养不良症 387型 (Muscular Dystrophy Type 387) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105790。",
   "pipelines": []
 }

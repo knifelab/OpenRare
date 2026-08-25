@@ -1,10 +1,10 @@
 {
   "id": "OR-04446",
-  "name_cn": "未命名罕见病实体型-4446",
-  "name_en": "Rare Rare Disease Entity Type-4446",
+  "name_cn": "脑病 297型",
+  "name_en": "Encephalopathy Type 297",
   "aliases": [],
-  "icd_11": "LD20.46",
-  "orpha_code": "ORPHA14446",
-  "overview": "Rare Rare Disease Entity Type-4446 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14446)。",
+  "icd_11": "LD20.446",
+  "orpha_code": "ORPHA104446",
+  "overview": "脑病 297型 (Encephalopathy Type 297) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104446。",
   "pipelines": []
 }

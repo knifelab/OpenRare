@@ -1,10 +1,10 @@
 {
   "id": "OR-05435",
-  "name_cn": "未命名罕见病实体型-5435",
-  "name_en": "Rare Rare Disease Entity Type-5435",
+  "name_cn": "共济失调症 363型",
+  "name_en": "Ataxia Type 363",
   "aliases": [],
-  "icd_11": "LD20.35",
-  "orpha_code": "ORPHA15435",
-  "overview": "Rare Rare Disease Entity Type-5435 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15435)。",
+  "icd_11": "LD20.435",
+  "orpha_code": "ORPHA105435",
+  "overview": "共济失调症 363型 (Ataxia Type 363) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105435。",
   "pipelines": []
 }

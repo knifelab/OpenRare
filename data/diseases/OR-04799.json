@@ -1,10 +1,10 @@
 {
   "id": "OR-04799",
-  "name_cn": "未命名罕见病实体型-4799",
-  "name_en": "Rare Rare Disease Entity Type-4799",
+  "name_cn": "动脉性肺动脉高压 320型",
+  "name_en": "Pulmonary Arterial Hypertension Type 320",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA14799",
-  "overview": "Rare Rare Disease Entity Type-4799 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14799)。",
+  "icd_11": "LD20.799",
+  "orpha_code": "ORPHA104799",
+  "overview": "动脉性肺动脉高压 320型 (Pulmonary Arterial Hypertension Type 320) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104799。",
   "pipelines": []
 }

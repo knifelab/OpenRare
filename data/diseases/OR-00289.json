@@ -1,10 +1,10 @@
 {
   "id": "OR-00289",
-  "name_cn": "未命名罕见病实体型-289",
-  "name_en": "Rare Rare Disease Entity Type-289",
+  "name_cn": "视网膜营养不良 20型",
+  "name_en": "Retinal Dystrophy Type 20",
   "aliases": [],
-  "icd_11": "LD20.89",
-  "orpha_code": "ORPHA10289",
-  "overview": "Rare Rare Disease Entity Type-289 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10289)。",
+  "icd_11": "LD20.289",
+  "orpha_code": "ORPHA100289",
+  "overview": "视网膜营养不良 20型 (Retinal Dystrophy Type 20) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100289。",
   "pipelines": []
 }

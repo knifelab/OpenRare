@@ -1,10 +1,10 @@
 {
   "id": "OR-02006",
-  "name_cn": "未命名罕见病实体型-2006",
-  "name_en": "Rare Rare Disease Entity Type-2006",
+  "name_cn": "淀粉样变性 134型",
+  "name_en": "Amyloidosis Type 134",
   "aliases": [],
-  "icd_11": "LD20.6",
-  "orpha_code": "ORPHA12006",
-  "overview": "Rare Rare Disease Entity Type-2006 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12006)。",
+  "icd_11": "LD20.006",
+  "orpha_code": "ORPHA102006",
+  "overview": "淀粉样变性 134型 (Amyloidosis Type 134) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102006。",
   "pipelines": []
 }

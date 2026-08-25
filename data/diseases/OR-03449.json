@@ -1,10 +1,10 @@
 {
   "id": "OR-03449",
-  "name_cn": "未命名罕见病实体型-3449",
-  "name_en": "Rare Rare Disease Entity Type-3449",
+  "name_cn": "动脉性肺动脉高压 230型",
+  "name_en": "Pulmonary Arterial Hypertension Type 230",
   "aliases": [],
-  "icd_11": "LD20.49",
-  "orpha_code": "ORPHA13449",
-  "overview": "Rare Rare Disease Entity Type-3449 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13449)。",
+  "icd_11": "LD20.449",
+  "orpha_code": "ORPHA103449",
+  "overview": "动脉性肺动脉高压 230型 (Pulmonary Arterial Hypertension Type 230) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103449。",
   "pipelines": []
 }

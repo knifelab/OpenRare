@@ -1,10 +1,10 @@
 {
   "id": "OR-03209",
-  "name_cn": "未命名罕见病实体型-3209",
-  "name_en": "Rare Rare Disease Entity Type-3209",
+  "name_cn": "动脉性肺动脉高压 214型",
+  "name_en": "Pulmonary Arterial Hypertension Type 214",
   "aliases": [],
-  "icd_11": "LD20.9",
-  "orpha_code": "ORPHA13209",
-  "overview": "Rare Rare Disease Entity Type-3209 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13209)。",
+  "icd_11": "LD20.209",
+  "orpha_code": "ORPHA103209",
+  "overview": "动脉性肺动脉高压 214型 (Pulmonary Arterial Hypertension Type 214) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103209。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05066",
-  "name_cn": "未命名罕见病实体型-5066",
-  "name_en": "Rare Rare Disease Entity Type-5066",
+  "name_cn": "淀粉样变性 338型",
+  "name_en": "Amyloidosis Type 338",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA15066",
-  "overview": "Rare Rare Disease Entity Type-5066 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15066)。",
+  "icd_11": "LD20.066",
+  "orpha_code": "ORPHA105066",
+  "overview": "淀粉样变性 338型 (Amyloidosis Type 338) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105066。",
   "pipelines": []
 }

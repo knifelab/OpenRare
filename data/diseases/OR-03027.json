@@ -1,10 +1,10 @@
 {
   "id": "OR-03027",
-  "name_cn": "未命名罕见病实体型-3027",
-  "name_en": "Rare Rare Disease Entity Type-3027",
+  "name_cn": "骨骼发育不良 202型",
+  "name_en": "Skeletal Dysplasia Type 202",
   "aliases": [],
-  "icd_11": "LD20.27",
-  "orpha_code": "ORPHA13027",
-  "overview": "Rare Rare Disease Entity Type-3027 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13027)。",
+  "icd_11": "LD20.027",
+  "orpha_code": "ORPHA103027",
+  "overview": "骨骼发育不良 202型 (Skeletal Dysplasia Type 202) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103027。",
   "pipelines": []
 }

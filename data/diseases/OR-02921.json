@@ -1,10 +1,10 @@
 {
   "id": "OR-02921",
-  "name_cn": "未命名罕见病实体型-2921",
-  "name_en": "Rare Rare Disease Entity Type-2921",
+  "name_cn": "淀粉样变性 195型",
+  "name_en": "Amyloidosis Type 195",
   "aliases": [],
-  "icd_11": "LD20.21",
-  "orpha_code": "ORPHA12921",
-  "overview": "Rare Rare Disease Entity Type-2921 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12921)。",
+  "icd_11": "LD20.921",
+  "orpha_code": "ORPHA102921",
+  "overview": "淀粉样变性 195型 (Amyloidosis Type 195) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102921。",
   "pipelines": []
 }

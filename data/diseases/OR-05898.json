@@ -1,10 +1,10 @@
 {
   "id": "OR-05898",
-  "name_cn": "未命名罕见病实体型-5898",
-  "name_en": "Rare Rare Disease Entity Type-5898",
+  "name_cn": "脑白质营养不良 394型",
+  "name_en": "Leukodystrophy Type 394",
   "aliases": [],
-  "icd_11": "LD20.98",
-  "orpha_code": "ORPHA15898",
-  "overview": "Rare Rare Disease Entity Type-5898 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15898)。",
+  "icd_11": "LD20.898",
+  "orpha_code": "ORPHA105898",
+  "overview": "脑白质营养不良 394型 (Leukodystrophy Type 394) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105898。",
   "pipelines": []
 }

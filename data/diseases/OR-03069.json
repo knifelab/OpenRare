@@ -1,10 +1,10 @@
 {
   "id": "OR-03069",
-  "name_cn": "未命名罕见病实体型-3069",
-  "name_en": "Rare Rare Disease Entity Type-3069",
+  "name_cn": "外胚层发育不良 205型",
+  "name_en": "Ectodermal Dysplasia Type 205",
   "aliases": [],
-  "icd_11": "LD20.69",
-  "orpha_code": "ORPHA13069",
-  "overview": "Rare Rare Disease Entity Type-3069 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13069)。",
+  "icd_11": "LD20.069",
+  "orpha_code": "ORPHA103069",
+  "overview": "外胚层发育不良 205型 (Ectodermal Dysplasia Type 205) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103069。",
   "pipelines": []
 }

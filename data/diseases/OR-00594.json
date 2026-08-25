@@ -1,10 +1,10 @@
 {
   "id": "OR-00594",
-  "name_cn": "未命名罕见病实体型-594",
-  "name_en": "Rare Rare Disease Entity Type-594",
+  "name_cn": "外胚层发育不良 40型",
+  "name_en": "Ectodermal Dysplasia Type 40",
   "aliases": [],
-  "icd_11": "LD20.94",
-  "orpha_code": "ORPHA10594",
-  "overview": "Rare Rare Disease Entity Type-594 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10594)。",
+  "icd_11": "LD20.594",
+  "orpha_code": "ORPHA100594",
+  "overview": "外胚层发育不良 40型 (Ectodermal Dysplasia Type 40) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100594。",
   "pipelines": []
 }

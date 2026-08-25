@@ -1,10 +1,10 @@
 {
   "id": "OR-02458",
-  "name_cn": "未命名罕见病实体型-2458",
-  "name_en": "Rare Rare Disease Entity Type-2458",
+  "name_cn": "线粒体肌病 164型",
+  "name_en": "Mitochondrial Myopathy Type 164",
   "aliases": [],
-  "icd_11": "LD20.58",
-  "orpha_code": "ORPHA12458",
-  "overview": "Rare Rare Disease Entity Type-2458 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12458)。",
+  "icd_11": "LD20.458",
+  "orpha_code": "ORPHA102458",
+  "overview": "线粒体肌病 164型 (Mitochondrial Myopathy Type 164) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102458。",
   "pipelines": []
 }

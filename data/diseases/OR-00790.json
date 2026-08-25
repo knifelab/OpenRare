@@ -1,10 +1,10 @@
 {
   "id": "OR-00790",
-  "name_cn": "未命名罕见病实体型-790",
-  "name_en": "Rare Rare Disease Entity Type-790",
+  "name_cn": "周期性瘫痪 53型",
+  "name_en": "Periodic Paralysis Type 53",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA10790",
-  "overview": "Rare Rare Disease Entity Type-790 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10790)。",
+  "icd_11": "LD20.790",
+  "orpha_code": "ORPHA100790",
+  "overview": "周期性瘫痪 53型 (Periodic Paralysis Type 53) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100790。",
   "pipelines": []
 }

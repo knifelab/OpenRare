@@ -1,10 +1,10 @@
 {
   "id": "OR-03049",
-  "name_cn": "未命名罕见病实体型-3049",
-  "name_en": "Rare Rare Disease Entity Type-3049",
+  "name_cn": "视网膜营养不良 204型",
+  "name_en": "Retinal Dystrophy Type 204",
   "aliases": [],
-  "icd_11": "LD20.49",
-  "orpha_code": "ORPHA13049",
-  "overview": "Rare Rare Disease Entity Type-3049 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13049)。",
+  "icd_11": "LD20.049",
+  "orpha_code": "ORPHA103049",
+  "overview": "视网膜营养不良 204型 (Retinal Dystrophy Type 204) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103049。",
   "pipelines": []
 }

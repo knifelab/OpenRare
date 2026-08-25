@@ -1,10 +1,10 @@
 {
   "id": "OR-05035",
-  "name_cn": "未命名罕见病实体型-5035",
-  "name_en": "Rare Rare Disease Entity Type-5035",
+  "name_cn": "周期性瘫痪 336型",
+  "name_en": "Periodic Paralysis Type 336",
   "aliases": [],
-  "icd_11": "LD20.35",
-  "orpha_code": "ORPHA15035",
-  "overview": "Rare Rare Disease Entity Type-5035 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15035)。",
+  "icd_11": "LD20.035",
+  "orpha_code": "ORPHA105035",
+  "overview": "周期性瘫痪 336型 (Periodic Paralysis Type 336) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105035。",
   "pipelines": []
 }

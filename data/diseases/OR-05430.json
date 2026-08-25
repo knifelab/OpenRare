@@ -1,10 +1,10 @@
 {
   "id": "OR-05430",
-  "name_cn": "未命名罕见病实体型-5430",
-  "name_en": "Rare Rare Disease Entity Type-5430",
+  "name_cn": "肌营养不良症 363型",
+  "name_en": "Muscular Dystrophy Type 363",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA15430",
-  "overview": "Rare Rare Disease Entity Type-5430 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15430)。",
+  "icd_11": "LD20.430",
+  "orpha_code": "ORPHA105430",
+  "overview": "肌营养不良症 363型 (Muscular Dystrophy Type 363) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105430。",
   "pipelines": []
 }

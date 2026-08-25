@@ -1,10 +1,10 @@
 {
   "id": "OR-02048",
-  "name_cn": "未命名罕见病实体型-2048",
-  "name_en": "Rare Rare Disease Entity Type-2048",
+  "name_cn": "原发性免疫缺陷病 137型",
+  "name_en": "Primary Immunodeficiency Type 137",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA12048",
-  "overview": "Rare Rare Disease Entity Type-2048 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12048)。",
+  "icd_11": "LD20.048",
+  "orpha_code": "ORPHA102048",
+  "overview": "原发性免疫缺陷病 137型 (Primary Immunodeficiency Type 137) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102048。",
   "pipelines": []
 }

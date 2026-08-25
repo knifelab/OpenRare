@@ -1,10 +1,10 @@
 {
   "id": "OR-05627",
-  "name_cn": "未命名罕见病实体型-5627",
-  "name_en": "Rare Rare Disease Entity Type-5627",
+  "name_cn": "溶酶体贮积症 376型",
+  "name_en": "Lysosomal Storage Disorder Type 376",
   "aliases": [],
-  "icd_11": "LD20.27",
-  "orpha_code": "ORPHA15627",
-  "overview": "Rare Rare Disease Entity Type-5627 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15627)。",
+  "icd_11": "LD20.627",
+  "orpha_code": "ORPHA105627",
+  "overview": "溶酶体贮积症 376型 (Lysosomal Storage Disorder Type 376) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105627。",
   "pipelines": []
 }

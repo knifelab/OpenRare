@@ -1,10 +1,10 @@
 {
   "id": "OR-00835",
-  "name_cn": "未命名罕见病实体型-835",
-  "name_en": "Rare Rare Disease Entity Type-835",
+  "name_cn": "周期性瘫痪 56型",
+  "name_en": "Periodic Paralysis Type 56",
   "aliases": [],
-  "icd_11": "LD20.35",
-  "orpha_code": "ORPHA10835",
-  "overview": "Rare Rare Disease Entity Type-835 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10835)。",
+  "icd_11": "LD20.835",
+  "orpha_code": "ORPHA100835",
+  "overview": "周期性瘫痪 56型 (Periodic Paralysis Type 56) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100835。",
   "pipelines": []
 }

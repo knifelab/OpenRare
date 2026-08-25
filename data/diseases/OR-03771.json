@@ -1,10 +1,10 @@
 {
   "id": "OR-03771",
-  "name_cn": "未命名罕见病实体型-3771",
-  "name_en": "Rare Rare Disease Entity Type-3771",
+  "name_cn": "脑病 252型",
+  "name_en": "Encephalopathy Type 252",
   "aliases": [],
-  "icd_11": "LD20.71",
-  "orpha_code": "ORPHA13771",
-  "overview": "Rare Rare Disease Entity Type-3771 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13771)。",
+  "icd_11": "LD20.771",
+  "orpha_code": "ORPHA103771",
+  "overview": "脑病 252型 (Encephalopathy Type 252) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103771。",
   "pipelines": []
 }

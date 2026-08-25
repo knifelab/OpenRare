@@ -1,10 +1,10 @@
 {
   "id": "OR-02399",
-  "name_cn": "未命名罕见病实体型-2399",
-  "name_en": "Rare Rare Disease Entity Type-2399",
+  "name_cn": "动脉性肺动脉高压 160型",
+  "name_en": "Pulmonary Arterial Hypertension Type 160",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA12399",
-  "overview": "Rare Rare Disease Entity Type-2399 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12399)。",
+  "icd_11": "LD20.399",
+  "orpha_code": "ORPHA102399",
+  "overview": "动脉性肺动脉高压 160型 (Pulmonary Arterial Hypertension Type 160) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102399。",
   "pipelines": []
 }

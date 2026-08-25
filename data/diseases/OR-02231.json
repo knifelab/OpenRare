@@ -1,10 +1,10 @@
 {
   "id": "OR-02231",
-  "name_cn": "未命名罕见病实体型-2231",
-  "name_en": "Rare Rare Disease Entity Type-2231",
+  "name_cn": "淀粉样变性 149型",
+  "name_en": "Amyloidosis Type 149",
   "aliases": [],
-  "icd_11": "LD20.31",
-  "orpha_code": "ORPHA12231",
-  "overview": "Rare Rare Disease Entity Type-2231 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12231)。",
+  "icd_11": "LD20.231",
+  "orpha_code": "ORPHA102231",
+  "overview": "淀粉样变性 149型 (Amyloidosis Type 149) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102231。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02342",
-  "name_cn": "未命名罕见病实体型-2342",
-  "name_en": "Rare Rare Disease Entity Type-2342",
+  "name_cn": "溶酶体贮积症 157型",
+  "name_en": "Lysosomal Storage Disorder Type 157",
   "aliases": [],
-  "icd_11": "LD20.42",
-  "orpha_code": "ORPHA12342",
-  "overview": "Rare Rare Disease Entity Type-2342 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12342)。",
+  "icd_11": "LD20.342",
+  "orpha_code": "ORPHA102342",
+  "overview": "溶酶体贮积症 157型 (Lysosomal Storage Disorder Type 157) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102342。",
   "pipelines": []
 }

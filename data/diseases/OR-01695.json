@@ -1,10 +1,10 @@
 {
   "id": "OR-01695",
-  "name_cn": "未命名罕见病实体型-1695",
-  "name_en": "Rare Rare Disease Entity Type-1695",
+  "name_cn": "肌营养不良症 114型",
+  "name_en": "Muscular Dystrophy Type 114",
   "aliases": [],
-  "icd_11": "LD20.95",
-  "orpha_code": "ORPHA11695",
-  "overview": "Rare Rare Disease Entity Type-1695 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11695)。",
+  "icd_11": "LD20.695",
+  "orpha_code": "ORPHA101695",
+  "overview": "肌营养不良症 114型 (Muscular Dystrophy Type 114) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101695。",
   "pipelines": []
 }

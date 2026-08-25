@@ -1,10 +1,10 @@
 {
   "id": "OR-05812",
-  "name_cn": "未命名罕见病实体型-5812",
-  "name_en": "Rare Rare Disease Entity Type-5812",
+  "name_cn": "先天性糖基化异常 388型",
+  "name_en": "Congenital Disorder of Glycosylation Type 388",
   "aliases": [],
-  "icd_11": "LD20.12",
-  "orpha_code": "ORPHA15812",
-  "overview": "Rare Rare Disease Entity Type-5812 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15812)。",
+  "icd_11": "LD20.812",
+  "orpha_code": "ORPHA105812",
+  "overview": "先天性糖基化异常 388型 (Congenital Disorder of Glycosylation Type 388) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105812。",
   "pipelines": []
 }

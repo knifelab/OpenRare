@@ -1,10 +1,10 @@
 {
   "id": "OR-02487",
-  "name_cn": "未命名罕见病实体型-2487",
-  "name_en": "Rare Rare Disease Entity Type-2487",
+  "name_cn": "骨骼发育不良 166型",
+  "name_en": "Skeletal Dysplasia Type 166",
   "aliases": [],
-  "icd_11": "LD20.87",
-  "orpha_code": "ORPHA12487",
-  "overview": "Rare Rare Disease Entity Type-2487 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12487)。",
+  "icd_11": "LD20.487",
+  "orpha_code": "ORPHA102487",
+  "overview": "骨骼发育不良 166型 (Skeletal Dysplasia Type 166) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102487。",
   "pipelines": []
 }

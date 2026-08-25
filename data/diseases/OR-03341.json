@@ -1,10 +1,10 @@
 {
   "id": "OR-03341",
-  "name_cn": "未命名罕见病实体型-3341",
-  "name_en": "Rare Rare Disease Entity Type-3341",
+  "name_cn": "淀粉样变性 223型",
+  "name_en": "Amyloidosis Type 223",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA13341",
-  "overview": "Rare Rare Disease Entity Type-3341 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13341)。",
+  "icd_11": "LD20.341",
+  "orpha_code": "ORPHA103341",
+  "overview": "淀粉样变性 223型 (Amyloidosis Type 223) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103341。",
   "pipelines": []
 }

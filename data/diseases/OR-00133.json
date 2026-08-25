@@ -1,10 +1,10 @@
 {
   "id": "OR-00133",
-  "name_cn": "未命名罕见病实体型-133",
-  "name_en": "Rare Rare Disease Entity Type-133",
+  "name_cn": "线粒体肌病 9型",
+  "name_en": "Mitochondrial Myopathy Type 9",
   "aliases": [],
-  "icd_11": "LD20.33",
-  "orpha_code": "ORPHA10133",
-  "overview": "Rare Rare Disease Entity Type-133 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10133)。",
+  "icd_11": "LD20.133",
+  "orpha_code": "ORPHA100133",
+  "overview": "线粒体肌病 9型 (Mitochondrial Myopathy Type 9) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100133。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04308",
-  "name_cn": "未命名罕见病实体型-4308",
-  "name_en": "Rare Rare Disease Entity Type-4308",
+  "name_cn": "脑白质营养不良 288型",
+  "name_en": "Leukodystrophy Type 288",
   "aliases": [],
-  "icd_11": "LD20.8",
-  "orpha_code": "ORPHA14308",
-  "overview": "Rare Rare Disease Entity Type-4308 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14308)。",
+  "icd_11": "LD20.308",
+  "orpha_code": "ORPHA104308",
+  "overview": "脑白质营养不良 288型 (Leukodystrophy Type 288) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104308。",
   "pipelines": []
 }

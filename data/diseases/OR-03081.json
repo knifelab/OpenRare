@@ -1,10 +1,10 @@
 {
   "id": "OR-03081",
-  "name_cn": "未命名罕见病实体型-3081",
-  "name_en": "Rare Rare Disease Entity Type-3081",
+  "name_cn": "脑病 206型",
+  "name_en": "Encephalopathy Type 206",
   "aliases": [],
-  "icd_11": "LD20.81",
-  "orpha_code": "ORPHA13081",
-  "overview": "Rare Rare Disease Entity Type-3081 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13081)。",
+  "icd_11": "LD20.081",
+  "orpha_code": "ORPHA103081",
+  "overview": "脑病 206型 (Encephalopathy Type 206) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103081。",
   "pipelines": []
 }

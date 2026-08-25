@@ -1,10 +1,10 @@
 {
   "id": "OR-05149",
-  "name_cn": "未命名罕见病实体型-5149",
-  "name_en": "Rare Rare Disease Entity Type-5149",
+  "name_cn": "视网膜营养不良 344型",
+  "name_en": "Retinal Dystrophy Type 344",
   "aliases": [],
-  "icd_11": "LD20.49",
-  "orpha_code": "ORPHA15149",
-  "overview": "Rare Rare Disease Entity Type-5149 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15149)。",
+  "icd_11": "LD20.149",
+  "orpha_code": "ORPHA105149",
+  "overview": "视网膜营养不良 344型 (Retinal Dystrophy Type 344) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105149。",
   "pipelines": []
 }

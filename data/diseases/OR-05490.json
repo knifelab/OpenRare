@@ -1,10 +1,10 @@
 {
   "id": "OR-05490",
-  "name_cn": "未命名罕见病实体型-5490",
-  "name_en": "Rare Rare Disease Entity Type-5490",
+  "name_cn": "肌营养不良症 367型",
+  "name_en": "Muscular Dystrophy Type 367",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA15490",
-  "overview": "Rare Rare Disease Entity Type-5490 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15490)。",
+  "icd_11": "LD20.490",
+  "orpha_code": "ORPHA105490",
+  "overview": "肌营养不良症 367型 (Muscular Dystrophy Type 367) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105490。",
   "pipelines": []
 }

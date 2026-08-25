@@ -1,10 +1,10 @@
 {
   "id": "OR-06975",
-  "name_cn": "未命名罕见病实体型-6975",
-  "name_en": "Rare Rare Disease Entity Type-6975",
+  "name_cn": "肌营养不良症 466型",
+  "name_en": "Muscular Dystrophy Type 466",
   "aliases": [],
-  "icd_11": "LD20.75",
-  "orpha_code": "ORPHA16975",
-  "overview": "Rare Rare Disease Entity Type-6975 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16975)。",
+  "icd_11": "LD20.975",
+  "orpha_code": "ORPHA106975",
+  "overview": "肌营养不良症 466型 (Muscular Dystrophy Type 466) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106975。",
   "pipelines": []
 }

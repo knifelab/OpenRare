@@ -1,10 +1,10 @@
 {
   "id": "OR-04581",
-  "name_cn": "未命名罕见病实体型-4581",
-  "name_en": "Rare Rare Disease Entity Type-4581",
+  "name_cn": "脑病 306型",
+  "name_en": "Encephalopathy Type 306",
   "aliases": [],
-  "icd_11": "LD20.81",
-  "orpha_code": "ORPHA14581",
-  "overview": "Rare Rare Disease Entity Type-4581 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14581)。",
+  "icd_11": "LD20.581",
+  "orpha_code": "ORPHA104581",
+  "overview": "脑病 306型 (Encephalopathy Type 306) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104581。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02024",
-  "name_cn": "未命名罕见病实体型-2024",
-  "name_en": "Rare Rare Disease Entity Type-2024",
+  "name_cn": "动脉性肺动脉高压 135型",
+  "name_en": "Pulmonary Arterial Hypertension Type 135",
   "aliases": [],
-  "icd_11": "LD20.24",
-  "orpha_code": "ORPHA12024",
-  "overview": "Rare Rare Disease Entity Type-2024 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12024)。",
+  "icd_11": "LD20.024",
+  "orpha_code": "ORPHA102024",
+  "overview": "动脉性肺动脉高压 135型 (Pulmonary Arterial Hypertension Type 135) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102024。",
   "pipelines": []
 }

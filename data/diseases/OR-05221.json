@@ -1,10 +1,10 @@
 {
   "id": "OR-05221",
-  "name_cn": "未命名罕见病实体型-5221",
-  "name_en": "Rare Rare Disease Entity Type-5221",
+  "name_cn": "脊髓性肌萎缩症 349型",
+  "name_en": "Spinal Muscular Atrophy Type 349",
   "aliases": [],
-  "icd_11": "LD20.21",
-  "orpha_code": "ORPHA15221",
-  "overview": "Rare Rare Disease Entity Type-5221 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15221)。",
+  "icd_11": "LD20.221",
+  "orpha_code": "ORPHA105221",
+  "overview": "脊髓性肌萎缩症 349型 (Spinal Muscular Atrophy Type 349) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105221。",
   "pipelines": []
 }

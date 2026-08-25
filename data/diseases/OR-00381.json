@@ -1,10 +1,10 @@
 {
   "id": "OR-00381",
-  "name_cn": "未命名罕见病实体型-381",
-  "name_en": "Rare Rare Disease Entity Type-381",
+  "name_cn": "脑病 26型",
+  "name_en": "Encephalopathy Type 26",
   "aliases": [],
-  "icd_11": "LD20.81",
-  "orpha_code": "ORPHA10381",
-  "overview": "Rare Rare Disease Entity Type-381 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10381)。",
+  "icd_11": "LD20.381",
+  "orpha_code": "ORPHA100381",
+  "overview": "脑病 26型 (Encephalopathy Type 26) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100381。",
   "pipelines": []
 }

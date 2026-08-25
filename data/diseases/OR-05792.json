@@ -1,10 +1,10 @@
 {
   "id": "OR-05792",
-  "name_cn": "未命名罕见病实体型-5792",
-  "name_en": "Rare Rare Disease Entity Type-5792",
+  "name_cn": "溶酶体贮积症 387型",
+  "name_en": "Lysosomal Storage Disorder Type 387",
   "aliases": [],
-  "icd_11": "LD20.92",
-  "orpha_code": "ORPHA15792",
-  "overview": "Rare Rare Disease Entity Type-5792 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15792)。",
+  "icd_11": "LD20.792",
+  "orpha_code": "ORPHA105792",
+  "overview": "溶酶体贮积症 387型 (Lysosomal Storage Disorder Type 387) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105792。",
   "pipelines": []
 }

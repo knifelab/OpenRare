@@ -1,10 +1,10 @@
 {
   "id": "OR-05907",
-  "name_cn": "未命名罕见病实体型-5907",
-  "name_en": "Rare Rare Disease Entity Type-5907",
+  "name_cn": "骨骼发育不良 394型",
+  "name_en": "Skeletal Dysplasia Type 394",
   "aliases": [],
-  "icd_11": "LD20.7",
-  "orpha_code": "ORPHA15907",
-  "overview": "Rare Rare Disease Entity Type-5907 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15907)。",
+  "icd_11": "LD20.907",
+  "orpha_code": "ORPHA105907",
+  "overview": "骨骼发育不良 394型 (Skeletal Dysplasia Type 394) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105907。",
   "pipelines": []
 }

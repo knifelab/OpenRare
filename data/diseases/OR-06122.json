@@ -1,10 +1,10 @@
 {
   "id": "OR-06122",
-  "name_cn": "未命名罕见病实体型-6122",
-  "name_en": "Rare Rare Disease Entity Type-6122",
+  "name_cn": "溶酶体贮积症 409型",
+  "name_en": "Lysosomal Storage Disorder Type 409",
   "aliases": [],
-  "icd_11": "LD20.22",
-  "orpha_code": "ORPHA16122",
-  "overview": "Rare Rare Disease Entity Type-6122 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16122)。",
+  "icd_11": "LD20.122",
+  "orpha_code": "ORPHA106122",
+  "overview": "溶酶体贮积症 409型 (Lysosomal Storage Disorder Type 409) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106122。",
   "pipelines": []
 }

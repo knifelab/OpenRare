@@ -1,10 +1,10 @@
 {
   "id": "OR-04260",
-  "name_cn": "未命名罕见病实体型-4260",
-  "name_en": "Rare Rare Disease Entity Type-4260",
+  "name_cn": "肌营养不良症 285型",
+  "name_en": "Muscular Dystrophy Type 285",
   "aliases": [],
-  "icd_11": "LD20.60",
-  "orpha_code": "ORPHA14260",
-  "overview": "Rare Rare Disease Entity Type-4260 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14260)。",
+  "icd_11": "LD20.260",
+  "orpha_code": "ORPHA104260",
+  "overview": "肌营养不良症 285型 (Muscular Dystrophy Type 285) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104260。",
   "pipelines": []
 }

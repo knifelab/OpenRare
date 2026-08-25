@@ -1,10 +1,10 @@
 {
   "id": "OR-03013",
-  "name_cn": "未命名罕见病实体型-3013",
-  "name_en": "Rare Rare Disease Entity Type-3013",
+  "name_cn": "线粒体肌病 201型",
+  "name_en": "Mitochondrial Myopathy Type 201",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA13013",
-  "overview": "Rare Rare Disease Entity Type-3013 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13013)。",
+  "icd_11": "LD20.013",
+  "orpha_code": "ORPHA103013",
+  "overview": "线粒体肌病 201型 (Mitochondrial Myopathy Type 201) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103013。",
   "pipelines": []
 }

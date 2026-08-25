@@ -1,10 +1,10 @@
 {
   "id": "OR-02726",
-  "name_cn": "未命名罕见病实体型-2726",
-  "name_en": "Rare Rare Disease Entity Type-2726",
+  "name_cn": "淀粉样变性 182型",
+  "name_en": "Amyloidosis Type 182",
   "aliases": [],
-  "icd_11": "LD20.26",
-  "orpha_code": "ORPHA12726",
-  "overview": "Rare Rare Disease Entity Type-2726 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12726)。",
+  "icd_11": "LD20.726",
+  "orpha_code": "ORPHA102726",
+  "overview": "淀粉样变性 182型 (Amyloidosis Type 182) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102726。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00634",
-  "name_cn": "未命名罕见病实体型-634",
-  "name_en": "Rare Rare Disease Entity Type-634",
+  "name_cn": "视网膜营养不良 43型",
+  "name_en": "Retinal Dystrophy Type 43",
   "aliases": [],
-  "icd_11": "LD20.34",
-  "orpha_code": "ORPHA10634",
-  "overview": "Rare Rare Disease Entity Type-634 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10634)。",
+  "icd_11": "LD20.634",
+  "orpha_code": "ORPHA100634",
+  "overview": "视网膜营养不良 43型 (Retinal Dystrophy Type 43) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100634。",
   "pipelines": []
 }

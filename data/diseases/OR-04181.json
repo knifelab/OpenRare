@@ -1,10 +1,10 @@
 {
   "id": "OR-04181",
-  "name_cn": "未命名罕见病实体型-4181",
-  "name_en": "Rare Rare Disease Entity Type-4181",
+  "name_cn": "淀粉样变性 279型",
+  "name_en": "Amyloidosis Type 279",
   "aliases": [],
-  "icd_11": "LD20.81",
-  "orpha_code": "ORPHA14181",
-  "overview": "Rare Rare Disease Entity Type-4181 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14181)。",
+  "icd_11": "LD20.181",
+  "orpha_code": "ORPHA104181",
+  "overview": "淀粉样变性 279型 (Amyloidosis Type 279) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104181。",
   "pipelines": []
 }

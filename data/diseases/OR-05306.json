@@ -1,10 +1,10 @@
 {
   "id": "OR-05306",
-  "name_cn": "未命名罕见病实体型-5306",
-  "name_en": "Rare Rare Disease Entity Type-5306",
+  "name_cn": "淀粉样变性 354型",
+  "name_en": "Amyloidosis Type 354",
   "aliases": [],
-  "icd_11": "LD20.6",
-  "orpha_code": "ORPHA15306",
-  "overview": "Rare Rare Disease Entity Type-5306 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15306)。",
+  "icd_11": "LD20.306",
+  "orpha_code": "ORPHA105306",
+  "overview": "淀粉样变性 354型 (Amyloidosis Type 354) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105306。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02877",
-  "name_cn": "未命名罕见病实体型-2877",
-  "name_en": "Rare Rare Disease Entity Type-2877",
+  "name_cn": "骨骼发育不良 192型",
+  "name_en": "Skeletal Dysplasia Type 192",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA12877",
-  "overview": "Rare Rare Disease Entity Type-2877 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12877)。",
+  "icd_11": "LD20.877",
+  "orpha_code": "ORPHA102877",
+  "overview": "骨骼发育不良 192型 (Skeletal Dysplasia Type 192) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102877。",
   "pipelines": []
 }

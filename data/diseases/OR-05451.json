@@ -1,10 +1,10 @@
 {
   "id": "OR-05451",
-  "name_cn": "未命名罕见病实体型-5451",
-  "name_en": "Rare Rare Disease Entity Type-5451",
+  "name_cn": "脑病 364型",
+  "name_en": "Encephalopathy Type 364",
   "aliases": [],
-  "icd_11": "LD20.51",
-  "orpha_code": "ORPHA15451",
-  "overview": "Rare Rare Disease Entity Type-5451 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15451)。",
+  "icd_11": "LD20.451",
+  "orpha_code": "ORPHA105451",
+  "overview": "脑病 364型 (Encephalopathy Type 364) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105451。",
   "pipelines": []
 }

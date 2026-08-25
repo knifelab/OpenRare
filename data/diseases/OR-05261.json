@@ -1,10 +1,10 @@
 {
   "id": "OR-05261",
-  "name_cn": "未命名罕见病实体型-5261",
-  "name_en": "Rare Rare Disease Entity Type-5261",
+  "name_cn": "淀粉样变性 351型",
+  "name_en": "Amyloidosis Type 351",
   "aliases": [],
-  "icd_11": "LD20.61",
-  "orpha_code": "ORPHA15261",
-  "overview": "Rare Rare Disease Entity Type-5261 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15261)。",
+  "icd_11": "LD20.261",
+  "orpha_code": "ORPHA105261",
+  "overview": "淀粉样变性 351型 (Amyloidosis Type 351) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105261。",
   "pipelines": []
 }

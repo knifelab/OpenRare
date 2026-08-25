@@ -1,10 +1,10 @@
 {
   "id": "OR-00379",
-  "name_cn": "未命名罕见病实体型-379",
-  "name_en": "Rare Rare Disease Entity Type-379",
+  "name_cn": "视网膜营养不良 26型",
+  "name_en": "Retinal Dystrophy Type 26",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA10379",
-  "overview": "Rare Rare Disease Entity Type-379 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10379)。",
+  "icd_11": "LD20.379",
+  "orpha_code": "ORPHA100379",
+  "overview": "视网膜营养不良 26型 (Retinal Dystrophy Type 26) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100379。",
   "pipelines": []
 }

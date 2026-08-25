@@ -1,10 +1,10 @@
 {
   "id": "OR-05270",
-  "name_cn": "未命名罕见病实体型-5270",
-  "name_en": "Rare Rare Disease Entity Type-5270",
+  "name_cn": "共济失调症 352型",
+  "name_en": "Ataxia Type 352",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA15270",
-  "overview": "Rare Rare Disease Entity Type-5270 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15270)。",
+  "icd_11": "LD20.270",
+  "orpha_code": "ORPHA105270",
+  "overview": "共济失调症 352型 (Ataxia Type 352) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105270。",
   "pipelines": []
 }

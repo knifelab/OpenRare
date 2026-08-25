@@ -1,10 +1,10 @@
 {
   "id": "OR-02020",
-  "name_cn": "未命名罕见病实体型-2020",
-  "name_en": "Rare Rare Disease Entity Type-2020",
+  "name_cn": "周期性瘫痪 135型",
+  "name_en": "Periodic Paralysis Type 135",
   "aliases": [],
-  "icd_11": "LD20.20",
-  "orpha_code": "ORPHA12020",
-  "overview": "Rare Rare Disease Entity Type-2020 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12020)。",
+  "icd_11": "LD20.020",
+  "orpha_code": "ORPHA102020",
+  "overview": "周期性瘫痪 135型 (Periodic Paralysis Type 135) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102020。",
   "pipelines": []
 }

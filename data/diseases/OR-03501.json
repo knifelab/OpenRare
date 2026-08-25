@@ -1,10 +1,10 @@
 {
   "id": "OR-03501",
-  "name_cn": "未命名罕见病实体型-3501",
-  "name_en": "Rare Rare Disease Entity Type-3501",
+  "name_cn": "脑病 234型",
+  "name_en": "Encephalopathy Type 234",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA13501",
-  "overview": "Rare Rare Disease Entity Type-3501 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13501)。",
+  "icd_11": "LD20.501",
+  "orpha_code": "ORPHA103501",
+  "overview": "脑病 234型 (Encephalopathy Type 234) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103501。",
   "pipelines": []
 }

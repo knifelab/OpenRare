@@ -1,10 +1,10 @@
 {
   "id": "OR-00963",
-  "name_cn": "未命名罕见病实体型-963",
-  "name_en": "Rare Rare Disease Entity Type-963",
+  "name_cn": "脑白质营养不良 65型",
+  "name_en": "Leukodystrophy Type 65",
   "aliases": [],
-  "icd_11": "LD20.63",
-  "orpha_code": "ORPHA10963",
-  "overview": "Rare Rare Disease Entity Type-963 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10963)。",
+  "icd_11": "LD20.963",
+  "orpha_code": "ORPHA100963",
+  "overview": "脑白质营养不良 65型 (Leukodystrophy Type 65) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100963。",
   "pipelines": []
 }

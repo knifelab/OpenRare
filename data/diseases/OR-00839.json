@@ -1,10 +1,10 @@
 {
   "id": "OR-00839",
-  "name_cn": "未命名罕见病实体型-839",
-  "name_en": "Rare Rare Disease Entity Type-839",
+  "name_cn": "动脉性肺动脉高压 56型",
+  "name_en": "Pulmonary Arterial Hypertension Type 56",
   "aliases": [],
-  "icd_11": "LD20.39",
-  "orpha_code": "ORPHA10839",
-  "overview": "Rare Rare Disease Entity Type-839 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10839)。",
+  "icd_11": "LD20.839",
+  "orpha_code": "ORPHA100839",
+  "overview": "动脉性肺动脉高压 56型 (Pulmonary Arterial Hypertension Type 56) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100839。",
   "pipelines": []
 }

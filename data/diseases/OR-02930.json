@@ -1,10 +1,10 @@
 {
   "id": "OR-02930",
-  "name_cn": "未命名罕见病实体型-2930",
-  "name_en": "Rare Rare Disease Entity Type-2930",
+  "name_cn": "共济失调症 196型",
+  "name_en": "Ataxia Type 196",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA12930",
-  "overview": "Rare Rare Disease Entity Type-2930 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12930)。",
+  "icd_11": "LD20.930",
+  "orpha_code": "ORPHA102930",
+  "overview": "共济失调症 196型 (Ataxia Type 196) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102930。",
   "pipelines": []
 }

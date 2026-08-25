@@ -1,10 +1,10 @@
 {
   "id": "OR-04015",
-  "name_cn": "未命名罕见病实体型-4015",
-  "name_en": "Rare Rare Disease Entity Type-4015",
+  "name_cn": "周期性瘫痪 268型",
+  "name_en": "Periodic Paralysis Type 268",
   "aliases": [],
-  "icd_11": "LD20.15",
-  "orpha_code": "ORPHA14015",
-  "overview": "Rare Rare Disease Entity Type-4015 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14015)。",
+  "icd_11": "LD20.015",
+  "orpha_code": "ORPHA104015",
+  "overview": "周期性瘫痪 268型 (Periodic Paralysis Type 268) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104015。",
   "pipelines": []
 }

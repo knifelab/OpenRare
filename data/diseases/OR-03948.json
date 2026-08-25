@@ -1,10 +1,10 @@
 {
   "id": "OR-03948",
-  "name_cn": "未命名罕见病实体型-3948",
-  "name_en": "Rare Rare Disease Entity Type-3948",
+  "name_cn": "脑白质营养不良 264型",
+  "name_en": "Leukodystrophy Type 264",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA13948",
-  "overview": "Rare Rare Disease Entity Type-3948 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13948)。",
+  "icd_11": "LD20.948",
+  "orpha_code": "ORPHA103948",
+  "overview": "脑白质营养不良 264型 (Leukodystrophy Type 264) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103948。",
   "pipelines": []
 }

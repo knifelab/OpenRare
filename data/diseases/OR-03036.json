@@ -1,10 +1,10 @@
 {
   "id": "OR-03036",
-  "name_cn": "未命名罕见病实体型-3036",
-  "name_en": "Rare Rare Disease Entity Type-3036",
+  "name_cn": "脑病 203型",
+  "name_en": "Encephalopathy Type 203",
   "aliases": [],
-  "icd_11": "LD20.36",
-  "orpha_code": "ORPHA13036",
-  "overview": "Rare Rare Disease Entity Type-3036 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13036)。",
+  "icd_11": "LD20.036",
+  "orpha_code": "ORPHA103036",
+  "overview": "脑病 203型 (Encephalopathy Type 203) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103036。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05504",
-  "name_cn": "未命名罕见病实体型-5504",
-  "name_en": "Rare Rare Disease Entity Type-5504",
+  "name_cn": "动脉性肺动脉高压 367型",
+  "name_en": "Pulmonary Arterial Hypertension Type 367",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA15504",
-  "overview": "Rare Rare Disease Entity Type-5504 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15504)。",
+  "icd_11": "LD20.504",
+  "orpha_code": "ORPHA105504",
+  "overview": "动脉性肺动脉高压 367型 (Pulmonary Arterial Hypertension Type 367) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105504。",
   "pipelines": []
 }

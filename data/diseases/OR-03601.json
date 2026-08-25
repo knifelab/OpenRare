@@ -1,10 +1,10 @@
 {
   "id": "OR-03601",
-  "name_cn": "未命名罕见病实体型-3601",
-  "name_en": "Rare Rare Disease Entity Type-3601",
+  "name_cn": "脊髓性肌萎缩症 241型",
+  "name_en": "Spinal Muscular Atrophy Type 241",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA13601",
-  "overview": "Rare Rare Disease Entity Type-3601 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13601)。",
+  "icd_11": "LD20.601",
+  "orpha_code": "ORPHA103601",
+  "overview": "脊髓性肌萎缩症 241型 (Spinal Muscular Atrophy Type 241) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103601。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02895",
-  "name_cn": "未命名罕见病实体型-2895",
-  "name_en": "Rare Rare Disease Entity Type-2895",
+  "name_cn": "肌营养不良症 194型",
+  "name_en": "Muscular Dystrophy Type 194",
   "aliases": [],
-  "icd_11": "LD20.95",
-  "orpha_code": "ORPHA12895",
-  "overview": "Rare Rare Disease Entity Type-2895 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12895)。",
+  "icd_11": "LD20.895",
+  "orpha_code": "ORPHA102895",
+  "overview": "肌营养不良症 194型 (Muscular Dystrophy Type 194) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102895。",
   "pipelines": []
 }

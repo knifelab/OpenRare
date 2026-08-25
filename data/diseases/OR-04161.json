@@ -1,10 +1,10 @@
 {
   "id": "OR-04161",
-  "name_cn": "未命名罕见病实体型-4161",
-  "name_en": "Rare Rare Disease Entity Type-4161",
+  "name_cn": "脑病 278型",
+  "name_en": "Encephalopathy Type 278",
   "aliases": [],
-  "icd_11": "LD20.61",
-  "orpha_code": "ORPHA14161",
-  "overview": "Rare Rare Disease Entity Type-4161 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14161)。",
+  "icd_11": "LD20.161",
+  "orpha_code": "ORPHA104161",
+  "overview": "脑病 278型 (Encephalopathy Type 278) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104161。",
   "pipelines": []
 }

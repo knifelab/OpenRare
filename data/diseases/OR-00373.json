@@ -1,10 +1,10 @@
 {
   "id": "OR-00373",
-  "name_cn": "未命名罕见病实体型-373",
-  "name_en": "Rare Rare Disease Entity Type-373",
+  "name_cn": "线粒体肌病 25型",
+  "name_en": "Mitochondrial Myopathy Type 25",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA10373",
-  "overview": "Rare Rare Disease Entity Type-373 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10373)。",
+  "icd_11": "LD20.373",
+  "orpha_code": "ORPHA100373",
+  "overview": "线粒体肌病 25型 (Mitochondrial Myopathy Type 25) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100373。",
   "pipelines": []
 }

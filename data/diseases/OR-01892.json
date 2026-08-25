@@ -1,10 +1,10 @@
 {
   "id": "OR-01892",
-  "name_cn": "未命名罕见病实体型-1892",
-  "name_en": "Rare Rare Disease Entity Type-1892",
+  "name_cn": "溶酶体贮积症 127型",
+  "name_en": "Lysosomal Storage Disorder Type 127",
   "aliases": [],
-  "icd_11": "LD20.92",
-  "orpha_code": "ORPHA11892",
-  "overview": "Rare Rare Disease Entity Type-1892 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11892)。",
+  "icd_11": "LD20.892",
+  "orpha_code": "ORPHA101892",
+  "overview": "溶酶体贮积症 127型 (Lysosomal Storage Disorder Type 127) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101892。",
   "pipelines": []
 }

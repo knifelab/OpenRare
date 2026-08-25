@@ -1,10 +1,10 @@
 {
   "id": "OR-04800",
-  "name_cn": "未命名罕见病实体型-4800",
-  "name_en": "Rare Rare Disease Entity Type-4800",
+  "name_cn": "肌营养不良症 321型",
+  "name_en": "Muscular Dystrophy Type 321",
   "aliases": [],
-  "icd_11": "LD20.0",
-  "orpha_code": "ORPHA14800",
-  "overview": "Rare Rare Disease Entity Type-4800 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14800)。",
+  "icd_11": "LD20.800",
+  "orpha_code": "ORPHA104800",
+  "overview": "肌营养不良症 321型 (Muscular Dystrophy Type 321) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104800。",
   "pipelines": []
 }

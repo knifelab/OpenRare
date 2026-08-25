@@ -1,10 +1,10 @@
 {
   "id": "OR-05198",
-  "name_cn": "未命名罕见病实体型-5198",
-  "name_en": "Rare Rare Disease Entity Type-5198",
+  "name_cn": "原发性免疫缺陷病 347型",
+  "name_en": "Primary Immunodeficiency Type 347",
   "aliases": [],
-  "icd_11": "LD20.98",
-  "orpha_code": "ORPHA15198",
-  "overview": "Rare Rare Disease Entity Type-5198 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15198)。",
+  "icd_11": "LD20.198",
+  "orpha_code": "ORPHA105198",
+  "overview": "原发性免疫缺陷病 347型 (Primary Immunodeficiency Type 347) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105198。",
   "pipelines": []
 }

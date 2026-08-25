@@ -1,10 +1,10 @@
 {
   "id": "OR-04470",
-  "name_cn": "未命名罕见病实体型-4470",
-  "name_en": "Rare Rare Disease Entity Type-4470",
+  "name_cn": "肌营养不良症 299型",
+  "name_en": "Muscular Dystrophy Type 299",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA14470",
-  "overview": "Rare Rare Disease Entity Type-4470 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14470)。",
+  "icd_11": "LD20.470",
+  "orpha_code": "ORPHA104470",
+  "overview": "肌营养不良症 299型 (Muscular Dystrophy Type 299) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104470。",
   "pipelines": []
 }

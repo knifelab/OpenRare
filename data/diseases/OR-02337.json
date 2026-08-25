@@ -1,10 +1,10 @@
 {
   "id": "OR-02337",
-  "name_cn": "未命名罕见病实体型-2337",
-  "name_en": "Rare Rare Disease Entity Type-2337",
+  "name_cn": "骨骼发育不良 156型",
+  "name_en": "Skeletal Dysplasia Type 156",
   "aliases": [],
-  "icd_11": "LD20.37",
-  "orpha_code": "ORPHA12337",
-  "overview": "Rare Rare Disease Entity Type-2337 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12337)。",
+  "icd_11": "LD20.337",
+  "orpha_code": "ORPHA102337",
+  "overview": "骨骼发育不良 156型 (Skeletal Dysplasia Type 156) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102337。",
   "pipelines": []
 }

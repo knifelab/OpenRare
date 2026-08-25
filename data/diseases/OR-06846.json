@@ -1,10 +1,10 @@
 {
   "id": "OR-06846",
-  "name_cn": "未命名罕见病实体型-6846",
-  "name_en": "Rare Rare Disease Entity Type-6846",
+  "name_cn": "脑病 457型",
+  "name_en": "Encephalopathy Type 457",
   "aliases": [],
-  "icd_11": "LD20.46",
-  "orpha_code": "ORPHA16846",
-  "overview": "Rare Rare Disease Entity Type-6846 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16846)。",
+  "icd_11": "LD20.846",
+  "orpha_code": "ORPHA106846",
+  "overview": "脑病 457型 (Encephalopathy Type 457) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106846。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00104",
-  "name_cn": "未命名罕见病实体型-104",
-  "name_en": "Rare Rare Disease Entity Type-104",
+  "name_cn": "动脉性肺动脉高压 7型",
+  "name_en": "Pulmonary Arterial Hypertension Type 7",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA10104",
-  "overview": "Rare Rare Disease Entity Type-104 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10104)。",
+  "icd_11": "LD20.104",
+  "orpha_code": "ORPHA100104",
+  "overview": "动脉性肺动脉高压 7型 (Pulmonary Arterial Hypertension Type 7) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100104。",
   "pipelines": []
 }

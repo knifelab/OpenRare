@@ -1,10 +1,10 @@
 {
   "id": "OR-06084",
-  "name_cn": "未命名罕见病实体型-6084",
-  "name_en": "Rare Rare Disease Entity Type-6084",
+  "name_cn": "外胚层发育不良 406型",
+  "name_en": "Ectodermal Dysplasia Type 406",
   "aliases": [],
-  "icd_11": "LD20.84",
-  "orpha_code": "ORPHA16084",
-  "overview": "Rare Rare Disease Entity Type-6084 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16084)。",
+  "icd_11": "LD20.084",
+  "orpha_code": "ORPHA106084",
+  "overview": "外胚层发育不良 406型 (Ectodermal Dysplasia Type 406) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106084。",
   "pipelines": []
 }

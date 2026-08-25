@@ -1,10 +1,10 @@
 {
   "id": "OR-00052",
-  "name_cn": "未命名罕见病实体型-52",
-  "name_en": "Rare Rare Disease Entity Type-52",
+  "name_cn": "先天性糖基化异常 4型",
+  "name_en": "Congenital Disorder of Glycosylation Type 4",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA10052",
-  "overview": "Rare Rare Disease Entity Type-52 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10052)。",
+  "icd_11": "LD20.052",
+  "orpha_code": "ORPHA100052",
+  "overview": "先天性糖基化异常 4型 (Congenital Disorder of Glycosylation Type 4) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100052。",
   "pipelines": []
 }

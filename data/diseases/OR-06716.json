@@ -1,10 +1,10 @@
 {
   "id": "OR-06716",
-  "name_cn": "未命名罕见病实体型-6716",
-  "name_en": "Rare Rare Disease Entity Type-6716",
+  "name_cn": "淀粉样变性 448型",
+  "name_en": "Amyloidosis Type 448",
   "aliases": [],
-  "icd_11": "LD20.16",
-  "orpha_code": "ORPHA16716",
-  "overview": "Rare Rare Disease Entity Type-6716 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16716)。",
+  "icd_11": "LD20.716",
+  "orpha_code": "ORPHA106716",
+  "overview": "淀粉样变性 448型 (Amyloidosis Type 448) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106716。",
   "pipelines": []
 }

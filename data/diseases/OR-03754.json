@@ -1,10 +1,10 @@
 {
   "id": "OR-03754",
-  "name_cn": "未命名罕见病实体型-3754",
-  "name_en": "Rare Rare Disease Entity Type-3754",
+  "name_cn": "视网膜营养不良 251型",
+  "name_en": "Retinal Dystrophy Type 251",
   "aliases": [],
-  "icd_11": "LD20.54",
-  "orpha_code": "ORPHA13754",
-  "overview": "Rare Rare Disease Entity Type-3754 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13754)。",
+  "icd_11": "LD20.754",
+  "orpha_code": "ORPHA103754",
+  "overview": "视网膜营养不良 251型 (Retinal Dystrophy Type 251) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103754。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02756",
-  "name_cn": "未命名罕见病实体型-2756",
-  "name_en": "Rare Rare Disease Entity Type-2756",
+  "name_cn": "淀粉样变性 184型",
+  "name_en": "Amyloidosis Type 184",
   "aliases": [],
-  "icd_11": "LD20.56",
-  "orpha_code": "ORPHA12756",
-  "overview": "Rare Rare Disease Entity Type-2756 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12756)。",
+  "icd_11": "LD20.756",
+  "orpha_code": "ORPHA102756",
+  "overview": "淀粉样变性 184型 (Amyloidosis Type 184) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102756。",
   "pipelines": []
 }

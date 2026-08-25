@@ -1,10 +1,10 @@
 {
   "id": "OR-04125",
-  "name_cn": "未命名罕见病实体型-4125",
-  "name_en": "Rare Rare Disease Entity Type-4125",
+  "name_cn": "肌营养不良症 276型",
+  "name_en": "Muscular Dystrophy Type 276",
   "aliases": [],
-  "icd_11": "LD20.25",
-  "orpha_code": "ORPHA14125",
-  "overview": "Rare Rare Disease Entity Type-4125 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14125)。",
+  "icd_11": "LD20.125",
+  "orpha_code": "ORPHA104125",
+  "overview": "肌营养不良症 276型 (Muscular Dystrophy Type 276) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104125。",
   "pipelines": []
 }

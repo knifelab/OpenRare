@@ -1,10 +1,10 @@
 {
   "id": "OR-05691",
-  "name_cn": "未命名罕见病实体型-5691",
-  "name_en": "Rare Rare Disease Entity Type-5691",
+  "name_cn": "脑病 380型",
+  "name_en": "Encephalopathy Type 380",
   "aliases": [],
-  "icd_11": "LD20.91",
-  "orpha_code": "ORPHA15691",
-  "overview": "Rare Rare Disease Entity Type-5691 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15691)。",
+  "icd_11": "LD20.691",
+  "orpha_code": "ORPHA105691",
+  "overview": "脑病 380型 (Encephalopathy Type 380) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105691。",
   "pipelines": []
 }

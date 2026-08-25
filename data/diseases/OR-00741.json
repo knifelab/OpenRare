@@ -1,10 +1,10 @@
 {
   "id": "OR-00741",
-  "name_cn": "未命名罕见病实体型-741",
-  "name_en": "Rare Rare Disease Entity Type-741",
+  "name_cn": "脑病 50型",
+  "name_en": "Encephalopathy Type 50",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA10741",
-  "overview": "Rare Rare Disease Entity Type-741 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10741)。",
+  "icd_11": "LD20.741",
+  "orpha_code": "ORPHA100741",
+  "overview": "脑病 50型 (Encephalopathy Type 50) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100741。",
   "pipelines": []
 }

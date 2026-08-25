@@ -1,10 +1,10 @@
 {
   "id": "OR-02190",
-  "name_cn": "未命名罕见病实体型-2190",
-  "name_en": "Rare Rare Disease Entity Type-2190",
+  "name_cn": "肌营养不良症 147型",
+  "name_en": "Muscular Dystrophy Type 147",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA12190",
-  "overview": "Rare Rare Disease Entity Type-2190 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12190)。",
+  "icd_11": "LD20.190",
+  "orpha_code": "ORPHA102190",
+  "overview": "肌营养不良症 147型 (Muscular Dystrophy Type 147) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102190。",
   "pipelines": []
 }

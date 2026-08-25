@@ -1,10 +1,10 @@
 {
   "id": "OR-06704",
-  "name_cn": "未命名罕见病实体型-6704",
-  "name_en": "Rare Rare Disease Entity Type-6704",
+  "name_cn": "动脉性肺动脉高压 447型",
+  "name_en": "Pulmonary Arterial Hypertension Type 447",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA16704",
-  "overview": "Rare Rare Disease Entity Type-6704 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16704)。",
+  "icd_11": "LD20.704",
+  "orpha_code": "ORPHA106704",
+  "overview": "动脉性肺动脉高压 447型 (Pulmonary Arterial Hypertension Type 447) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106704。",
   "pipelines": []
 }

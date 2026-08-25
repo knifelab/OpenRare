@@ -1,10 +1,10 @@
 {
   "id": "OR-05238",
-  "name_cn": "未命名罕见病实体型-5238",
-  "name_en": "Rare Rare Disease Entity Type-5238",
+  "name_cn": "脑白质营养不良 350型",
+  "name_en": "Leukodystrophy Type 350",
   "aliases": [],
-  "icd_11": "LD20.38",
-  "orpha_code": "ORPHA15238",
-  "overview": "Rare Rare Disease Entity Type-5238 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15238)。",
+  "icd_11": "LD20.238",
+  "orpha_code": "ORPHA105238",
+  "overview": "脑白质营养不良 350型 (Leukodystrophy Type 350) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105238。",
   "pipelines": []
 }

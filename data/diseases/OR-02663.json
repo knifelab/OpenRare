@@ -1,10 +1,10 @@
 {
   "id": "OR-02663",
-  "name_cn": "未命名罕见病实体型-2663",
-  "name_en": "Rare Rare Disease Entity Type-2663",
+  "name_cn": "原发性免疫缺陷病 178型",
+  "name_en": "Primary Immunodeficiency Type 178",
   "aliases": [],
-  "icd_11": "LD20.63",
-  "orpha_code": "ORPHA12663",
-  "overview": "Rare Rare Disease Entity Type-2663 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12663)。",
+  "icd_11": "LD20.663",
+  "orpha_code": "ORPHA102663",
+  "overview": "原发性免疫缺陷病 178型 (Primary Immunodeficiency Type 178) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102663。",
   "pipelines": []
 }

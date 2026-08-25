@@ -1,10 +1,10 @@
 {
   "id": "OR-03180",
-  "name_cn": "未命名罕见病实体型-3180",
-  "name_en": "Rare Rare Disease Entity Type-3180",
+  "name_cn": "肌营养不良症 213型",
+  "name_en": "Muscular Dystrophy Type 213",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA13180",
-  "overview": "Rare Rare Disease Entity Type-3180 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13180)。",
+  "icd_11": "LD20.180",
+  "orpha_code": "ORPHA103180",
+  "overview": "肌营养不良症 213型 (Muscular Dystrophy Type 213) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103180。",
   "pipelines": []
 }

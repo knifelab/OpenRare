@@ -1,10 +1,10 @@
 {
   "id": "OR-06746",
-  "name_cn": "未命名罕见病实体型-6746",
-  "name_en": "Rare Rare Disease Entity Type-6746",
+  "name_cn": "淀粉样变性 450型",
+  "name_en": "Amyloidosis Type 450",
   "aliases": [],
-  "icd_11": "LD20.46",
-  "orpha_code": "ORPHA16746",
-  "overview": "Rare Rare Disease Entity Type-6746 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16746)。",
+  "icd_11": "LD20.746",
+  "orpha_code": "ORPHA106746",
+  "overview": "淀粉样变性 450型 (Amyloidosis Type 450) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106746。",
   "pipelines": []
 }

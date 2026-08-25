@@ -1,10 +1,10 @@
 {
   "id": "OR-06597",
-  "name_cn": "未命名罕见病实体型-6597",
-  "name_en": "Rare Rare Disease Entity Type-6597",
+  "name_cn": "骨骼发育不良 440型",
+  "name_en": "Skeletal Dysplasia Type 440",
   "aliases": [],
-  "icd_11": "LD20.97",
-  "orpha_code": "ORPHA16597",
-  "overview": "Rare Rare Disease Entity Type-6597 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16597)。",
+  "icd_11": "LD20.597",
+  "orpha_code": "ORPHA106597",
+  "overview": "骨骼发育不良 440型 (Skeletal Dysplasia Type 440) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106597。",
   "pipelines": []
 }

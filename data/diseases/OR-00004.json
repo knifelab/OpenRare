@@ -5,23 +5,6 @@
   "aliases": [],
   "icd_11": "8B61.0",
   "orpha_code": "ORPHA839",
-  "overview": "Spinal muscular atrophy 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA839)。",
-  "pipelines": [
-    {
-      "drug_or_therapy": "Experimental FES cycling",
-      "target_or_mechanism": "Feasibility study of a new medical device that will evaluate...",
-      "phase": "NA",
-      "status": "UNKNOWN",
-      "clinical_trials_id": "NCT05888714",
-      "last_updated": "2026-08-25"
-    },
-    {
-      "drug_or_therapy": "Rinzimetostat",
-      "target_or_mechanism": "Himalayas-1 is a randomized, open-label, global, multicenter...",
-      "phase": "Phase 3",
-      "status": "RECRUITING",
-      "clinical_trials_id": "NCT07723248",
-      "last_updated": "2026-08-25"
-    }
-  ]
+  "overview": "脊髓性肌萎缩症 (Spinal muscular atrophy) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA839。",
+  "pipelines": []
 }

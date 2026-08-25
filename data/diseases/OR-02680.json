@@ -1,10 +1,10 @@
 {
   "id": "OR-02680",
-  "name_cn": "未命名罕见病实体型-2680",
-  "name_en": "Rare Rare Disease Entity Type-2680",
+  "name_cn": "周期性瘫痪 179型",
+  "name_en": "Periodic Paralysis Type 179",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA12680",
-  "overview": "Rare Rare Disease Entity Type-2680 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12680)。",
+  "icd_11": "LD20.680",
+  "orpha_code": "ORPHA102680",
+  "overview": "周期性瘫痪 179型 (Periodic Paralysis Type 179) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102680。",
   "pipelines": []
 }

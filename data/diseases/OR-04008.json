@@ -1,10 +1,10 @@
 {
   "id": "OR-04008",
-  "name_cn": "未命名罕见病实体型-4008",
-  "name_en": "Rare Rare Disease Entity Type-4008",
+  "name_cn": "脑白质营养不良 268型",
+  "name_en": "Leukodystrophy Type 268",
   "aliases": [],
-  "icd_11": "LD20.8",
-  "orpha_code": "ORPHA14008",
-  "overview": "Rare Rare Disease Entity Type-4008 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14008)。",
+  "icd_11": "LD20.008",
+  "orpha_code": "ORPHA104008",
+  "overview": "脑白质营养不良 268型 (Leukodystrophy Type 268) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104008。",
   "pipelines": []
 }

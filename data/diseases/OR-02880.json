@@ -1,10 +1,10 @@
 {
   "id": "OR-02880",
-  "name_cn": "未命名罕见病实体型-2880",
-  "name_en": "Rare Rare Disease Entity Type-2880",
+  "name_cn": "肌营养不良症 193型",
+  "name_en": "Muscular Dystrophy Type 193",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA12880",
-  "overview": "Rare Rare Disease Entity Type-2880 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12880)。",
+  "icd_11": "LD20.880",
+  "orpha_code": "ORPHA102880",
+  "overview": "肌营养不良症 193型 (Muscular Dystrophy Type 193) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102880。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02964",
-  "name_cn": "未命名罕见病实体型-2964",
-  "name_en": "Rare Rare Disease Entity Type-2964",
+  "name_cn": "外胚层发育不良 198型",
+  "name_en": "Ectodermal Dysplasia Type 198",
   "aliases": [],
-  "icd_11": "LD20.64",
-  "orpha_code": "ORPHA12964",
-  "overview": "Rare Rare Disease Entity Type-2964 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12964)。",
+  "icd_11": "LD20.964",
+  "orpha_code": "ORPHA102964",
+  "overview": "外胚层发育不良 198型 (Ectodermal Dysplasia Type 198) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102964。",
   "pipelines": []
 }

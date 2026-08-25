@@ -1,10 +1,10 @@
 {
   "id": "OR-03393",
-  "name_cn": "未命名罕见病实体型-3393",
-  "name_en": "Rare Rare Disease Entity Type-3393",
+  "name_cn": "脑白质营养不良 227型",
+  "name_en": "Leukodystrophy Type 227",
   "aliases": [],
-  "icd_11": "LD20.93",
-  "orpha_code": "ORPHA13393",
-  "overview": "Rare Rare Disease Entity Type-3393 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13393)。",
+  "icd_11": "LD20.393",
+  "orpha_code": "ORPHA103393",
+  "overview": "脑白质营养不良 227型 (Leukodystrophy Type 227) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103393。",
   "pipelines": []
 }

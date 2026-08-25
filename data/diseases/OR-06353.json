@@ -1,10 +1,10 @@
 {
   "id": "OR-06353",
-  "name_cn": "未命名罕见病实体型-6353",
-  "name_en": "Rare Rare Disease Entity Type-6353",
+  "name_cn": "原发性免疫缺陷病 424型",
+  "name_en": "Primary Immunodeficiency Type 424",
   "aliases": [],
-  "icd_11": "LD20.53",
-  "orpha_code": "ORPHA16353",
-  "overview": "Rare Rare Disease Entity Type-6353 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16353)。",
+  "icd_11": "LD20.353",
+  "orpha_code": "ORPHA106353",
+  "overview": "原发性免疫缺陷病 424型 (Primary Immunodeficiency Type 424) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106353。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02696",
-  "name_cn": "未命名罕见病实体型-2696",
-  "name_en": "Rare Rare Disease Entity Type-2696",
+  "name_cn": "淀粉样变性 180型",
+  "name_en": "Amyloidosis Type 180",
   "aliases": [],
-  "icd_11": "LD20.96",
-  "orpha_code": "ORPHA12696",
-  "overview": "Rare Rare Disease Entity Type-2696 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12696)。",
+  "icd_11": "LD20.696",
+  "orpha_code": "ORPHA102696",
+  "overview": "淀粉样变性 180型 (Amyloidosis Type 180) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102696。",
   "pipelines": []
 }

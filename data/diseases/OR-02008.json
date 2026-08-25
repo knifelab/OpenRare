@@ -1,10 +1,10 @@
 {
   "id": "OR-02008",
-  "name_cn": "未命名罕见病实体型-2008",
-  "name_en": "Rare Rare Disease Entity Type-2008",
+  "name_cn": "线粒体肌病 134型",
+  "name_en": "Mitochondrial Myopathy Type 134",
   "aliases": [],
-  "icd_11": "LD20.8",
-  "orpha_code": "ORPHA12008",
-  "overview": "Rare Rare Disease Entity Type-2008 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12008)。",
+  "icd_11": "LD20.008",
+  "orpha_code": "ORPHA102008",
+  "overview": "线粒体肌病 134型 (Mitochondrial Myopathy Type 134) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102008。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00799",
-  "name_cn": "未命名罕见病实体型-799",
-  "name_en": "Rare Rare Disease Entity Type-799",
+  "name_cn": "视网膜营养不良 54型",
+  "name_en": "Retinal Dystrophy Type 54",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA10799",
-  "overview": "Rare Rare Disease Entity Type-799 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10799)。",
+  "icd_11": "LD20.799",
+  "orpha_code": "ORPHA100799",
+  "overview": "视网膜营养不良 54型 (Retinal Dystrophy Type 54) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100799。",
   "pipelines": []
 }

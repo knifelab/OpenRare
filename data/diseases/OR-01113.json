@@ -1,10 +1,10 @@
 {
   "id": "OR-01113",
-  "name_cn": "未命名罕见病实体型-1113",
-  "name_en": "Rare Rare Disease Entity Type-1113",
+  "name_cn": "脑白质营养不良 75型",
+  "name_en": "Leukodystrophy Type 75",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA11113",
-  "overview": "Rare Rare Disease Entity Type-1113 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11113)。",
+  "icd_11": "LD20.113",
+  "orpha_code": "ORPHA101113",
+  "overview": "脑白质营养不良 75型 (Leukodystrophy Type 75) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101113。",
   "pipelines": []
 }

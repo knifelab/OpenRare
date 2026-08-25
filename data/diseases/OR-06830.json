@@ -1,10 +1,10 @@
 {
   "id": "OR-06830",
-  "name_cn": "未命名罕见病实体型-6830",
-  "name_en": "Rare Rare Disease Entity Type-6830",
+  "name_cn": "共济失调症 456型",
+  "name_en": "Ataxia Type 456",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA16830",
-  "overview": "Rare Rare Disease Entity Type-6830 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16830)。",
+  "icd_11": "LD20.830",
+  "orpha_code": "ORPHA106830",
+  "overview": "共济失调症 456型 (Ataxia Type 456) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106830。",
   "pipelines": []
 }

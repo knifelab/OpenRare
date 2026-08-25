@@ -1,10 +1,10 @@
 {
   "id": "OR-05890",
-  "name_cn": "未命名罕见病实体型-5890",
-  "name_en": "Rare Rare Disease Entity Type-5890",
+  "name_cn": "周期性瘫痪 393型",
+  "name_en": "Periodic Paralysis Type 393",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA15890",
-  "overview": "Rare Rare Disease Entity Type-5890 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15890)。",
+  "icd_11": "LD20.890",
+  "orpha_code": "ORPHA105890",
+  "overview": "周期性瘫痪 393型 (Periodic Paralysis Type 393) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105890。",
   "pipelines": []
 }

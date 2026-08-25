@@ -1,10 +1,10 @@
 {
   "id": "OR-02669",
-  "name_cn": "未命名罕见病实体型-2669",
-  "name_en": "Rare Rare Disease Entity Type-2669",
+  "name_cn": "动脉性肺动脉高压 178型",
+  "name_en": "Pulmonary Arterial Hypertension Type 178",
   "aliases": [],
-  "icd_11": "LD20.69",
-  "orpha_code": "ORPHA12669",
-  "overview": "Rare Rare Disease Entity Type-2669 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12669)。",
+  "icd_11": "LD20.669",
+  "orpha_code": "ORPHA102669",
+  "overview": "动脉性肺动脉高压 178型 (Pulmonary Arterial Hypertension Type 178) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102669。",
   "pipelines": []
 }

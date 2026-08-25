@@ -1,10 +1,10 @@
 {
   "id": "OR-05834",
-  "name_cn": "未命名罕见病实体型-5834",
-  "name_en": "Rare Rare Disease Entity Type-5834",
+  "name_cn": "动脉性肺动脉高压 389型",
+  "name_en": "Pulmonary Arterial Hypertension Type 389",
   "aliases": [],
-  "icd_11": "LD20.34",
-  "orpha_code": "ORPHA15834",
-  "overview": "Rare Rare Disease Entity Type-5834 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15834)。",
+  "icd_11": "LD20.834",
+  "orpha_code": "ORPHA105834",
+  "overview": "动脉性肺动脉高压 389型 (Pulmonary Arterial Hypertension Type 389) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105834。",
   "pipelines": []
 }

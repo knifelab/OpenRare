@@ -1,10 +1,10 @@
 {
   "id": "OR-06904",
-  "name_cn": "未命名罕见病实体型-6904",
-  "name_en": "Rare Rare Disease Entity Type-6904",
+  "name_cn": "视网膜营养不良 461型",
+  "name_en": "Retinal Dystrophy Type 461",
   "aliases": [],
-  "icd_11": "LD20.4",
-  "orpha_code": "ORPHA16904",
-  "overview": "Rare Rare Disease Entity Type-6904 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16904)。",
+  "icd_11": "LD20.904",
+  "orpha_code": "ORPHA106904",
+  "overview": "视网膜营养不良 461型 (Retinal Dystrophy Type 461) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106904。",
   "pipelines": []
 }

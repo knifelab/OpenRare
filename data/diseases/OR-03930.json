@@ -1,10 +1,10 @@
 {
   "id": "OR-03930",
-  "name_cn": "未命名罕见病实体型-3930",
-  "name_en": "Rare Rare Disease Entity Type-3930",
+  "name_cn": "肌营养不良症 263型",
+  "name_en": "Muscular Dystrophy Type 263",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA13930",
-  "overview": "Rare Rare Disease Entity Type-3930 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13930)。",
+  "icd_11": "LD20.930",
+  "orpha_code": "ORPHA103930",
+  "overview": "肌营养不良症 263型 (Muscular Dystrophy Type 263) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103930。",
   "pipelines": []
 }

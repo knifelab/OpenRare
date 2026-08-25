@@ -1,10 +1,10 @@
 {
   "id": "OR-06823",
-  "name_cn": "未命名罕见病实体型-6823",
-  "name_en": "Rare Rare Disease Entity Type-6823",
+  "name_cn": "线粒体肌病 455型",
+  "name_en": "Mitochondrial Myopathy Type 455",
   "aliases": [],
-  "icd_11": "LD20.23",
-  "orpha_code": "ORPHA16823",
-  "overview": "Rare Rare Disease Entity Type-6823 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16823)。",
+  "icd_11": "LD20.823",
+  "orpha_code": "ORPHA106823",
+  "overview": "线粒体肌病 455型 (Mitochondrial Myopathy Type 455) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106823。",
   "pipelines": []
 }

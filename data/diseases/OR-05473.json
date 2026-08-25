@@ -1,10 +1,10 @@
 {
   "id": "OR-05473",
-  "name_cn": "未命名罕见病实体型-5473",
-  "name_en": "Rare Rare Disease Entity Type-5473",
+  "name_cn": "线粒体肌病 365型",
+  "name_en": "Mitochondrial Myopathy Type 365",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA15473",
-  "overview": "Rare Rare Disease Entity Type-5473 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15473)。",
+  "icd_11": "LD20.473",
+  "orpha_code": "ORPHA105473",
+  "overview": "线粒体肌病 365型 (Mitochondrial Myopathy Type 365) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105473。",
   "pipelines": []
 }

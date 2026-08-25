@@ -1,10 +1,10 @@
 {
   "id": "OR-03141",
-  "name_cn": "未命名罕见病实体型-3141",
-  "name_en": "Rare Rare Disease Entity Type-3141",
+  "name_cn": "脑病 210型",
+  "name_en": "Encephalopathy Type 210",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA13141",
-  "overview": "Rare Rare Disease Entity Type-3141 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13141)。",
+  "icd_11": "LD20.141",
+  "orpha_code": "ORPHA103141",
+  "overview": "脑病 210型 (Encephalopathy Type 210) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103141。",
   "pipelines": []
 }

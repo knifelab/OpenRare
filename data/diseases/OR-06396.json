@@ -1,10 +1,10 @@
 {
   "id": "OR-06396",
-  "name_cn": "未命名罕见病实体型-6396",
-  "name_en": "Rare Rare Disease Entity Type-6396",
+  "name_cn": "脑病 427型",
+  "name_en": "Encephalopathy Type 427",
   "aliases": [],
-  "icd_11": "LD20.96",
-  "orpha_code": "ORPHA16396",
-  "overview": "Rare Rare Disease Entity Type-6396 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16396)。",
+  "icd_11": "LD20.396",
+  "orpha_code": "ORPHA106396",
+  "overview": "脑病 427型 (Encephalopathy Type 427) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106396。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04186",
-  "name_cn": "未命名罕见病实体型-4186",
-  "name_en": "Rare Rare Disease Entity Type-4186",
+  "name_cn": "脊髓性肌萎缩症 280型",
+  "name_en": "Spinal Muscular Atrophy Type 280",
   "aliases": [],
-  "icd_11": "LD20.86",
-  "orpha_code": "ORPHA14186",
-  "overview": "Rare Rare Disease Entity Type-4186 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14186)。",
+  "icd_11": "LD20.186",
+  "orpha_code": "ORPHA104186",
+  "overview": "脊髓性肌萎缩症 280型 (Spinal Muscular Atrophy Type 280) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104186。",
   "pipelines": []
 }

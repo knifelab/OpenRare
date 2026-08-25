@@ -1,10 +1,10 @@
 {
   "id": "OR-06596",
-  "name_cn": "未命名罕见病实体型-6596",
-  "name_en": "Rare Rare Disease Entity Type-6596",
+  "name_cn": "淀粉样变性 440型",
+  "name_en": "Amyloidosis Type 440",
   "aliases": [],
-  "icd_11": "LD20.96",
-  "orpha_code": "ORPHA16596",
-  "overview": "Rare Rare Disease Entity Type-6596 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16596)。",
+  "icd_11": "LD20.596",
+  "orpha_code": "ORPHA106596",
+  "overview": "淀粉样变性 440型 (Amyloidosis Type 440) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106596。",
   "pipelines": []
 }

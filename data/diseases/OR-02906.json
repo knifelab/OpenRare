@@ -1,10 +1,10 @@
 {
   "id": "OR-02906",
-  "name_cn": "未命名罕见病实体型-2906",
-  "name_en": "Rare Rare Disease Entity Type-2906",
+  "name_cn": "淀粉样变性 194型",
+  "name_en": "Amyloidosis Type 194",
   "aliases": [],
-  "icd_11": "LD20.6",
-  "orpha_code": "ORPHA12906",
-  "overview": "Rare Rare Disease Entity Type-2906 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12906)。",
+  "icd_11": "LD20.906",
+  "orpha_code": "ORPHA102906",
+  "overview": "淀粉样变性 194型 (Amyloidosis Type 194) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102906。",
   "pipelines": []
 }

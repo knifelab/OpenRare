@@ -1,10 +1,10 @@
 {
   "id": "OR-06078",
-  "name_cn": "未命名罕见病实体型-6078",
-  "name_en": "Rare Rare Disease Entity Type-6078",
+  "name_cn": "脑白质营养不良 406型",
+  "name_en": "Leukodystrophy Type 406",
   "aliases": [],
-  "icd_11": "LD20.78",
-  "orpha_code": "ORPHA16078",
-  "overview": "Rare Rare Disease Entity Type-6078 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16078)。",
+  "icd_11": "LD20.078",
+  "orpha_code": "ORPHA106078",
+  "overview": "脑白质营养不良 406型 (Leukodystrophy Type 406) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106078。",
   "pipelines": []
 }

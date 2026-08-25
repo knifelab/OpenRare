@@ -1,10 +1,10 @@
 {
   "id": "OR-06610",
-  "name_cn": "未命名罕见病实体型-6610",
-  "name_en": "Rare Rare Disease Entity Type-6610",
+  "name_cn": "周期性瘫痪 441型",
+  "name_en": "Periodic Paralysis Type 441",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA16610",
-  "overview": "Rare Rare Disease Entity Type-6610 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16610)。",
+  "icd_11": "LD20.610",
+  "orpha_code": "ORPHA106610",
+  "overview": "周期性瘫痪 441型 (Periodic Paralysis Type 441) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106610。",
   "pipelines": []
 }

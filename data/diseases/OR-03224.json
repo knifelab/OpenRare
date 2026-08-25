@@ -1,10 +1,10 @@
 {
   "id": "OR-03224",
-  "name_cn": "未命名罕见病实体型-3224",
-  "name_en": "Rare Rare Disease Entity Type-3224",
+  "name_cn": "动脉性肺动脉高压 215型",
+  "name_en": "Pulmonary Arterial Hypertension Type 215",
   "aliases": [],
-  "icd_11": "LD20.24",
-  "orpha_code": "ORPHA13224",
-  "overview": "Rare Rare Disease Entity Type-3224 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13224)。",
+  "icd_11": "LD20.224",
+  "orpha_code": "ORPHA103224",
+  "overview": "动脉性肺动脉高压 215型 (Pulmonary Arterial Hypertension Type 215) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103224。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02295",
-  "name_cn": "未命名罕见病实体型-2295",
-  "name_en": "Rare Rare Disease Entity Type-2295",
+  "name_cn": "肌营养不良症 154型",
+  "name_en": "Muscular Dystrophy Type 154",
   "aliases": [],
-  "icd_11": "LD20.95",
-  "orpha_code": "ORPHA12295",
-  "overview": "Rare Rare Disease Entity Type-2295 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12295)。",
+  "icd_11": "LD20.295",
+  "orpha_code": "ORPHA102295",
+  "overview": "肌营养不良症 154型 (Muscular Dystrophy Type 154) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102295。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02922",
-  "name_cn": "未命名罕见病实体型-2922",
-  "name_en": "Rare Rare Disease Entity Type-2922",
+  "name_cn": "骨骼发育不良 195型",
+  "name_en": "Skeletal Dysplasia Type 195",
   "aliases": [],
-  "icd_11": "LD20.22",
-  "orpha_code": "ORPHA12922",
-  "overview": "Rare Rare Disease Entity Type-2922 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12922)。",
+  "icd_11": "LD20.922",
+  "orpha_code": "ORPHA102922",
+  "overview": "骨骼发育不良 195型 (Skeletal Dysplasia Type 195) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102922。",
   "pipelines": []
 }

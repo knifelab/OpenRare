@@ -1,10 +1,10 @@
 {
   "id": "OR-05345",
-  "name_cn": "未命名罕见病实体型-5345",
-  "name_en": "Rare Rare Disease Entity Type-5345",
+  "name_cn": "共济失调症 357型",
+  "name_en": "Ataxia Type 357",
   "aliases": [],
-  "icd_11": "LD20.45",
-  "orpha_code": "ORPHA15345",
-  "overview": "Rare Rare Disease Entity Type-5345 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15345)。",
+  "icd_11": "LD20.345",
+  "orpha_code": "ORPHA105345",
+  "overview": "共济失调症 357型 (Ataxia Type 357) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105345。",
   "pipelines": []
 }

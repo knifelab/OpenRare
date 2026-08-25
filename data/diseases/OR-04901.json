@@ -1,10 +1,10 @@
 {
   "id": "OR-04901",
-  "name_cn": "未命名罕见病实体型-4901",
-  "name_en": "Rare Rare Disease Entity Type-4901",
+  "name_cn": "淀粉样变性 327型",
+  "name_en": "Amyloidosis Type 327",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA14901",
-  "overview": "Rare Rare Disease Entity Type-4901 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14901)。",
+  "icd_11": "LD20.901",
+  "orpha_code": "ORPHA104901",
+  "overview": "淀粉样变性 327型 (Amyloidosis Type 327) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104901。",
   "pipelines": []
 }

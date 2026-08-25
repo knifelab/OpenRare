@@ -1,10 +1,10 @@
 {
   "id": "OR-06894",
-  "name_cn": "未命名罕见病实体型-6894",
-  "name_en": "Rare Rare Disease Entity Type-6894",
+  "name_cn": "外胚层发育不良 460型",
+  "name_en": "Ectodermal Dysplasia Type 460",
   "aliases": [],
-  "icd_11": "LD20.94",
-  "orpha_code": "ORPHA16894",
-  "overview": "Rare Rare Disease Entity Type-6894 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16894)。",
+  "icd_11": "LD20.894",
+  "orpha_code": "ORPHA106894",
+  "overview": "外胚层发育不良 460型 (Ectodermal Dysplasia Type 460) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106894。",
   "pipelines": []
 }

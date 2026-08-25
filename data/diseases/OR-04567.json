@@ -1,10 +1,10 @@
 {
   "id": "OR-04567",
-  "name_cn": "未命名罕见病实体型-4567",
-  "name_en": "Rare Rare Disease Entity Type-4567",
+  "name_cn": "先天性糖基化异常 305型",
+  "name_en": "Congenital Disorder of Glycosylation Type 305",
   "aliases": [],
-  "icd_11": "LD20.67",
-  "orpha_code": "ORPHA14567",
-  "overview": "Rare Rare Disease Entity Type-4567 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14567)。",
+  "icd_11": "LD20.567",
+  "orpha_code": "ORPHA104567",
+  "overview": "先天性糖基化异常 305型 (Congenital Disorder of Glycosylation Type 305) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104567。",
   "pipelines": []
 }

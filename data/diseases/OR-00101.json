@@ -1,10 +1,10 @@
 {
   "id": "OR-00101",
-  "name_cn": "未命名罕见病实体型-101",
-  "name_en": "Rare Rare Disease Entity Type-101",
+  "name_cn": "淀粉样变性 7型",
+  "name_en": "Amyloidosis Type 7",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA10101",
-  "overview": "Rare Rare Disease Entity Type-101 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10101)。",
+  "icd_11": "LD20.101",
+  "orpha_code": "ORPHA100101",
+  "overview": "淀粉样变性 7型 (Amyloidosis Type 7) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100101。",
   "pipelines": []
 }

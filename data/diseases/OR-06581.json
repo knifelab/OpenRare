@@ -1,10 +1,10 @@
 {
   "id": "OR-06581",
-  "name_cn": "未命名罕见病实体型-6581",
-  "name_en": "Rare Rare Disease Entity Type-6581",
+  "name_cn": "淀粉样变性 439型",
+  "name_en": "Amyloidosis Type 439",
   "aliases": [],
-  "icd_11": "LD20.81",
-  "orpha_code": "ORPHA16581",
-  "overview": "Rare Rare Disease Entity Type-6581 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16581)。",
+  "icd_11": "LD20.581",
+  "orpha_code": "ORPHA106581",
+  "overview": "淀粉样变性 439型 (Amyloidosis Type 439) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106581。",
   "pipelines": []
 }

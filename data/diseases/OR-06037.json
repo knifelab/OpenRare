@@ -1,10 +1,10 @@
 {
   "id": "OR-06037",
-  "name_cn": "未命名罕见病实体型-6037",
-  "name_en": "Rare Rare Disease Entity Type-6037",
+  "name_cn": "先天性糖基化异常 403型",
+  "name_en": "Congenital Disorder of Glycosylation Type 403",
   "aliases": [],
-  "icd_11": "LD20.37",
-  "orpha_code": "ORPHA16037",
-  "overview": "Rare Rare Disease Entity Type-6037 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16037)。",
+  "icd_11": "LD20.037",
+  "orpha_code": "ORPHA106037",
+  "overview": "先天性糖基化异常 403型 (Congenital Disorder of Glycosylation Type 403) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106037。",
   "pipelines": []
 }

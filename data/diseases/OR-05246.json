@@ -1,10 +1,10 @@
 {
   "id": "OR-05246",
-  "name_cn": "未命名罕见病实体型-5246",
-  "name_en": "Rare Rare Disease Entity Type-5246",
+  "name_cn": "淀粉样变性 350型",
+  "name_en": "Amyloidosis Type 350",
   "aliases": [],
-  "icd_11": "LD20.46",
-  "orpha_code": "ORPHA15246",
-  "overview": "Rare Rare Disease Entity Type-5246 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15246)。",
+  "icd_11": "LD20.246",
+  "orpha_code": "ORPHA105246",
+  "overview": "淀粉样变性 350型 (Amyloidosis Type 350) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105246。",
   "pipelines": []
 }

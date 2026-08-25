@@ -1,10 +1,10 @@
 {
   "id": "OR-02091",
-  "name_cn": "未命名罕见病实体型-2091",
-  "name_en": "Rare Rare Disease Entity Type-2091",
+  "name_cn": "脑病 140型",
+  "name_en": "Encephalopathy Type 140",
   "aliases": [],
-  "icd_11": "LD20.91",
-  "orpha_code": "ORPHA12091",
-  "overview": "Rare Rare Disease Entity Type-2091 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12091)。",
+  "icd_11": "LD20.091",
+  "orpha_code": "ORPHA102091",
+  "overview": "脑病 140型 (Encephalopathy Type 140) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102091。",
   "pipelines": []
 }

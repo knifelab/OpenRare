@@ -1,10 +1,10 @@
 {
   "id": "OR-04428",
-  "name_cn": "未命名罕见病实体型-4428",
-  "name_en": "Rare Rare Disease Entity Type-4428",
+  "name_cn": "脑白质营养不良 296型",
+  "name_en": "Leukodystrophy Type 296",
   "aliases": [],
-  "icd_11": "LD20.28",
-  "orpha_code": "ORPHA14428",
-  "overview": "Rare Rare Disease Entity Type-4428 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14428)。",
+  "icd_11": "LD20.428",
+  "orpha_code": "ORPHA104428",
+  "overview": "脑白质营养不良 296型 (Leukodystrophy Type 296) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104428。",
   "pipelines": []
 }

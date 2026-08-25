@@ -1,10 +1,10 @@
 {
   "id": "OR-05578",
-  "name_cn": "未命名罕见病实体型-5578",
-  "name_en": "Rare Rare Disease Entity Type-5578",
+  "name_cn": "线粒体肌病 372型",
+  "name_en": "Mitochondrial Myopathy Type 372",
   "aliases": [],
-  "icd_11": "LD20.78",
-  "orpha_code": "ORPHA15578",
-  "overview": "Rare Rare Disease Entity Type-5578 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15578)。",
+  "icd_11": "LD20.578",
+  "orpha_code": "ORPHA105578",
+  "overview": "线粒体肌病 372型 (Mitochondrial Myopathy Type 372) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105578。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03240",
-  "name_cn": "未命名罕见病实体型-3240",
-  "name_en": "Rare Rare Disease Entity Type-3240",
+  "name_cn": "肌营养不良症 217型",
+  "name_en": "Muscular Dystrophy Type 217",
   "aliases": [],
-  "icd_11": "LD20.40",
-  "orpha_code": "ORPHA13240",
-  "overview": "Rare Rare Disease Entity Type-3240 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13240)。",
+  "icd_11": "LD20.240",
+  "orpha_code": "ORPHA103240",
+  "overview": "肌营养不良症 217型 (Muscular Dystrophy Type 217) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103240。",
   "pipelines": []
 }

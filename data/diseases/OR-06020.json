@@ -1,10 +1,10 @@
 {
   "id": "OR-06020",
-  "name_cn": "未命名罕见病实体型-6020",
-  "name_en": "Rare Rare Disease Entity Type-6020",
+  "name_cn": "共济失调症 402型",
+  "name_en": "Ataxia Type 402",
   "aliases": [],
-  "icd_11": "LD20.20",
-  "orpha_code": "ORPHA16020",
-  "overview": "Rare Rare Disease Entity Type-6020 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16020)。",
+  "icd_11": "LD20.020",
+  "orpha_code": "ORPHA106020",
+  "overview": "共济失调症 402型 (Ataxia Type 402) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106020。",
   "pipelines": []
 }

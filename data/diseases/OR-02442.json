@@ -1,10 +1,10 @@
 {
   "id": "OR-02442",
-  "name_cn": "未命名罕见病实体型-2442",
-  "name_en": "Rare Rare Disease Entity Type-2442",
+  "name_cn": "骨骼发育不良 163型",
+  "name_en": "Skeletal Dysplasia Type 163",
   "aliases": [],
-  "icd_11": "LD20.42",
-  "orpha_code": "ORPHA12442",
-  "overview": "Rare Rare Disease Entity Type-2442 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12442)。",
+  "icd_11": "LD20.442",
+  "orpha_code": "ORPHA102442",
+  "overview": "骨骼发育不良 163型 (Skeletal Dysplasia Type 163) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102442。",
   "pipelines": []
 }

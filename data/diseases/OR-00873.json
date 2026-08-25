@@ -1,10 +1,10 @@
 {
   "id": "OR-00873",
-  "name_cn": "未命名罕见病实体型-873",
-  "name_en": "Rare Rare Disease Entity Type-873",
+  "name_cn": "脑白质营养不良 59型",
+  "name_en": "Leukodystrophy Type 59",
   "aliases": [],
-  "icd_11": "LD20.73",
-  "orpha_code": "ORPHA10873",
-  "overview": "Rare Rare Disease Entity Type-873 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10873)。",
+  "icd_11": "LD20.873",
+  "orpha_code": "ORPHA100873",
+  "overview": "脑白质营养不良 59型 (Leukodystrophy Type 59) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100873。",
   "pipelines": []
 }

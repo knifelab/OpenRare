@@ -1,10 +1,10 @@
 {
   "id": "OR-05802",
-  "name_cn": "未命名罕见病实体型-5802",
-  "name_en": "Rare Rare Disease Entity Type-5802",
+  "name_cn": "骨骼发育不良 387型",
+  "name_en": "Skeletal Dysplasia Type 387",
   "aliases": [],
-  "icd_11": "LD20.2",
-  "orpha_code": "ORPHA15802",
-  "overview": "Rare Rare Disease Entity Type-5802 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15802)。",
+  "icd_11": "LD20.802",
+  "orpha_code": "ORPHA105802",
+  "overview": "骨骼发育不良 387型 (Skeletal Dysplasia Type 387) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105802。",
   "pipelines": []
 }

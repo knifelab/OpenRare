@@ -1,10 +1,10 @@
 {
   "id": "OR-06170",
-  "name_cn": "未命名罕见病实体型-6170",
-  "name_en": "Rare Rare Disease Entity Type-6170",
+  "name_cn": "共济失调症 412型",
+  "name_en": "Ataxia Type 412",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA16170",
-  "overview": "Rare Rare Disease Entity Type-6170 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16170)。",
+  "icd_11": "LD20.170",
+  "orpha_code": "ORPHA106170",
+  "overview": "共济失调症 412型 (Ataxia Type 412) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106170。",
   "pipelines": []
 }

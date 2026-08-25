@@ -1,10 +1,10 @@
 {
   "id": "OR-06715",
-  "name_cn": "未命名罕见病实体型-6715",
-  "name_en": "Rare Rare Disease Entity Type-6715",
+  "name_cn": "周期性瘫痪 448型",
+  "name_en": "Periodic Paralysis Type 448",
   "aliases": [],
-  "icd_11": "LD20.15",
-  "orpha_code": "ORPHA16715",
-  "overview": "Rare Rare Disease Entity Type-6715 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16715)。",
+  "icd_11": "LD20.715",
+  "orpha_code": "ORPHA106715",
+  "overview": "周期性瘫痪 448型 (Periodic Paralysis Type 448) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106715。",
   "pipelines": []
 }

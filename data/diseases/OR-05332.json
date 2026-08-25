@@ -1,10 +1,10 @@
 {
   "id": "OR-05332",
-  "name_cn": "未命名罕见病实体型-5332",
-  "name_en": "Rare Rare Disease Entity Type-5332",
+  "name_cn": "先天性糖基化异常 356型",
+  "name_en": "Congenital Disorder of Glycosylation Type 356",
   "aliases": [],
-  "icd_11": "LD20.32",
-  "orpha_code": "ORPHA15332",
-  "overview": "Rare Rare Disease Entity Type-5332 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15332)。",
+  "icd_11": "LD20.332",
+  "orpha_code": "ORPHA105332",
+  "overview": "先天性糖基化异常 356型 (Congenital Disorder of Glycosylation Type 356) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105332。",
   "pipelines": []
 }

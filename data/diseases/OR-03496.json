@@ -1,10 +1,10 @@
 {
   "id": "OR-03496",
-  "name_cn": "未命名罕见病实体型-3496",
-  "name_en": "Rare Rare Disease Entity Type-3496",
+  "name_cn": "脊髓性肌萎缩症 234型",
+  "name_en": "Spinal Muscular Atrophy Type 234",
   "aliases": [],
-  "icd_11": "LD20.96",
-  "orpha_code": "ORPHA13496",
-  "overview": "Rare Rare Disease Entity Type-3496 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13496)。",
+  "icd_11": "LD20.496",
+  "orpha_code": "ORPHA103496",
+  "overview": "脊髓性肌萎缩症 234型 (Spinal Muscular Atrophy Type 234) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103496。",
   "pipelines": []
 }

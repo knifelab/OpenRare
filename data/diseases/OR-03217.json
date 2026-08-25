@@ -1,10 +1,10 @@
 {
   "id": "OR-03217",
-  "name_cn": "未命名罕见病实体型-3217",
-  "name_en": "Rare Rare Disease Entity Type-3217",
+  "name_cn": "先天性糖基化异常 215型",
+  "name_en": "Congenital Disorder of Glycosylation Type 215",
   "aliases": [],
-  "icd_11": "LD20.17",
-  "orpha_code": "ORPHA13217",
-  "overview": "Rare Rare Disease Entity Type-3217 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13217)。",
+  "icd_11": "LD20.217",
+  "orpha_code": "ORPHA103217",
+  "overview": "先天性糖基化异常 215型 (Congenital Disorder of Glycosylation Type 215) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103217。",
   "pipelines": []
 }

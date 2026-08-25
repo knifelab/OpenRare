@@ -1,10 +1,10 @@
 {
   "id": "OR-03678",
-  "name_cn": "未命名罕见病实体型-3678",
-  "name_en": "Rare Rare Disease Entity Type-3678",
+  "name_cn": "脑白质营养不良 246型",
+  "name_en": "Leukodystrophy Type 246",
   "aliases": [],
-  "icd_11": "LD20.78",
-  "orpha_code": "ORPHA13678",
-  "overview": "Rare Rare Disease Entity Type-3678 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13678)。",
+  "icd_11": "LD20.678",
+  "orpha_code": "ORPHA103678",
+  "overview": "脑白质营养不良 246型 (Leukodystrophy Type 246) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103678。",
   "pipelines": []
 }

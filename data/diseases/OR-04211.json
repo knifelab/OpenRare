@@ -1,10 +1,10 @@
 {
   "id": "OR-04211",
-  "name_cn": "未命名罕见病实体型-4211",
-  "name_en": "Rare Rare Disease Entity Type-4211",
+  "name_cn": "淀粉样变性 281型",
+  "name_en": "Amyloidosis Type 281",
   "aliases": [],
-  "icd_11": "LD20.11",
-  "orpha_code": "ORPHA14211",
-  "overview": "Rare Rare Disease Entity Type-4211 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14211)。",
+  "icd_11": "LD20.211",
+  "orpha_code": "ORPHA104211",
+  "overview": "淀粉样变性 281型 (Amyloidosis Type 281) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104211。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02733",
-  "name_cn": "未命名罕见病实体型-2733",
-  "name_en": "Rare Rare Disease Entity Type-2733",
+  "name_cn": "脑白质营养不良 183型",
+  "name_en": "Leukodystrophy Type 183",
   "aliases": [],
-  "icd_11": "LD20.33",
-  "orpha_code": "ORPHA12733",
-  "overview": "Rare Rare Disease Entity Type-2733 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12733)。",
+  "icd_11": "LD20.733",
+  "orpha_code": "ORPHA102733",
+  "overview": "脑白质营养不良 183型 (Leukodystrophy Type 183) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102733。",
   "pipelines": []
 }

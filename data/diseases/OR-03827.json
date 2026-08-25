@@ -1,10 +1,10 @@
 {
   "id": "OR-03827",
-  "name_cn": "未命名罕见病实体型-3827",
-  "name_en": "Rare Rare Disease Entity Type-3827",
+  "name_cn": "溶酶体贮积症 256型",
+  "name_en": "Lysosomal Storage Disorder Type 256",
   "aliases": [],
-  "icd_11": "LD20.27",
-  "orpha_code": "ORPHA13827",
-  "overview": "Rare Rare Disease Entity Type-3827 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13827)。",
+  "icd_11": "LD20.827",
+  "orpha_code": "ORPHA103827",
+  "overview": "溶酶体贮积症 256型 (Lysosomal Storage Disorder Type 256) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103827。",
   "pipelines": []
 }

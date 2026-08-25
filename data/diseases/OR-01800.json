@@ -1,10 +1,10 @@
 {
   "id": "OR-01800",
-  "name_cn": "未命名罕见病实体型-1800",
-  "name_en": "Rare Rare Disease Entity Type-1800",
+  "name_cn": "肌营养不良症 121型",
+  "name_en": "Muscular Dystrophy Type 121",
   "aliases": [],
-  "icd_11": "LD20.0",
-  "orpha_code": "ORPHA11800",
-  "overview": "Rare Rare Disease Entity Type-1800 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11800)。",
+  "icd_11": "LD20.800",
+  "orpha_code": "ORPHA101800",
+  "overview": "肌营养不良症 121型 (Muscular Dystrophy Type 121) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101800。",
   "pipelines": []
 }

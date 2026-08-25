@@ -1,10 +1,10 @@
 {
   "id": "OR-04359",
-  "name_cn": "未命名罕见病实体型-4359",
-  "name_en": "Rare Rare Disease Entity Type-4359",
+  "name_cn": "外胚层发育不良 291型",
+  "name_en": "Ectodermal Dysplasia Type 291",
   "aliases": [],
-  "icd_11": "LD20.59",
-  "orpha_code": "ORPHA14359",
-  "overview": "Rare Rare Disease Entity Type-4359 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14359)。",
+  "icd_11": "LD20.359",
+  "orpha_code": "ORPHA104359",
+  "overview": "外胚层发育不良 291型 (Ectodermal Dysplasia Type 291) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104359。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04954",
-  "name_cn": "未命名罕见病实体型-4954",
-  "name_en": "Rare Rare Disease Entity Type-4954",
+  "name_cn": "视网膜营养不良 331型",
+  "name_en": "Retinal Dystrophy Type 331",
   "aliases": [],
-  "icd_11": "LD20.54",
-  "orpha_code": "ORPHA14954",
-  "overview": "Rare Rare Disease Entity Type-4954 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14954)。",
+  "icd_11": "LD20.954",
+  "orpha_code": "ORPHA104954",
+  "overview": "视网膜营养不良 331型 (Retinal Dystrophy Type 331) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104954。",
   "pipelines": []
 }

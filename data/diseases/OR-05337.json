@@ -1,10 +1,10 @@
 {
   "id": "OR-05337",
-  "name_cn": "未命名罕见病实体型-5337",
-  "name_en": "Rare Rare Disease Entity Type-5337",
+  "name_cn": "骨骼发育不良 356型",
+  "name_en": "Skeletal Dysplasia Type 356",
   "aliases": [],
-  "icd_11": "LD20.37",
-  "orpha_code": "ORPHA15337",
-  "overview": "Rare Rare Disease Entity Type-5337 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15337)。",
+  "icd_11": "LD20.337",
+  "orpha_code": "ORPHA105337",
+  "overview": "骨骼发育不良 356型 (Skeletal Dysplasia Type 356) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105337。",
   "pipelines": []
 }

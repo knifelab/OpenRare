@@ -1,10 +1,10 @@
 {
   "id": "OR-04112",
-  "name_cn": "未命名罕见病实体型-4112",
-  "name_en": "Rare Rare Disease Entity Type-4112",
+  "name_cn": "溶酶体贮积症 275型",
+  "name_en": "Lysosomal Storage Disorder Type 275",
   "aliases": [],
-  "icd_11": "LD20.12",
-  "orpha_code": "ORPHA14112",
-  "overview": "Rare Rare Disease Entity Type-4112 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14112)。",
+  "icd_11": "LD20.112",
+  "orpha_code": "ORPHA104112",
+  "overview": "溶酶体贮积症 275型 (Lysosomal Storage Disorder Type 275) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104112。",
   "pipelines": []
 }

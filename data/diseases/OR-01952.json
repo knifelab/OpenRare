@@ -1,10 +1,10 @@
 {
   "id": "OR-01952",
-  "name_cn": "未命名罕见病实体型-1952",
-  "name_en": "Rare Rare Disease Entity Type-1952",
+  "name_cn": "溶酶体贮积症 131型",
+  "name_en": "Lysosomal Storage Disorder Type 131",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA11952",
-  "overview": "Rare Rare Disease Entity Type-1952 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11952)。",
+  "icd_11": "LD20.952",
+  "orpha_code": "ORPHA101952",
+  "overview": "溶酶体贮积症 131型 (Lysosomal Storage Disorder Type 131) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101952。",
   "pipelines": []
 }

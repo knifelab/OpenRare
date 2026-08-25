@@ -1,10 +1,10 @@
 {
   "id": "OR-05189",
-  "name_cn": "未命名罕见病实体型-5189",
-  "name_en": "Rare Rare Disease Entity Type-5189",
+  "name_cn": "动脉性肺动脉高压 346型",
+  "name_en": "Pulmonary Arterial Hypertension Type 346",
   "aliases": [],
-  "icd_11": "LD20.89",
-  "orpha_code": "ORPHA15189",
-  "overview": "Rare Rare Disease Entity Type-5189 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15189)。",
+  "icd_11": "LD20.189",
+  "orpha_code": "ORPHA105189",
+  "overview": "动脉性肺动脉高压 346型 (Pulmonary Arterial Hypertension Type 346) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105189。",
   "pipelines": []
 }

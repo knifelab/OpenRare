@@ -1,10 +1,10 @@
 {
   "id": "OR-05051",
-  "name_cn": "未命名罕见病实体型-5051",
-  "name_en": "Rare Rare Disease Entity Type-5051",
+  "name_cn": "淀粉样变性 337型",
+  "name_en": "Amyloidosis Type 337",
   "aliases": [],
-  "icd_11": "LD20.51",
-  "orpha_code": "ORPHA15051",
-  "overview": "Rare Rare Disease Entity Type-5051 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15051)。",
+  "icd_11": "LD20.051",
+  "orpha_code": "ORPHA105051",
+  "overview": "淀粉样变性 337型 (Amyloidosis Type 337) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105051。",
   "pipelines": []
 }

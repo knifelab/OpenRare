@@ -1,10 +1,10 @@
 {
   "id": "OR-03088",
-  "name_cn": "未命名罕见病实体型-3088",
-  "name_en": "Rare Rare Disease Entity Type-3088",
+  "name_cn": "线粒体肌病 206型",
+  "name_en": "Mitochondrial Myopathy Type 206",
   "aliases": [],
-  "icd_11": "LD20.88",
-  "orpha_code": "ORPHA13088",
-  "overview": "Rare Rare Disease Entity Type-3088 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13088)。",
+  "icd_11": "LD20.088",
+  "orpha_code": "ORPHA103088",
+  "overview": "线粒体肌病 206型 (Mitochondrial Myopathy Type 206) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103088。",
   "pipelines": []
 }

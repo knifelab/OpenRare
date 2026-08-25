@@ -1,10 +1,10 @@
 {
   "id": "OR-06251",
-  "name_cn": "未命名罕见病实体型-6251",
-  "name_en": "Rare Rare Disease Entity Type-6251",
+  "name_cn": "淀粉样变性 417型",
+  "name_en": "Amyloidosis Type 417",
   "aliases": [],
-  "icd_11": "LD20.51",
-  "orpha_code": "ORPHA16251",
-  "overview": "Rare Rare Disease Entity Type-6251 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16251)。",
+  "icd_11": "LD20.251",
+  "orpha_code": "ORPHA106251",
+  "overview": "淀粉样变性 417型 (Amyloidosis Type 417) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106251。",
   "pipelines": []
 }

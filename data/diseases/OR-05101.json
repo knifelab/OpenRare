@@ -1,10 +1,10 @@
 {
   "id": "OR-05101",
-  "name_cn": "未命名罕见病实体型-5101",
-  "name_en": "Rare Rare Disease Entity Type-5101",
+  "name_cn": "脊髓性肌萎缩症 341型",
+  "name_en": "Spinal Muscular Atrophy Type 341",
   "aliases": [],
-  "icd_11": "LD20.1",
-  "orpha_code": "ORPHA15101",
-  "overview": "Rare Rare Disease Entity Type-5101 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15101)。",
+  "icd_11": "LD20.101",
+  "orpha_code": "ORPHA105101",
+  "overview": "脊髓性肌萎缩症 341型 (Spinal Muscular Atrophy Type 341) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105101。",
   "pipelines": []
 }

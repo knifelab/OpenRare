@@ -1,10 +1,10 @@
 {
   "id": "OR-06844",
-  "name_cn": "未命名罕见病实体型-6844",
-  "name_en": "Rare Rare Disease Entity Type-6844",
+  "name_cn": "视网膜营养不良 457型",
+  "name_en": "Retinal Dystrophy Type 457",
   "aliases": [],
-  "icd_11": "LD20.44",
-  "orpha_code": "ORPHA16844",
-  "overview": "Rare Rare Disease Entity Type-6844 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16844)。",
+  "icd_11": "LD20.844",
+  "orpha_code": "ORPHA106844",
+  "overview": "视网膜营养不良 457型 (Retinal Dystrophy Type 457) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106844。",
   "pipelines": []
 }

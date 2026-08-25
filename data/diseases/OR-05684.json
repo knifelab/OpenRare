@@ -1,10 +1,10 @@
 {
   "id": "OR-05684",
-  "name_cn": "未命名罕见病实体型-5684",
-  "name_en": "Rare Rare Disease Entity Type-5684",
+  "name_cn": "动脉性肺动脉高压 379型",
+  "name_en": "Pulmonary Arterial Hypertension Type 379",
   "aliases": [],
-  "icd_11": "LD20.84",
-  "orpha_code": "ORPHA15684",
-  "overview": "Rare Rare Disease Entity Type-5684 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15684)。",
+  "icd_11": "LD20.684",
+  "orpha_code": "ORPHA105684",
+  "overview": "动脉性肺动脉高压 379型 (Pulmonary Arterial Hypertension Type 379) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105684。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02590",
-  "name_cn": "未命名罕见病实体型-2590",
-  "name_en": "Rare Rare Disease Entity Type-2590",
+  "name_cn": "周期性瘫痪 173型",
+  "name_en": "Periodic Paralysis Type 173",
   "aliases": [],
-  "icd_11": "LD20.90",
-  "orpha_code": "ORPHA12590",
-  "overview": "Rare Rare Disease Entity Type-2590 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12590)。",
+  "icd_11": "LD20.590",
+  "orpha_code": "ORPHA102590",
+  "overview": "周期性瘫痪 173型 (Periodic Paralysis Type 173) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102590。",
   "pipelines": []
 }

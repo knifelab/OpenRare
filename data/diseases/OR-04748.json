@@ -1,10 +1,10 @@
 {
   "id": "OR-04748",
-  "name_cn": "未命名罕见病实体型-4748",
-  "name_en": "Rare Rare Disease Entity Type-4748",
+  "name_cn": "原发性免疫缺陷病 317型",
+  "name_en": "Primary Immunodeficiency Type 317",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA14748",
-  "overview": "Rare Rare Disease Entity Type-4748 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14748)。",
+  "icd_11": "LD20.748",
+  "orpha_code": "ORPHA104748",
+  "overview": "原发性免疫缺陷病 317型 (Primary Immunodeficiency Type 317) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104748。",
   "pipelines": []
 }

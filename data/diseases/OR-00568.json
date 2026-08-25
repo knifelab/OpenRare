@@ -1,10 +1,10 @@
 {
   "id": "OR-00568",
-  "name_cn": "未命名罕见病实体型-568",
-  "name_en": "Rare Rare Disease Entity Type-568",
+  "name_cn": "线粒体肌病 38型",
+  "name_en": "Mitochondrial Myopathy Type 38",
   "aliases": [],
-  "icd_11": "LD20.68",
-  "orpha_code": "ORPHA10568",
-  "overview": "Rare Rare Disease Entity Type-568 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10568)。",
+  "icd_11": "LD20.568",
+  "orpha_code": "ORPHA100568",
+  "overview": "线粒体肌病 38型 (Mitochondrial Myopathy Type 38) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100568。",
   "pipelines": []
 }

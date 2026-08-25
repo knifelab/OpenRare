@@ -1,10 +1,10 @@
 {
   "id": "OR-03325",
-  "name_cn": "未命名罕见病实体型-3325",
-  "name_en": "Rare Rare Disease Entity Type-3325",
+  "name_cn": "周期性瘫痪 222型",
+  "name_en": "Periodic Paralysis Type 222",
   "aliases": [],
-  "icd_11": "LD20.25",
-  "orpha_code": "ORPHA13325",
-  "overview": "Rare Rare Disease Entity Type-3325 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13325)。",
+  "icd_11": "LD20.325",
+  "orpha_code": "ORPHA103325",
+  "overview": "周期性瘫痪 222型 (Periodic Paralysis Type 222) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103325。",
   "pipelines": []
 }

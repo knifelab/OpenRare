@@ -1,10 +1,10 @@
 {
   "id": "OR-06831",
-  "name_cn": "未命名罕见病实体型-6831",
-  "name_en": "Rare Rare Disease Entity Type-6831",
+  "name_cn": "脑病 456型",
+  "name_en": "Encephalopathy Type 456",
   "aliases": [],
-  "icd_11": "LD20.31",
-  "orpha_code": "ORPHA16831",
-  "overview": "Rare Rare Disease Entity Type-6831 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16831)。",
+  "icd_11": "LD20.831",
+  "orpha_code": "ORPHA106831",
+  "overview": "脑病 456型 (Encephalopathy Type 456) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106831。",
   "pipelines": []
 }

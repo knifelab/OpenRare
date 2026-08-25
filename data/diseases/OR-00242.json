@@ -1,10 +1,10 @@
 {
   "id": "OR-00242",
-  "name_cn": "未命名罕见病实体型-242",
-  "name_en": "Rare Rare Disease Entity Type-242",
+  "name_cn": "溶酶体贮积症 17型",
+  "name_en": "Lysosomal Storage Disorder Type 17",
   "aliases": [],
-  "icd_11": "LD20.42",
-  "orpha_code": "ORPHA10242",
-  "overview": "Rare Rare Disease Entity Type-242 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10242)。",
+  "icd_11": "LD20.242",
+  "orpha_code": "ORPHA100242",
+  "overview": "溶酶体贮积症 17型 (Lysosomal Storage Disorder Type 17) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100242。",
   "pipelines": []
 }

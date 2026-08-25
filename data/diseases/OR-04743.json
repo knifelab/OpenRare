@@ -1,10 +1,10 @@
 {
   "id": "OR-04743",
-  "name_cn": "未命名罕见病实体型-4743",
-  "name_en": "Rare Rare Disease Entity Type-4743",
+  "name_cn": "脑白质营养不良 317型",
+  "name_en": "Leukodystrophy Type 317",
   "aliases": [],
-  "icd_11": "LD20.43",
-  "orpha_code": "ORPHA14743",
-  "overview": "Rare Rare Disease Entity Type-4743 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14743)。",
+  "icd_11": "LD20.743",
+  "orpha_code": "ORPHA104743",
+  "overview": "脑白质营养不良 317型 (Leukodystrophy Type 317) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104743。",
   "pipelines": []
 }

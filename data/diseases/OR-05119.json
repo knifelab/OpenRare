@@ -1,10 +1,10 @@
 {
   "id": "OR-05119",
-  "name_cn": "未命名罕见病实体型-5119",
-  "name_en": "Rare Rare Disease Entity Type-5119",
+  "name_cn": "视网膜营养不良 342型",
+  "name_en": "Retinal Dystrophy Type 342",
   "aliases": [],
-  "icd_11": "LD20.19",
-  "orpha_code": "ORPHA15119",
-  "overview": "Rare Rare Disease Entity Type-5119 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15119)。",
+  "icd_11": "LD20.119",
+  "orpha_code": "ORPHA105119",
+  "overview": "视网膜营养不良 342型 (Retinal Dystrophy Type 342) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105119。",
   "pipelines": []
 }

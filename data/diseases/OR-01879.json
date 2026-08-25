@@ -1,10 +1,10 @@
 {
   "id": "OR-01879",
-  "name_cn": "未命名罕见病实体型-1879",
-  "name_en": "Rare Rare Disease Entity Type-1879",
+  "name_cn": "视网膜营养不良 126型",
+  "name_en": "Retinal Dystrophy Type 126",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA11879",
-  "overview": "Rare Rare Disease Entity Type-1879 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11879)。",
+  "icd_11": "LD20.879",
+  "orpha_code": "ORPHA101879",
+  "overview": "视网膜营养不良 126型 (Retinal Dystrophy Type 126) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101879。",
   "pipelines": []
 }

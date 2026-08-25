@@ -1,10 +1,10 @@
 {
   "id": "OR-03994",
-  "name_cn": "未命名罕见病实体型-3994",
-  "name_en": "Rare Rare Disease Entity Type-3994",
+  "name_cn": "视网膜营养不良 267型",
+  "name_en": "Retinal Dystrophy Type 267",
   "aliases": [],
-  "icd_11": "LD20.94",
-  "orpha_code": "ORPHA13994",
-  "overview": "Rare Rare Disease Entity Type-3994 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13994)。",
+  "icd_11": "LD20.994",
+  "orpha_code": "ORPHA103994",
+  "overview": "视网膜营养不良 267型 (Retinal Dystrophy Type 267) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103994。",
   "pipelines": []
 }

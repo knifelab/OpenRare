@@ -1,10 +1,10 @@
 {
   "id": "OR-04603",
-  "name_cn": "未命名罕见病实体型-4603",
-  "name_en": "Rare Rare Disease Entity Type-4603",
+  "name_cn": "线粒体肌病 307型",
+  "name_en": "Mitochondrial Myopathy Type 307",
   "aliases": [],
-  "icd_11": "LD20.3",
-  "orpha_code": "ORPHA14603",
-  "overview": "Rare Rare Disease Entity Type-4603 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14603)。",
+  "icd_11": "LD20.603",
+  "orpha_code": "ORPHA104603",
+  "overview": "线粒体肌病 307型 (Mitochondrial Myopathy Type 307) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104603。",
   "pipelines": []
 }

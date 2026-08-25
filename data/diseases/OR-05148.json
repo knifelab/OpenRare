@@ -1,10 +1,10 @@
 {
   "id": "OR-05148",
-  "name_cn": "未命名罕见病实体型-5148",
-  "name_en": "Rare Rare Disease Entity Type-5148",
+  "name_cn": "脑白质营养不良 344型",
+  "name_en": "Leukodystrophy Type 344",
   "aliases": [],
-  "icd_11": "LD20.48",
-  "orpha_code": "ORPHA15148",
-  "overview": "Rare Rare Disease Entity Type-5148 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15148)。",
+  "icd_11": "LD20.148",
+  "orpha_code": "ORPHA105148",
+  "overview": "脑白质营养不良 344型 (Leukodystrophy Type 344) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105148。",
   "pipelines": []
 }

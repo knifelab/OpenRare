@@ -1,10 +1,10 @@
 {
   "id": "OR-02919",
-  "name_cn": "未命名罕见病实体型-2919",
-  "name_en": "Rare Rare Disease Entity Type-2919",
+  "name_cn": "外胚层发育不良 195型",
+  "name_en": "Ectodermal Dysplasia Type 195",
   "aliases": [],
-  "icd_11": "LD20.19",
-  "orpha_code": "ORPHA12919",
-  "overview": "Rare Rare Disease Entity Type-2919 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12919)。",
+  "icd_11": "LD20.919",
+  "orpha_code": "ORPHA102919",
+  "overview": "外胚层发育不良 195型 (Ectodermal Dysplasia Type 195) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102919。",
   "pipelines": []
 }

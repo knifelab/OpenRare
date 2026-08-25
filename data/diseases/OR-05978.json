@@ -1,10 +1,10 @@
 {
   "id": "OR-05978",
-  "name_cn": "未命名罕见病实体型-5978",
-  "name_en": "Rare Rare Disease Entity Type-5978",
+  "name_cn": "原发性免疫缺陷病 399型",
+  "name_en": "Primary Immunodeficiency Type 399",
   "aliases": [],
-  "icd_11": "LD20.78",
-  "orpha_code": "ORPHA15978",
-  "overview": "Rare Rare Disease Entity Type-5978 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15978)。",
+  "icd_11": "LD20.978",
+  "orpha_code": "ORPHA105978",
+  "overview": "原发性免疫缺陷病 399型 (Primary Immunodeficiency Type 399) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105978。",
   "pipelines": []
 }

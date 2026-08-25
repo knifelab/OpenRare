@@ -1,10 +1,10 @@
 {
   "id": "OR-03710",
-  "name_cn": "未命名罕见病实体型-3710",
-  "name_en": "Rare Rare Disease Entity Type-3710",
+  "name_cn": "共济失调症 248型",
+  "name_en": "Ataxia Type 248",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA13710",
-  "overview": "Rare Rare Disease Entity Type-3710 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13710)。",
+  "icd_11": "LD20.710",
+  "orpha_code": "ORPHA103710",
+  "overview": "共济失调症 248型 (Ataxia Type 248) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103710。",
   "pipelines": []
 }

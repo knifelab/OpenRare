@@ -1,10 +1,10 @@
 {
   "id": "OR-01079",
-  "name_cn": "未命名罕见病实体型-1079",
-  "name_en": "Rare Rare Disease Entity Type-1079",
+  "name_cn": "动脉性肺动脉高压 72型",
+  "name_en": "Pulmonary Arterial Hypertension Type 72",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA11079",
-  "overview": "Rare Rare Disease Entity Type-1079 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11079)。",
+  "icd_11": "LD20.079",
+  "orpha_code": "ORPHA101079",
+  "overview": "动脉性肺动脉高压 72型 (Pulmonary Arterial Hypertension Type 72) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101079。",
   "pipelines": []
 }

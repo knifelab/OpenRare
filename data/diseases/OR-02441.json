@@ -1,10 +1,10 @@
 {
   "id": "OR-02441",
-  "name_cn": "未命名罕见病实体型-2441",
-  "name_en": "Rare Rare Disease Entity Type-2441",
+  "name_cn": "淀粉样变性 163型",
+  "name_en": "Amyloidosis Type 163",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA12441",
-  "overview": "Rare Rare Disease Entity Type-2441 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12441)。",
+  "icd_11": "LD20.441",
+  "orpha_code": "ORPHA102441",
+  "overview": "淀粉样变性 163型 (Amyloidosis Type 163) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102441。",
   "pipelines": []
 }

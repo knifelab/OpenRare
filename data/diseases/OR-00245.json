@@ -1,10 +1,10 @@
 {
   "id": "OR-00245",
-  "name_cn": "未命名罕见病实体型-245",
-  "name_en": "Rare Rare Disease Entity Type-245",
+  "name_cn": "共济失调症 17型",
+  "name_en": "Ataxia Type 17",
   "aliases": [],
-  "icd_11": "LD20.45",
-  "orpha_code": "ORPHA10245",
-  "overview": "Rare Rare Disease Entity Type-245 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10245)。",
+  "icd_11": "LD20.245",
+  "orpha_code": "ORPHA100245",
+  "overview": "共济失调症 17型 (Ataxia Type 17) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100245。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-06188",
-  "name_cn": "未命名罕见病实体型-6188",
-  "name_en": "Rare Rare Disease Entity Type-6188",
+  "name_cn": "原发性免疫缺陷病 413型",
+  "name_en": "Primary Immunodeficiency Type 413",
   "aliases": [],
-  "icd_11": "LD20.88",
-  "orpha_code": "ORPHA16188",
-  "overview": "Rare Rare Disease Entity Type-6188 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16188)。",
+  "icd_11": "LD20.188",
+  "orpha_code": "ORPHA106188",
+  "overview": "原发性免疫缺陷病 413型 (Primary Immunodeficiency Type 413) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106188。",
   "pipelines": []
 }

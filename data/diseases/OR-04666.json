@@ -1,10 +1,10 @@
 {
   "id": "OR-04666",
-  "name_cn": "未命名罕见病实体型-4666",
-  "name_en": "Rare Rare Disease Entity Type-4666",
+  "name_cn": "脊髓性肌萎缩症 312型",
+  "name_en": "Spinal Muscular Atrophy Type 312",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA14666",
-  "overview": "Rare Rare Disease Entity Type-4666 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14666)。",
+  "icd_11": "LD20.666",
+  "orpha_code": "ORPHA104666",
+  "overview": "脊髓性肌萎缩症 312型 (Spinal Muscular Atrophy Type 312) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104666。",
   "pipelines": []
 }

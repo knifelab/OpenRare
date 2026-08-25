@@ -1,10 +1,10 @@
 {
   "id": "OR-05241",
-  "name_cn": "未命名罕见病实体型-5241",
-  "name_en": "Rare Rare Disease Entity Type-5241",
+  "name_cn": "脑病 350型",
+  "name_en": "Encephalopathy Type 350",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA15241",
-  "overview": "Rare Rare Disease Entity Type-5241 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15241)。",
+  "icd_11": "LD20.241",
+  "orpha_code": "ORPHA105241",
+  "overview": "脑病 350型 (Encephalopathy Type 350) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105241。",
   "pipelines": []
 }

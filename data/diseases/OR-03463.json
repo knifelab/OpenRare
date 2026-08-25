@@ -1,10 +1,10 @@
 {
   "id": "OR-03463",
-  "name_cn": "未命名罕见病实体型-3463",
-  "name_en": "Rare Rare Disease Entity Type-3463",
+  "name_cn": "线粒体肌病 231型",
+  "name_en": "Mitochondrial Myopathy Type 231",
   "aliases": [],
-  "icd_11": "LD20.63",
-  "orpha_code": "ORPHA13463",
-  "overview": "Rare Rare Disease Entity Type-3463 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13463)。",
+  "icd_11": "LD20.463",
+  "orpha_code": "ORPHA103463",
+  "overview": "线粒体肌病 231型 (Mitochondrial Myopathy Type 231) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103463。",
   "pipelines": []
 }

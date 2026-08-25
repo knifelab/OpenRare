@@ -1,10 +1,10 @@
 {
   "id": "OR-04564",
-  "name_cn": "未命名罕见病实体型-4564",
-  "name_en": "Rare Rare Disease Entity Type-4564",
+  "name_cn": "视网膜营养不良 305型",
+  "name_en": "Retinal Dystrophy Type 305",
   "aliases": [],
-  "icd_11": "LD20.64",
-  "orpha_code": "ORPHA14564",
-  "overview": "Rare Rare Disease Entity Type-4564 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14564)。",
+  "icd_11": "LD20.564",
+  "orpha_code": "ORPHA104564",
+  "overview": "视网膜营养不良 305型 (Retinal Dystrophy Type 305) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104564。",
   "pipelines": []
 }

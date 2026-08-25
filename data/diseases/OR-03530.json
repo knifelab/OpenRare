@@ -1,10 +1,10 @@
 {
   "id": "OR-03530",
-  "name_cn": "未命名罕见病实体型-3530",
-  "name_en": "Rare Rare Disease Entity Type-3530",
+  "name_cn": "共济失调症 236型",
+  "name_en": "Ataxia Type 236",
   "aliases": [],
-  "icd_11": "LD20.30",
-  "orpha_code": "ORPHA13530",
-  "overview": "Rare Rare Disease Entity Type-3530 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13530)。",
+  "icd_11": "LD20.530",
+  "orpha_code": "ORPHA103530",
+  "overview": "共济失调症 236型 (Ataxia Type 236) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103530。",
   "pipelines": []
 }

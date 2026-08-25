@@ -1,10 +1,10 @@
 {
   "id": "OR-05659",
-  "name_cn": "未命名罕见病实体型-5659",
-  "name_en": "Rare Rare Disease Entity Type-5659",
+  "name_cn": "视网膜营养不良 378型",
+  "name_en": "Retinal Dystrophy Type 378",
   "aliases": [],
-  "icd_11": "LD20.59",
-  "orpha_code": "ORPHA15659",
-  "overview": "Rare Rare Disease Entity Type-5659 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15659)。",
+  "icd_11": "LD20.659",
+  "orpha_code": "ORPHA105659",
+  "overview": "视网膜营养不良 378型 (Retinal Dystrophy Type 378) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105659。",
   "pipelines": []
 }

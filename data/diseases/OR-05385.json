@@ -1,10 +1,10 @@
 {
   "id": "OR-05385",
-  "name_cn": "未命名罕见病实体型-5385",
-  "name_en": "Rare Rare Disease Entity Type-5385",
+  "name_cn": "肌营养不良症 360型",
+  "name_en": "Muscular Dystrophy Type 360",
   "aliases": [],
-  "icd_11": "LD20.85",
-  "orpha_code": "ORPHA15385",
-  "overview": "Rare Rare Disease Entity Type-5385 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15385)。",
+  "icd_11": "LD20.385",
+  "orpha_code": "ORPHA105385",
+  "overview": "肌营养不良症 360型 (Muscular Dystrophy Type 360) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105385。",
   "pipelines": []
 }

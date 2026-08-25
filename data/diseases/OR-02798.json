@@ -1,10 +1,10 @@
 {
   "id": "OR-02798",
-  "name_cn": "未命名罕见病实体型-2798",
-  "name_en": "Rare Rare Disease Entity Type-2798",
+  "name_cn": "原发性免疫缺陷病 187型",
+  "name_en": "Primary Immunodeficiency Type 187",
   "aliases": [],
-  "icd_11": "LD20.98",
-  "orpha_code": "ORPHA12798",
-  "overview": "Rare Rare Disease Entity Type-2798 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12798)。",
+  "icd_11": "LD20.798",
+  "orpha_code": "ORPHA102798",
+  "overview": "原发性免疫缺陷病 187型 (Primary Immunodeficiency Type 187) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102798。",
   "pipelines": []
 }

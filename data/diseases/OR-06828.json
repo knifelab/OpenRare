@@ -1,10 +1,10 @@
 {
   "id": "OR-06828",
-  "name_cn": "未命名罕见病实体型-6828",
-  "name_en": "Rare Rare Disease Entity Type-6828",
+  "name_cn": "脑白质营养不良 456型",
+  "name_en": "Leukodystrophy Type 456",
   "aliases": [],
-  "icd_11": "LD20.28",
-  "orpha_code": "ORPHA16828",
-  "overview": "Rare Rare Disease Entity Type-6828 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16828)。",
+  "icd_11": "LD20.828",
+  "orpha_code": "ORPHA106828",
+  "overview": "脑白质营养不良 456型 (Leukodystrophy Type 456) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106828。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-02095",
-  "name_cn": "未命名罕见病实体型-2095",
-  "name_en": "Rare Rare Disease Entity Type-2095",
+  "name_cn": "周期性瘫痪 140型",
+  "name_en": "Periodic Paralysis Type 140",
   "aliases": [],
-  "icd_11": "LD20.95",
-  "orpha_code": "ORPHA12095",
-  "overview": "Rare Rare Disease Entity Type-2095 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12095)。",
+  "icd_11": "LD20.095",
+  "orpha_code": "ORPHA102095",
+  "overview": "周期性瘫痪 140型 (Periodic Paralysis Type 140) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102095。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-00187",
-  "name_cn": "未命名罕见病实体型-187",
-  "name_en": "Rare Rare Disease Entity Type-187",
+  "name_cn": "先天性糖基化异常 13型",
+  "name_en": "Congenital Disorder of Glycosylation Type 13",
   "aliases": [],
-  "icd_11": "LD20.87",
-  "orpha_code": "ORPHA10187",
-  "overview": "Rare Rare Disease Entity Type-187 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10187)。",
+  "icd_11": "LD20.187",
+  "orpha_code": "ORPHA100187",
+  "overview": "先天性糖基化异常 13型 (Congenital Disorder of Glycosylation Type 13) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100187。",
   "pipelines": []
 }

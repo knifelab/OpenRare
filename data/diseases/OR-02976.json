@@ -1,10 +1,10 @@
 {
   "id": "OR-02976",
-  "name_cn": "未命名罕见病实体型-2976",
-  "name_en": "Rare Rare Disease Entity Type-2976",
+  "name_cn": "脑病 199型",
+  "name_en": "Encephalopathy Type 199",
   "aliases": [],
-  "icd_11": "LD20.76",
-  "orpha_code": "ORPHA12976",
-  "overview": "Rare Rare Disease Entity Type-2976 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12976)。",
+  "icd_11": "LD20.976",
+  "orpha_code": "ORPHA102976",
+  "overview": "脑病 199型 (Encephalopathy Type 199) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102976。",
   "pipelines": []
 }

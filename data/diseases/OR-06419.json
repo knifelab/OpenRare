@@ -1,10 +1,10 @@
 {
   "id": "OR-06419",
-  "name_cn": "未命名罕见病实体型-6419",
-  "name_en": "Rare Rare Disease Entity Type-6419",
+  "name_cn": "动脉性肺动脉高压 428型",
+  "name_en": "Pulmonary Arterial Hypertension Type 428",
   "aliases": [],
-  "icd_11": "LD20.19",
-  "orpha_code": "ORPHA16419",
-  "overview": "Rare Rare Disease Entity Type-6419 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16419)。",
+  "icd_11": "LD20.419",
+  "orpha_code": "ORPHA106419",
+  "overview": "动脉性肺动脉高压 428型 (Pulmonary Arterial Hypertension Type 428) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106419。",
   "pipelines": []
 }

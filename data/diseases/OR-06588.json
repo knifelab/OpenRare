@@ -1,10 +1,10 @@
 {
   "id": "OR-06588",
-  "name_cn": "未命名罕见病实体型-6588",
-  "name_en": "Rare Rare Disease Entity Type-6588",
+  "name_cn": "脑白质营养不良 440型",
+  "name_en": "Leukodystrophy Type 440",
   "aliases": [],
-  "icd_11": "LD20.88",
-  "orpha_code": "ORPHA16588",
-  "overview": "Rare Rare Disease Entity Type-6588 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16588)。",
+  "icd_11": "LD20.588",
+  "orpha_code": "ORPHA106588",
+  "overview": "脑白质营养不良 440型 (Leukodystrophy Type 440) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106588。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05313",
-  "name_cn": "未命名罕见病实体型-5313",
-  "name_en": "Rare Rare Disease Entity Type-5313",
+  "name_cn": "脑白质营养不良 355型",
+  "name_en": "Leukodystrophy Type 355",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA15313",
-  "overview": "Rare Rare Disease Entity Type-5313 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15313)。",
+  "icd_11": "LD20.313",
+  "orpha_code": "ORPHA105313",
+  "overview": "脑白质营养不良 355型 (Leukodystrophy Type 355) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105313。",
   "pipelines": []
 }

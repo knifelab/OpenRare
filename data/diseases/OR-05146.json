@@ -1,10 +1,10 @@
 {
   "id": "OR-05146",
-  "name_cn": "未命名罕见病实体型-5146",
-  "name_en": "Rare Rare Disease Entity Type-5146",
+  "name_cn": "脊髓性肌萎缩症 344型",
+  "name_en": "Spinal Muscular Atrophy Type 344",
   "aliases": [],
-  "icd_11": "LD20.46",
-  "orpha_code": "ORPHA15146",
-  "overview": "Rare Rare Disease Entity Type-5146 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15146)。",
+  "icd_11": "LD20.146",
+  "orpha_code": "ORPHA105146",
+  "overview": "脊髓性肌萎缩症 344型 (Spinal Muscular Atrophy Type 344) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105146。",
   "pipelines": []
 }

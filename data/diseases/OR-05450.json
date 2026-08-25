@@ -1,10 +1,10 @@
 {
   "id": "OR-05450",
-  "name_cn": "未命名罕见病实体型-5450",
-  "name_en": "Rare Rare Disease Entity Type-5450",
+  "name_cn": "共济失调症 364型",
+  "name_en": "Ataxia Type 364",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA15450",
-  "overview": "Rare Rare Disease Entity Type-5450 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15450)。",
+  "icd_11": "LD20.450",
+  "orpha_code": "ORPHA105450",
+  "overview": "共济失调症 364型 (Ataxia Type 364) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105450。",
   "pipelines": []
 }

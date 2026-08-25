@@ -1,10 +1,10 @@
 {
   "id": "OR-03052",
-  "name_cn": "未命名罕见病实体型-3052",
-  "name_en": "Rare Rare Disease Entity Type-3052",
+  "name_cn": "先天性糖基化异常 204型",
+  "name_en": "Congenital Disorder of Glycosylation Type 204",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA13052",
-  "overview": "Rare Rare Disease Entity Type-3052 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13052)。",
+  "icd_11": "LD20.052",
+  "orpha_code": "ORPHA103052",
+  "overview": "先天性糖基化异常 204型 (Congenital Disorder of Glycosylation Type 204) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103052。",
   "pipelines": []
 }

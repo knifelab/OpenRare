@@ -1,10 +1,10 @@
 {
   "id": "OR-00614",
-  "name_cn": "未命名罕见病实体型-614",
-  "name_en": "Rare Rare Disease Entity Type-614",
+  "name_cn": "动脉性肺动脉高压 41型",
+  "name_en": "Pulmonary Arterial Hypertension Type 41",
   "aliases": [],
-  "icd_11": "LD20.14",
-  "orpha_code": "ORPHA10614",
-  "overview": "Rare Rare Disease Entity Type-614 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10614)。",
+  "icd_11": "LD20.614",
+  "orpha_code": "ORPHA100614",
+  "overview": "动脉性肺动脉高压 41型 (Pulmonary Arterial Hypertension Type 41) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100614。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05720",
-  "name_cn": "未命名罕见病实体型-5720",
-  "name_en": "Rare Rare Disease Entity Type-5720",
+  "name_cn": "共济失调症 382型",
+  "name_en": "Ataxia Type 382",
   "aliases": [],
-  "icd_11": "LD20.20",
-  "orpha_code": "ORPHA15720",
-  "overview": "Rare Rare Disease Entity Type-5720 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15720)。",
+  "icd_11": "LD20.720",
+  "orpha_code": "ORPHA105720",
+  "overview": "共济失调症 382型 (Ataxia Type 382) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105720。",
   "pipelines": []
 }

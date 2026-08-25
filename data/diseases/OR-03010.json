@@ -1,10 +1,10 @@
 {
   "id": "OR-03010",
-  "name_cn": "未命名罕见病实体型-3010",
-  "name_en": "Rare Rare Disease Entity Type-3010",
+  "name_cn": "周期性瘫痪 201型",
+  "name_en": "Periodic Paralysis Type 201",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA13010",
-  "overview": "Rare Rare Disease Entity Type-3010 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13010)。",
+  "icd_11": "LD20.010",
+  "orpha_code": "ORPHA103010",
+  "overview": "周期性瘫痪 201型 (Periodic Paralysis Type 201) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103010。",
   "pipelines": []
 }

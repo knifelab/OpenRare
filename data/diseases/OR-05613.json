@@ -1,10 +1,10 @@
 {
   "id": "OR-05613",
-  "name_cn": "未命名罕见病实体型-5613",
-  "name_en": "Rare Rare Disease Entity Type-5613",
+  "name_cn": "脑白质营养不良 375型",
+  "name_en": "Leukodystrophy Type 375",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA15613",
-  "overview": "Rare Rare Disease Entity Type-5613 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15613)。",
+  "icd_11": "LD20.613",
+  "orpha_code": "ORPHA105613",
+  "overview": "脑白质营养不良 375型 (Leukodystrophy Type 375) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105613。",
   "pipelines": []
 }

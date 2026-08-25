@@ -1,10 +1,10 @@
 {
   "id": "OR-05745",
-  "name_cn": "未命名罕见病实体型-5745",
-  "name_en": "Rare Rare Disease Entity Type-5745",
+  "name_cn": "肌营养不良症 384型",
+  "name_en": "Muscular Dystrophy Type 384",
   "aliases": [],
-  "icd_11": "LD20.45",
-  "orpha_code": "ORPHA15745",
-  "overview": "Rare Rare Disease Entity Type-5745 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15745)。",
+  "icd_11": "LD20.745",
+  "orpha_code": "ORPHA105745",
+  "overview": "肌营养不良症 384型 (Muscular Dystrophy Type 384) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105745。",
   "pipelines": []
 }

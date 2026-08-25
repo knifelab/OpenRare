@@ -1,10 +1,10 @@
 {
   "id": "OR-00807",
-  "name_cn": "未命名罕见病实体型-807",
-  "name_en": "Rare Rare Disease Entity Type-807",
+  "name_cn": "骨骼发育不良 54型",
+  "name_en": "Skeletal Dysplasia Type 54",
   "aliases": [],
-  "icd_11": "LD20.7",
-  "orpha_code": "ORPHA10807",
-  "overview": "Rare Rare Disease Entity Type-807 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10807)。",
+  "icd_11": "LD20.807",
+  "orpha_code": "ORPHA100807",
+  "overview": "骨骼发育不良 54型 (Skeletal Dysplasia Type 54) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100807。",
   "pipelines": []
 }

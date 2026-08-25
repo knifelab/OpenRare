@@ -1,10 +1,10 @@
 {
   "id": "OR-02310",
-  "name_cn": "未命名罕见病实体型-2310",
-  "name_en": "Rare Rare Disease Entity Type-2310",
+  "name_cn": "肌营养不良症 155型",
+  "name_en": "Muscular Dystrophy Type 155",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA12310",
-  "overview": "Rare Rare Disease Entity Type-2310 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12310)。",
+  "icd_11": "LD20.310",
+  "orpha_code": "ORPHA102310",
+  "overview": "肌营养不良症 155型 (Muscular Dystrophy Type 155) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102310。",
   "pipelines": []
 }

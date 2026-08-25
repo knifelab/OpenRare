@@ -1,10 +1,10 @@
 {
   "id": "OR-03145",
-  "name_cn": "未命名罕见病实体型-3145",
-  "name_en": "Rare Rare Disease Entity Type-3145",
+  "name_cn": "周期性瘫痪 210型",
+  "name_en": "Periodic Paralysis Type 210",
   "aliases": [],
-  "icd_11": "LD20.45",
-  "orpha_code": "ORPHA13145",
-  "overview": "Rare Rare Disease Entity Type-3145 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13145)。",
+  "icd_11": "LD20.145",
+  "orpha_code": "ORPHA103145",
+  "overview": "周期性瘫痪 210型 (Periodic Paralysis Type 210) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103145。",
   "pipelines": []
 }

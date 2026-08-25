@@ -1,10 +1,10 @@
 {
   "id": "OR-04233",
-  "name_cn": "未命名罕见病实体型-4233",
-  "name_en": "Rare Rare Disease Entity Type-4233",
+  "name_cn": "脑白质营养不良 283型",
+  "name_en": "Leukodystrophy Type 283",
   "aliases": [],
-  "icd_11": "LD20.33",
-  "orpha_code": "ORPHA14233",
-  "overview": "Rare Rare Disease Entity Type-4233 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14233)。",
+  "icd_11": "LD20.233",
+  "orpha_code": "ORPHA104233",
+  "overview": "脑白质营养不良 283型 (Leukodystrophy Type 283) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104233。",
   "pipelines": []
 }

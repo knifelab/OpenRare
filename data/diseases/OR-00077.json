@@ -1,10 +1,10 @@
 {
   "id": "OR-00077",
-  "name_cn": "未命名罕见病实体型-77",
-  "name_en": "Rare Rare Disease Entity Type-77",
+  "name_cn": "溶酶体贮积症 6型",
+  "name_en": "Lysosomal Storage Disorder Type 6",
   "aliases": [],
-  "icd_11": "LD20.77",
-  "orpha_code": "ORPHA10077",
-  "overview": "Rare Rare Disease Entity Type-77 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10077)。",
+  "icd_11": "LD20.077",
+  "orpha_code": "ORPHA100077",
+  "overview": "溶酶体贮积症 6型 (Lysosomal Storage Disorder Type 6) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100077。",
   "pipelines": []
 }

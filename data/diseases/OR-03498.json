@@ -1,10 +1,10 @@
 {
   "id": "OR-03498",
-  "name_cn": "未命名罕见病实体型-3498",
-  "name_en": "Rare Rare Disease Entity Type-3498",
+  "name_cn": "脑白质营养不良 234型",
+  "name_en": "Leukodystrophy Type 234",
   "aliases": [],
-  "icd_11": "LD20.98",
-  "orpha_code": "ORPHA13498",
-  "overview": "Rare Rare Disease Entity Type-3498 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13498)。",
+  "icd_11": "LD20.498",
+  "orpha_code": "ORPHA103498",
+  "overview": "脑白质营养不良 234型 (Leukodystrophy Type 234) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103498。",
   "pipelines": []
 }

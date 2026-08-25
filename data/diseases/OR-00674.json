@@ -1,10 +1,10 @@
 {
   "id": "OR-00674",
-  "name_cn": "未命名罕见病实体型-674",
-  "name_en": "Rare Rare Disease Entity Type-674",
+  "name_cn": "动脉性肺动脉高压 45型",
+  "name_en": "Pulmonary Arterial Hypertension Type 45",
   "aliases": [],
-  "icd_11": "LD20.74",
-  "orpha_code": "ORPHA10674",
-  "overview": "Rare Rare Disease Entity Type-674 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10674)。",
+  "icd_11": "LD20.674",
+  "orpha_code": "ORPHA100674",
+  "overview": "动脉性肺动脉高压 45型 (Pulmonary Arterial Hypertension Type 45) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100674。",
   "pipelines": []
 }

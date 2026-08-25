@@ -1,10 +1,10 @@
 {
   "id": "OR-02326",
-  "name_cn": "未命名罕见病实体型-2326",
-  "name_en": "Rare Rare Disease Entity Type-2326",
+  "name_cn": "脊髓性肌萎缩症 156型",
+  "name_en": "Spinal Muscular Atrophy Type 156",
   "aliases": [],
-  "icd_11": "LD20.26",
-  "orpha_code": "ORPHA12326",
-  "overview": "Rare Rare Disease Entity Type-2326 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12326)。",
+  "icd_11": "LD20.326",
+  "orpha_code": "ORPHA102326",
+  "overview": "脊髓性肌萎缩症 156型 (Spinal Muscular Atrophy Type 156) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102326。",
   "pipelines": []
 }

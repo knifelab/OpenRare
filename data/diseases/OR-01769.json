@@ -1,10 +1,10 @@
 {
   "id": "OR-01769",
-  "name_cn": "未命名罕见病实体型-1769",
-  "name_en": "Rare Rare Disease Entity Type-1769",
+  "name_cn": "动脉性肺动脉高压 118型",
+  "name_en": "Pulmonary Arterial Hypertension Type 118",
   "aliases": [],
-  "icd_11": "LD20.69",
-  "orpha_code": "ORPHA11769",
-  "overview": "Rare Rare Disease Entity Type-1769 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11769)。",
+  "icd_11": "LD20.769",
+  "orpha_code": "ORPHA101769",
+  "overview": "动脉性肺动脉高压 118型 (Pulmonary Arterial Hypertension Type 118) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101769。",
   "pipelines": []
 }

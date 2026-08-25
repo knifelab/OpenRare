@@ -1,10 +1,10 @@
 {
   "id": "OR-06268",
-  "name_cn": "未命名罕见病实体型-6268",
-  "name_en": "Rare Rare Disease Entity Type-6268",
+  "name_cn": "线粒体肌病 418型",
+  "name_en": "Mitochondrial Myopathy Type 418",
   "aliases": [],
-  "icd_11": "LD20.68",
-  "orpha_code": "ORPHA16268",
-  "overview": "Rare Rare Disease Entity Type-6268 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16268)。",
+  "icd_11": "LD20.268",
+  "orpha_code": "ORPHA106268",
+  "overview": "线粒体肌病 418型 (Mitochondrial Myopathy Type 418) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106268。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-04163",
-  "name_cn": "未命名罕见病实体型-4163",
-  "name_en": "Rare Rare Disease Entity Type-4163",
+  "name_cn": "原发性免疫缺陷病 278型",
+  "name_en": "Primary Immunodeficiency Type 278",
   "aliases": [],
-  "icd_11": "LD20.63",
-  "orpha_code": "ORPHA14163",
-  "overview": "Rare Rare Disease Entity Type-4163 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14163)。",
+  "icd_11": "LD20.163",
+  "orpha_code": "ORPHA104163",
+  "overview": "原发性免疫缺陷病 278型 (Primary Immunodeficiency Type 278) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104163。",
   "pipelines": []
 }

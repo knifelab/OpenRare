@@ -1,10 +1,10 @@
 {
   "id": "OR-06315",
-  "name_cn": "未命名罕见病实体型-6315",
-  "name_en": "Rare Rare Disease Entity Type-6315",
+  "name_cn": "肌营养不良症 422型",
+  "name_en": "Muscular Dystrophy Type 422",
   "aliases": [],
-  "icd_11": "LD20.15",
-  "orpha_code": "ORPHA16315",
-  "overview": "Rare Rare Disease Entity Type-6315 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16315)。",
+  "icd_11": "LD20.315",
+  "orpha_code": "ORPHA106315",
+  "overview": "肌营养不良症 422型 (Muscular Dystrophy Type 422) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106315。",
   "pipelines": []
 }

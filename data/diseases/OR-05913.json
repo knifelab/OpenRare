@@ -1,10 +1,10 @@
 {
   "id": "OR-05913",
-  "name_cn": "未命名罕见病实体型-5913",
-  "name_en": "Rare Rare Disease Entity Type-5913",
+  "name_cn": "脑白质营养不良 395型",
+  "name_en": "Leukodystrophy Type 395",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA15913",
-  "overview": "Rare Rare Disease Entity Type-5913 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15913)。",
+  "icd_11": "LD20.913",
+  "orpha_code": "ORPHA105913",
+  "overview": "脑白质营养不良 395型 (Leukodystrophy Type 395) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105913。",
   "pipelines": []
 }

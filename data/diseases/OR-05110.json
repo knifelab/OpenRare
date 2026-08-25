@@ -1,10 +1,10 @@
 {
   "id": "OR-05110",
-  "name_cn": "未命名罕见病实体型-5110",
-  "name_en": "Rare Rare Disease Entity Type-5110",
+  "name_cn": "周期性瘫痪 341型",
+  "name_en": "Periodic Paralysis Type 341",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA15110",
-  "overview": "Rare Rare Disease Entity Type-5110 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15110)。",
+  "icd_11": "LD20.110",
+  "orpha_code": "ORPHA105110",
+  "overview": "周期性瘫痪 341型 (Periodic Paralysis Type 341) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105110。",
   "pipelines": []
 }

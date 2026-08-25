@@ -1,10 +1,10 @@
 {
   "id": "OR-02268",
-  "name_cn": "未命名罕见病实体型-2268",
-  "name_en": "Rare Rare Disease Entity Type-2268",
+  "name_cn": "脑白质营养不良 152型",
+  "name_en": "Leukodystrophy Type 152",
   "aliases": [],
-  "icd_11": "LD20.68",
-  "orpha_code": "ORPHA12268",
-  "overview": "Rare Rare Disease Entity Type-2268 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12268)。",
+  "icd_11": "LD20.268",
+  "orpha_code": "ORPHA102268",
+  "overview": "脑白质营养不良 152型 (Leukodystrophy Type 152) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102268。",
   "pipelines": []
 }

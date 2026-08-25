@@ -1,10 +1,10 @@
 {
   "id": "OR-05580",
-  "name_cn": "未命名罕见病实体型-5580",
-  "name_en": "Rare Rare Disease Entity Type-5580",
+  "name_cn": "肌营养不良症 373型",
+  "name_en": "Muscular Dystrophy Type 373",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA15580",
-  "overview": "Rare Rare Disease Entity Type-5580 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15580)。",
+  "icd_11": "LD20.580",
+  "orpha_code": "ORPHA105580",
+  "overview": "肌营养不良症 373型 (Muscular Dystrophy Type 373) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105580。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-03120",
-  "name_cn": "未命名罕见病实体型-3120",
-  "name_en": "Rare Rare Disease Entity Type-3120",
+  "name_cn": "肌营养不良症 209型",
+  "name_en": "Muscular Dystrophy Type 209",
   "aliases": [],
-  "icd_11": "LD20.20",
-  "orpha_code": "ORPHA13120",
-  "overview": "Rare Rare Disease Entity Type-3120 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13120)。",
+  "icd_11": "LD20.120",
+  "orpha_code": "ORPHA103120",
+  "overview": "肌营养不良症 209型 (Muscular Dystrophy Type 209) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103120。",
   "pipelines": []
 }

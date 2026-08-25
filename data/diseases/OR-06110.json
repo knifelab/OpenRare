@@ -1,10 +1,10 @@
 {
   "id": "OR-06110",
-  "name_cn": "未命名罕见病实体型-6110",
-  "name_en": "Rare Rare Disease Entity Type-6110",
+  "name_cn": "共济失调症 408型",
+  "name_en": "Ataxia Type 408",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA16110",
-  "overview": "Rare Rare Disease Entity Type-6110 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16110)。",
+  "icd_11": "LD20.110",
+  "orpha_code": "ORPHA106110",
+  "overview": "共济失调症 408型 (Ataxia Type 408) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106110。",
   "pipelines": []
 }

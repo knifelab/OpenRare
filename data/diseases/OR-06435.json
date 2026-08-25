@@ -1,10 +1,10 @@
 {
   "id": "OR-06435",
-  "name_cn": "未命名罕见病实体型-6435",
-  "name_en": "Rare Rare Disease Entity Type-6435",
+  "name_cn": "肌营养不良症 430型",
+  "name_en": "Muscular Dystrophy Type 430",
   "aliases": [],
-  "icd_11": "LD20.35",
-  "orpha_code": "ORPHA16435",
-  "overview": "Rare Rare Disease Entity Type-6435 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16435)。",
+  "icd_11": "LD20.435",
+  "orpha_code": "ORPHA106435",
+  "overview": "肌营养不良症 430型 (Muscular Dystrophy Type 430) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106435。",
   "pipelines": []
 }

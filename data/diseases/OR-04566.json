@@ -1,10 +1,10 @@
 {
   "id": "OR-04566",
-  "name_cn": "未命名罕见病实体型-4566",
-  "name_en": "Rare Rare Disease Entity Type-4566",
+  "name_cn": "脑病 305型",
+  "name_en": "Encephalopathy Type 305",
   "aliases": [],
-  "icd_11": "LD20.66",
-  "orpha_code": "ORPHA14566",
-  "overview": "Rare Rare Disease Entity Type-4566 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14566)。",
+  "icd_11": "LD20.566",
+  "orpha_code": "ORPHA104566",
+  "overview": "脑病 305型 (Encephalopathy Type 305) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104566。",
   "pipelines": []
 }

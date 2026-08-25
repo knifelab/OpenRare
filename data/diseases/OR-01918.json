@@ -1,10 +1,10 @@
 {
   "id": "OR-01918",
-  "name_cn": "未命名罕见病实体型-1918",
-  "name_en": "Rare Rare Disease Entity Type-1918",
+  "name_cn": "线粒体肌病 128型",
+  "name_en": "Mitochondrial Myopathy Type 128",
   "aliases": [],
-  "icd_11": "LD20.18",
-  "orpha_code": "ORPHA11918",
-  "overview": "Rare Rare Disease Entity Type-1918 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11918)。",
+  "icd_11": "LD20.918",
+  "orpha_code": "ORPHA101918",
+  "overview": "线粒体肌病 128型 (Mitochondrial Myopathy Type 128) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101918。",
   "pipelines": []
 }

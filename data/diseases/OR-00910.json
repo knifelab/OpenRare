@@ -1,10 +1,10 @@
 {
   "id": "OR-00910",
-  "name_cn": "未命名罕见病实体型-910",
-  "name_en": "Rare Rare Disease Entity Type-910",
+  "name_cn": "周期性瘫痪 61型",
+  "name_en": "Periodic Paralysis Type 61",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA10910",
-  "overview": "Rare Rare Disease Entity Type-910 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10910)。",
+  "icd_11": "LD20.910",
+  "orpha_code": "ORPHA100910",
+  "overview": "周期性瘫痪 61型 (Periodic Paralysis Type 61) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100910。",
   "pipelines": []
 }

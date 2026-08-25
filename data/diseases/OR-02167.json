@@ -1,10 +1,10 @@
 {
   "id": "OR-02167",
-  "name_cn": "未命名罕见病实体型-2167",
-  "name_en": "Rare Rare Disease Entity Type-2167",
+  "name_cn": "先天性糖基化异常 145型",
+  "name_en": "Congenital Disorder of Glycosylation Type 145",
   "aliases": [],
-  "icd_11": "LD20.67",
-  "orpha_code": "ORPHA12167",
-  "overview": "Rare Rare Disease Entity Type-2167 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12167)。",
+  "icd_11": "LD20.167",
+  "orpha_code": "ORPHA102167",
+  "overview": "先天性糖基化异常 145型 (Congenital Disorder of Glycosylation Type 145) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102167。",
   "pipelines": []
 }

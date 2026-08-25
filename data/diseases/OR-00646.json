@@ -1,10 +1,10 @@
 {
   "id": "OR-00646",
-  "name_cn": "未命名罕见病实体型-646",
-  "name_en": "Rare Rare Disease Entity Type-646",
+  "name_cn": "脊髓性肌萎缩症 44型",
+  "name_en": "Spinal Muscular Atrophy Type 44",
   "aliases": [],
-  "icd_11": "LD20.46",
-  "orpha_code": "ORPHA10646",
-  "overview": "Rare Rare Disease Entity Type-646 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10646)。",
+  "icd_11": "LD20.646",
+  "orpha_code": "ORPHA100646",
+  "overview": "脊髓性肌萎缩症 44型 (Spinal Muscular Atrophy Type 44) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100646。",
   "pipelines": []
 }

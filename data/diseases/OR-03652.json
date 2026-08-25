@@ -1,10 +1,10 @@
 {
   "id": "OR-03652",
-  "name_cn": "未命名罕见病实体型-3652",
-  "name_en": "Rare Rare Disease Entity Type-3652",
+  "name_cn": "先天性糖基化异常 244型",
+  "name_en": "Congenital Disorder of Glycosylation Type 244",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA13652",
-  "overview": "Rare Rare Disease Entity Type-3652 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13652)。",
+  "icd_11": "LD20.652",
+  "orpha_code": "ORPHA103652",
+  "overview": "先天性糖基化异常 244型 (Congenital Disorder of Glycosylation Type 244) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103652。",
   "pipelines": []
 }

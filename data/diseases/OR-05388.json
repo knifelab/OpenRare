@@ -1,10 +1,10 @@
 {
   "id": "OR-05388",
-  "name_cn": "未命名罕见病实体型-5388",
-  "name_en": "Rare Rare Disease Entity Type-5388",
+  "name_cn": "脑白质营养不良 360型",
+  "name_en": "Leukodystrophy Type 360",
   "aliases": [],
-  "icd_11": "LD20.88",
-  "orpha_code": "ORPHA15388",
-  "overview": "Rare Rare Disease Entity Type-5388 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15388)。",
+  "icd_11": "LD20.388",
+  "orpha_code": "ORPHA105388",
+  "overview": "脑白质营养不良 360型 (Leukodystrophy Type 360) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105388。",
   "pipelines": []
 }

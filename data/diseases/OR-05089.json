@@ -1,10 +1,10 @@
 {
   "id": "OR-05089",
-  "name_cn": "未命名罕见病实体型-5089",
-  "name_en": "Rare Rare Disease Entity Type-5089",
+  "name_cn": "视网膜营养不良 340型",
+  "name_en": "Retinal Dystrophy Type 340",
   "aliases": [],
-  "icd_11": "LD20.89",
-  "orpha_code": "ORPHA15089",
-  "overview": "Rare Rare Disease Entity Type-5089 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15089)。",
+  "icd_11": "LD20.089",
+  "orpha_code": "ORPHA105089",
+  "overview": "视网膜营养不良 340型 (Retinal Dystrophy Type 340) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105089。",
   "pipelines": []
 }

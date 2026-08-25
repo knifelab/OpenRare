@@ -1,10 +1,10 @@
 {
   "id": "OR-06047",
-  "name_cn": "未命名罕见病实体型-6047",
-  "name_en": "Rare Rare Disease Entity Type-6047",
+  "name_cn": "溶酶体贮积症 404型",
+  "name_en": "Lysosomal Storage Disorder Type 404",
   "aliases": [],
-  "icd_11": "LD20.47",
-  "orpha_code": "ORPHA16047",
-  "overview": "Rare Rare Disease Entity Type-6047 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16047)。",
+  "icd_11": "LD20.047",
+  "orpha_code": "ORPHA106047",
+  "overview": "溶酶体贮积症 404型 (Lysosomal Storage Disorder Type 404) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106047。",
   "pipelines": []
 }

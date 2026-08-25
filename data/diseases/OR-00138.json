@@ -1,10 +1,10 @@
 {
   "id": "OR-00138",
-  "name_cn": "未命名罕见病实体型-138",
-  "name_en": "Rare Rare Disease Entity Type-138",
+  "name_cn": "脑白质营养不良 10型",
+  "name_en": "Leukodystrophy Type 10",
   "aliases": [],
-  "icd_11": "LD20.38",
-  "orpha_code": "ORPHA10138",
-  "overview": "Rare Rare Disease Entity Type-138 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10138)。",
+  "icd_11": "LD20.138",
+  "orpha_code": "ORPHA100138",
+  "overview": "脑白质营养不良 10型 (Leukodystrophy Type 10) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100138。",
   "pipelines": []
 }

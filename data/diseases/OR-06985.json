@@ -1,10 +1,10 @@
 {
   "id": "OR-06985",
-  "name_cn": "未命名罕见病实体型-6985",
-  "name_en": "Rare Rare Disease Entity Type-6985",
+  "name_cn": "周期性瘫痪 466型",
+  "name_en": "Periodic Paralysis Type 466",
   "aliases": [],
-  "icd_11": "LD20.85",
-  "orpha_code": "ORPHA16985",
-  "overview": "Rare Rare Disease Entity Type-6985 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16985)。",
+  "icd_11": "LD20.985",
+  "orpha_code": "ORPHA106985",
+  "overview": "周期性瘫痪 466型 (Periodic Paralysis Type 466) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106985。",
   "pipelines": []
 }

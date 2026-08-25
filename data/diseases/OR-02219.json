@@ -1,10 +1,10 @@
 {
   "id": "OR-02219",
-  "name_cn": "未命名罕见病实体型-2219",
-  "name_en": "Rare Rare Disease Entity Type-2219",
+  "name_cn": "动脉性肺动脉高压 148型",
+  "name_en": "Pulmonary Arterial Hypertension Type 148",
   "aliases": [],
-  "icd_11": "LD20.19",
-  "orpha_code": "ORPHA12219",
-  "overview": "Rare Rare Disease Entity Type-2219 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12219)。",
+  "icd_11": "LD20.219",
+  "orpha_code": "ORPHA102219",
+  "overview": "动脉性肺动脉高压 148型 (Pulmonary Arterial Hypertension Type 148) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102219。",
   "pipelines": []
 }

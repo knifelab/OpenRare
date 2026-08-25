@@ -1,10 +1,10 @@
 {
   "id": "OR-05884",
-  "name_cn": "未命名罕见病实体型-5884",
-  "name_en": "Rare Rare Disease Entity Type-5884",
+  "name_cn": "视网膜营养不良 393型",
+  "name_en": "Retinal Dystrophy Type 393",
   "aliases": [],
-  "icd_11": "LD20.84",
-  "orpha_code": "ORPHA15884",
-  "overview": "Rare Rare Disease Entity Type-5884 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15884)。",
+  "icd_11": "LD20.884",
+  "orpha_code": "ORPHA105884",
+  "overview": "视网膜营养不良 393型 (Retinal Dystrophy Type 393) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105884。",
   "pipelines": []
 }

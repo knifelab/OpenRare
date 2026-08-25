@@ -1,10 +1,10 @@
 {
   "id": "OR-05808",
-  "name_cn": "未命名罕见病实体型-5808",
-  "name_en": "Rare Rare Disease Entity Type-5808",
+  "name_cn": "脑白质营养不良 388型",
+  "name_en": "Leukodystrophy Type 388",
   "aliases": [],
-  "icd_11": "LD20.8",
-  "orpha_code": "ORPHA15808",
-  "overview": "Rare Rare Disease Entity Type-5808 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15808)。",
+  "icd_11": "LD20.808",
+  "orpha_code": "ORPHA105808",
+  "overview": "脑白质营养不良 388型 (Leukodystrophy Type 388) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105808。",
   "pipelines": []
 }

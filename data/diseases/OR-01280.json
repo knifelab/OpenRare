@@ -1,10 +1,10 @@
 {
   "id": "OR-01280",
-  "name_cn": "未命名罕见病实体型-1280",
-  "name_en": "Rare Rare Disease Entity Type-1280",
+  "name_cn": "共济失调症 86型",
+  "name_en": "Ataxia Type 86",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA11280",
-  "overview": "Rare Rare Disease Entity Type-1280 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11280)。",
+  "icd_11": "LD20.280",
+  "orpha_code": "ORPHA101280",
+  "overview": "共济失调症 86型 (Ataxia Type 86) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101280。",
   "pipelines": []
 }

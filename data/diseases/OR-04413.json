@@ -1,10 +1,10 @@
 {
   "id": "OR-04413",
-  "name_cn": "未命名罕见病实体型-4413",
-  "name_en": "Rare Rare Disease Entity Type-4413",
+  "name_cn": "脑白质营养不良 295型",
+  "name_en": "Leukodystrophy Type 295",
   "aliases": [],
-  "icd_11": "LD20.13",
-  "orpha_code": "ORPHA14413",
-  "overview": "Rare Rare Disease Entity Type-4413 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14413)。",
+  "icd_11": "LD20.413",
+  "orpha_code": "ORPHA104413",
+  "overview": "脑白质营养不良 295型 (Leukodystrophy Type 295) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104413。",
   "pipelines": []
 }

@@ -1,10 +1,10 @@
 {
   "id": "OR-05785",
-  "name_cn": "未命名罕见病实体型-5785",
-  "name_en": "Rare Rare Disease Entity Type-5785",
+  "name_cn": "周期性瘫痪 386型",
+  "name_en": "Periodic Paralysis Type 386",
   "aliases": [],
-  "icd_11": "LD20.85",
-  "orpha_code": "ORPHA15785",
-  "overview": "Rare Rare Disease Entity Type-5785 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15785)。",
+  "icd_11": "LD20.785",
+  "orpha_code": "ORPHA105785",
+  "overview": "周期性瘫痪 386型 (Periodic Paralysis Type 386) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105785。",
   "pipelines": []
 }

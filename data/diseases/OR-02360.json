@@ -1,10 +1,10 @@
 {
   "id": "OR-02360",
-  "name_cn": "未命名罕见病实体型-2360",
-  "name_en": "Rare Rare Disease Entity Type-2360",
+  "name_cn": "共济失调症 158型",
+  "name_en": "Ataxia Type 158",
   "aliases": [],
-  "icd_11": "LD20.60",
-  "orpha_code": "ORPHA12360",
-  "overview": "Rare Rare Disease Entity Type-2360 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12360)。",
+  "icd_11": "LD20.360",
+  "orpha_code": "ORPHA102360",
+  "overview": "共济失调症 158型 (Ataxia Type 158) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102360。",
   "pipelines": []
 }

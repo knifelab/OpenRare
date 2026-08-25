@@ -1,10 +1,10 @@
 {
   "id": "OR-06074",
-  "name_cn": "未命名罕见病实体型-6074",
-  "name_en": "Rare Rare Disease Entity Type-6074",
+  "name_cn": "动脉性肺动脉高压 405型",
+  "name_en": "Pulmonary Arterial Hypertension Type 405",
   "aliases": [],
-  "icd_11": "LD20.74",
-  "orpha_code": "ORPHA16074",
-  "overview": "Rare Rare Disease Entity Type-6074 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16074)。",
+  "icd_11": "LD20.074",
+  "orpha_code": "ORPHA106074",
+  "overview": "动脉性肺动脉高压 405型 (Pulmonary Arterial Hypertension Type 405) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106074。",
   "pipelines": []
 }

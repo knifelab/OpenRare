@@ -1,10 +1,10 @@
 {
   "id": "OR-01793",
-  "name_cn": "未命名罕见病实体型-1793",
-  "name_en": "Rare Rare Disease Entity Type-1793",
+  "name_cn": "原发性免疫缺陷病 120型",
+  "name_en": "Primary Immunodeficiency Type 120",
   "aliases": [],
-  "icd_11": "LD20.93",
-  "orpha_code": "ORPHA11793",
-  "overview": "Rare Rare Disease Entity Type-1793 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11793)。",
+  "icd_11": "LD20.793",
+  "orpha_code": "ORPHA101793",
+  "overview": "原发性免疫缺陷病 120型 (Primary Immunodeficiency Type 120) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101793。",
   "pipelines": []
 }

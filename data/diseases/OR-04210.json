@@ -1,10 +1,10 @@
 {
   "id": "OR-04210",
-  "name_cn": "未命名罕见病实体型-4210",
-  "name_en": "Rare Rare Disease Entity Type-4210",
+  "name_cn": "周期性瘫痪 281型",
+  "name_en": "Periodic Paralysis Type 281",
   "aliases": [],
-  "icd_11": "LD20.10",
-  "orpha_code": "ORPHA14210",
-  "overview": "Rare Rare Disease Entity Type-4210 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14210)。",
+  "icd_11": "LD20.210",
+  "orpha_code": "ORPHA104210",
+  "overview": "周期性瘫痪 281型 (Periodic Paralysis Type 281) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104210。",
   "pipelines": []
 }

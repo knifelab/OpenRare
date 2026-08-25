@@ -1,10 +1,10 @@
 {
   "id": "OR-06779",
-  "name_cn": "未命名罕见病实体型-6779",
-  "name_en": "Rare Rare Disease Entity Type-6779",
+  "name_cn": "动脉性肺动脉高压 452型",
+  "name_en": "Pulmonary Arterial Hypertension Type 452",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA16779",
-  "overview": "Rare Rare Disease Entity Type-6779 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16779)。",
+  "icd_11": "LD20.779",
+  "orpha_code": "ORPHA106779",
+  "overview": "动脉性肺动脉高压 452型 (Pulmonary Arterial Hypertension Type 452) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106779。",
   "pipelines": []
 }

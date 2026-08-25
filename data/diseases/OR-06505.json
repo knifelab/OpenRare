@@ -1,10 +1,10 @@
 {
   "id": "OR-06505",
-  "name_cn": "未命名罕见病实体型-6505",
-  "name_en": "Rare Rare Disease Entity Type-6505",
+  "name_cn": "周期性瘫痪 434型",
+  "name_en": "Periodic Paralysis Type 434",
   "aliases": [],
-  "icd_11": "LD20.5",
-  "orpha_code": "ORPHA16505",
-  "overview": "Rare Rare Disease Entity Type-6505 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16505)。",
+  "icd_11": "LD20.505",
+  "orpha_code": "ORPHA106505",
+  "overview": "周期性瘫痪 434型 (Periodic Paralysis Type 434) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106505。",
   "pipelines": []
 }

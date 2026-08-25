@@ -1,10 +1,10 @@
 {
   "id": "OR-03941",
-  "name_cn": "未命名罕见病实体型-3941",
-  "name_en": "Rare Rare Disease Entity Type-3941",
+  "name_cn": "淀粉样变性 263型",
+  "name_en": "Amyloidosis Type 263",
   "aliases": [],
-  "icd_11": "LD20.41",
-  "orpha_code": "ORPHA13941",
-  "overview": "Rare Rare Disease Entity Type-3941 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13941)。",
+  "icd_11": "LD20.941",
+  "orpha_code": "ORPHA103941",
+  "overview": "淀粉样变性 263型 (Amyloidosis Type 263) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103941。",
   "pipelines": []
 }

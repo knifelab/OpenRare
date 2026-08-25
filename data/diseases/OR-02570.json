@@ -1,10 +1,10 @@
 {
   "id": "OR-02570",
-  "name_cn": "未命名罕见病实体型-2570",
-  "name_en": "Rare Rare Disease Entity Type-2570",
+  "name_cn": "共济失调症 172型",
+  "name_en": "Ataxia Type 172",
   "aliases": [],
-  "icd_11": "LD20.70",
-  "orpha_code": "ORPHA12570",
-  "overview": "Rare Rare Disease Entity Type-2570 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12570)。",
+  "icd_11": "LD20.570",
+  "orpha_code": "ORPHA102570",
+  "overview": "共济失调症 172型 (Ataxia Type 172) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102570。",
   "pipelines": []
 }

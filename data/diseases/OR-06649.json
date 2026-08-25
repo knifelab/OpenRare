@@ -1,10 +1,10 @@
 {
   "id": "OR-06649",
-  "name_cn": "未命名罕见病实体型-6649",
-  "name_en": "Rare Rare Disease Entity Type-6649",
+  "name_cn": "视网膜营养不良 444型",
+  "name_en": "Retinal Dystrophy Type 444",
   "aliases": [],
-  "icd_11": "LD20.49",
-  "orpha_code": "ORPHA16649",
-  "overview": "Rare Rare Disease Entity Type-6649 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16649)。",
+  "icd_11": "LD20.649",
+  "orpha_code": "ORPHA106649",
+  "overview": "视网膜营养不良 444型 (Retinal Dystrophy Type 444) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106649。",
   "pipelines": []
 }

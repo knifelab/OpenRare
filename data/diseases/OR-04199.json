@@ -1,10 +1,10 @@
 {
   "id": "OR-04199",
-  "name_cn": "未命名罕见病实体型-4199",
-  "name_en": "Rare Rare Disease Entity Type-4199",
+  "name_cn": "动脉性肺动脉高压 280型",
+  "name_en": "Pulmonary Arterial Hypertension Type 280",
   "aliases": [],
-  "icd_11": "LD20.99",
-  "orpha_code": "ORPHA14199",
-  "overview": "Rare Rare Disease Entity Type-4199 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14199)。",
+  "icd_11": "LD20.199",
+  "orpha_code": "ORPHA104199",
+  "overview": "动脉性肺动脉高压 280型 (Pulmonary Arterial Hypertension Type 280) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104199。",
   "pipelines": []
 }

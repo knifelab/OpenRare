@@ -1,10 +1,10 @@
 {
   "id": "OR-00980",
-  "name_cn": "未命名罕见病实体型-980",
-  "name_en": "Rare Rare Disease Entity Type-980",
+  "name_cn": "共济失调症 66型",
+  "name_en": "Ataxia Type 66",
   "aliases": [],
-  "icd_11": "LD20.80",
-  "orpha_code": "ORPHA10980",
-  "overview": "Rare Rare Disease Entity Type-980 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10980)。",
+  "icd_11": "LD20.980",
+  "orpha_code": "ORPHA100980",
+  "overview": "共济失调症 66型 (Ataxia Type 66) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100980。",
   "pipelines": []
 }

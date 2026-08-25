@@ -1,10 +1,10 @@
 {
   "id": "OR-05214",
-  "name_cn": "未命名罕见病实体型-5214",
-  "name_en": "Rare Rare Disease Entity Type-5214",
+  "name_cn": "外胚层发育不良 348型",
+  "name_en": "Ectodermal Dysplasia Type 348",
   "aliases": [],
-  "icd_11": "LD20.14",
-  "orpha_code": "ORPHA15214",
-  "overview": "Rare Rare Disease Entity Type-5214 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15214)。",
+  "icd_11": "LD20.214",
+  "orpha_code": "ORPHA105214",
+  "overview": "外胚层发育不良 348型 (Ectodermal Dysplasia Type 348) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105214。",
   "pipelines": []
 }

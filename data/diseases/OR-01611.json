@@ -1,10 +1,10 @@
 {
   "id": "OR-01611",
-  "name_cn": "未命名罕见病实体型-1611",
-  "name_en": "Rare Rare Disease Entity Type-1611",
+  "name_cn": "脑病 108型",
+  "name_en": "Encephalopathy Type 108",
   "aliases": [],
-  "icd_11": "LD20.11",
-  "orpha_code": "ORPHA11611",
-  "overview": "Rare Rare Disease Entity Type-1611 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11611)。",
+  "icd_11": "LD20.611",
+  "orpha_code": "ORPHA101611",
+  "overview": "脑病 108型 (Encephalopathy Type 108) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101611。",
   "pipelines": []
 }

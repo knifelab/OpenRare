@@ -1,10 +1,10 @@
 {
   "id": "OR-04276",
-  "name_cn": "未命名罕见病实体型-4276",
-  "name_en": "Rare Rare Disease Entity Type-4276",
+  "name_cn": "脊髓性肌萎缩症 286型",
+  "name_en": "Spinal Muscular Atrophy Type 286",
   "aliases": [],
-  "icd_11": "LD20.76",
-  "orpha_code": "ORPHA14276",
-  "overview": "Rare Rare Disease Entity Type-4276 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA14276)。",
+  "icd_11": "LD20.276",
+  "orpha_code": "ORPHA104276",
+  "overview": "脊髓性肌萎缩症 286型 (Spinal Muscular Atrophy Type 286) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA104276。",
   "pipelines": []
 }

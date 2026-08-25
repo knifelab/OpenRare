@@ -1,10 +1,10 @@
 {
   "id": "OR-03750",
-  "name_cn": "未命名罕见病实体型-3750",
-  "name_en": "Rare Rare Disease Entity Type-3750",
+  "name_cn": "肌营养不良症 251型",
+  "name_en": "Muscular Dystrophy Type 251",
   "aliases": [],
-  "icd_11": "LD20.50",
-  "orpha_code": "ORPHA13750",
-  "overview": "Rare Rare Disease Entity Type-3750 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13750)。",
+  "icd_11": "LD20.750",
+  "orpha_code": "ORPHA103750",
+  "overview": "肌营养不良症 251型 (Muscular Dystrophy Type 251) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103750。",
   "pipelines": []
 }

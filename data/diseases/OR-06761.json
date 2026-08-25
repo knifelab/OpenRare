@@ -1,10 +1,10 @@
 {
   "id": "OR-06761",
-  "name_cn": "未命名罕见病实体型-6761",
-  "name_en": "Rare Rare Disease Entity Type-6761",
+  "name_cn": "淀粉样变性 451型",
+  "name_en": "Amyloidosis Type 451",
   "aliases": [],
-  "icd_11": "LD20.61",
-  "orpha_code": "ORPHA16761",
-  "overview": "Rare Rare Disease Entity Type-6761 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16761)。",
+  "icd_11": "LD20.761",
+  "orpha_code": "ORPHA106761",
+  "overview": "淀粉样变性 451型 (Amyloidosis Type 451) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106761。",
   "pipelines": []
 }

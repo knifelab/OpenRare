@@ -1,10 +1,10 @@
 {
   "id": "OR-06955",
-  "name_cn": "未命名罕见病实体型-6955",
-  "name_en": "Rare Rare Disease Entity Type-6955",
+  "name_cn": "周期性瘫痪 464型",
+  "name_en": "Periodic Paralysis Type 464",
   "aliases": [],
-  "icd_11": "LD20.55",
-  "orpha_code": "ORPHA16955",
-  "overview": "Rare Rare Disease Entity Type-6955 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16955)。",
+  "icd_11": "LD20.955",
+  "orpha_code": "ORPHA106955",
+  "overview": "周期性瘫痪 464型 (Periodic Paralysis Type 464) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106955。",
   "pipelines": []
 }

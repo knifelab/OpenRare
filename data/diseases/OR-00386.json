@@ -1,10 +1,10 @@
 {
   "id": "OR-00386",
-  "name_cn": "未命名罕见病实体型-386",
-  "name_en": "Rare Rare Disease Entity Type-386",
+  "name_cn": "淀粉样变性 26型",
+  "name_en": "Amyloidosis Type 26",
   "aliases": [],
-  "icd_11": "LD20.86",
-  "orpha_code": "ORPHA10386",
-  "overview": "Rare Rare Disease Entity Type-386 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10386)。",
+  "icd_11": "LD20.386",
+  "orpha_code": "ORPHA100386",
+  "overview": "淀粉样变性 26型 (Amyloidosis Type 26) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100386。",
   "pipelines": []
 }

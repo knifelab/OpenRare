@@ -1,10 +1,10 @@
 {
   "id": "OR-00638",
-  "name_cn": "未命名罕见病实体型-638",
-  "name_en": "Rare Rare Disease Entity Type-638",
+  "name_cn": "原发性免疫缺陷病 43型",
+  "name_en": "Primary Immunodeficiency Type 43",
   "aliases": [],
-  "icd_11": "LD20.38",
-  "orpha_code": "ORPHA10638",
-  "overview": "Rare Rare Disease Entity Type-638 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA10638)。",
+  "icd_11": "LD20.638",
+  "orpha_code": "ORPHA100638",
+  "overview": "原发性免疫缺陷病 43型 (Primary Immunodeficiency Type 43) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA100638。",
   "pipelines": []
 }

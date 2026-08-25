@@ -1,10 +1,10 @@
 {
   "id": "OR-03152",
-  "name_cn": "未命名罕见病实体型-3152",
-  "name_en": "Rare Rare Disease Entity Type-3152",
+  "name_cn": "溶酶体贮积症 211型",
+  "name_en": "Lysosomal Storage Disorder Type 211",
   "aliases": [],
-  "icd_11": "LD20.52",
-  "orpha_code": "ORPHA13152",
-  "overview": "Rare Rare Disease Entity Type-3152 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13152)。",
+  "icd_11": "LD20.152",
+  "orpha_code": "ORPHA103152",
+  "overview": "溶酶体贮积症 211型 (Lysosomal Storage Disorder Type 211) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103152。",
   "pipelines": []
 }

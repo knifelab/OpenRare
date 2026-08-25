@@ -1,10 +1,10 @@
 {
   "id": "OR-06979",
-  "name_cn": "未命名罕见病实体型-6979",
-  "name_en": "Rare Rare Disease Entity Type-6979",
+  "name_cn": "视网膜营养不良 466型",
+  "name_en": "Retinal Dystrophy Type 466",
   "aliases": [],
-  "icd_11": "LD20.79",
-  "orpha_code": "ORPHA16979",
-  "overview": "Rare Rare Disease Entity Type-6979 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16979)。",
+  "icd_11": "LD20.979",
+  "orpha_code": "ORPHA106979",
+  "overview": "视网膜营养不良 466型 (Retinal Dystrophy Type 466) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106979。",
   "pipelines": []
 }

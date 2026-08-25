@@ -1,10 +1,10 @@
 {
   "id": "OR-03768",
-  "name_cn": "未命名罕见病实体型-3768",
-  "name_en": "Rare Rare Disease Entity Type-3768",
+  "name_cn": "脑白质营养不良 252型",
+  "name_en": "Leukodystrophy Type 252",
   "aliases": [],
-  "icd_11": "LD20.68",
-  "orpha_code": "ORPHA13768",
-  "overview": "Rare Rare Disease Entity Type-3768 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA13768)。",
+  "icd_11": "LD20.768",
+  "orpha_code": "ORPHA103768",
+  "overview": "脑白质营养不良 252型 (Leukodystrophy Type 252) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA103768。",
   "pipelines": []
 }

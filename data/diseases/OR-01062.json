@@ -1,10 +1,10 @@
 {
   "id": "OR-01062",
-  "name_cn": "未命名罕见病实体型-1062",
-  "name_en": "Rare Rare Disease Entity Type-1062",
+  "name_cn": "骨骼发育不良 71型",
+  "name_en": "Skeletal Dysplasia Type 71",
   "aliases": [],
-  "icd_11": "LD20.62",
-  "orpha_code": "ORPHA11062",
-  "overview": "Rare Rare Disease Entity Type-1062 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11062)。",
+  "icd_11": "LD20.062",
+  "orpha_code": "ORPHA101062",
+  "overview": "骨骼发育不良 71型 (Skeletal Dysplasia Type 71) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101062。",
   "pipelines": []
 }

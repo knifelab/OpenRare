@@ -1,10 +1,10 @@
 {
   "id": "OR-06318",
-  "name_cn": "未命名罕见病实体型-6318",
-  "name_en": "Rare Rare Disease Entity Type-6318",
+  "name_cn": "脑白质营养不良 422型",
+  "name_en": "Leukodystrophy Type 422",
   "aliases": [],
-  "icd_11": "LD20.18",
-  "orpha_code": "ORPHA16318",
-  "overview": "Rare Rare Disease Entity Type-6318 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA16318)。",
+  "icd_11": "LD20.318",
+  "orpha_code": "ORPHA106318",
+  "overview": "脑白质营养不良 422型 (Leukodystrophy Type 422) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA106318。",
   "pipelines": []
 }

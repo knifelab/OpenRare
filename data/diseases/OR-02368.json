@@ -1,10 +1,10 @@
 {
   "id": "OR-02368",
-  "name_cn": "未命名罕见病实体型-2368",
-  "name_en": "Rare Rare Disease Entity Type-2368",
+  "name_cn": "线粒体肌病 158型",
+  "name_en": "Mitochondrial Myopathy Type 158",
   "aliases": [],
-  "icd_11": "LD20.68",
-  "orpha_code": "ORPHA12368",
-  "overview": "Rare Rare Disease Entity Type-2368 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA12368)。",
+  "icd_11": "LD20.368",
+  "orpha_code": "ORPHA102368",
+  "overview": "线粒体肌病 158型 (Mitochondrial Myopathy Type 158) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA102368。",
   "pipelines": []
 }

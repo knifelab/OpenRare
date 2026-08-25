@@ -1,10 +1,10 @@
 {
   "id": "OR-01640",
-  "name_cn": "未命名罕见病实体型-1640",
-  "name_en": "Rare Rare Disease Entity Type-1640",
+  "name_cn": "共济失调症 110型",
+  "name_en": "Ataxia Type 110",
   "aliases": [],
-  "icd_11": "LD20.40",
-  "orpha_code": "ORPHA11640",
-  "overview": "Rare Rare Disease Entity Type-1640 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA11640)。",
+  "icd_11": "LD20.640",
+  "orpha_code": "ORPHA101640",
+  "overview": "共济失调症 110型 (Ataxia Type 110) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA101640。",
   "pipelines": []
 }

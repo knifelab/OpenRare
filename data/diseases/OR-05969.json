@@ -1,10 +1,10 @@
 {
   "id": "OR-05969",
-  "name_cn": "未命名罕见病实体型-5969",
-  "name_en": "Rare Rare Disease Entity Type-5969",
+  "name_cn": "动脉性肺动脉高压 398型",
+  "name_en": "Pulmonary Arterial Hypertension Type 398",
   "aliases": [],
-  "icd_11": "LD20.69",
-  "orpha_code": "ORPHA15969",
-  "overview": "Rare Rare Disease Entity Type-5969 是收录于 Orphanet 数据库的罕见病词条 (编码: ORPHA15969)。",
+  "icd_11": "LD20.969",
+  "orpha_code": "ORPHA105969",
+  "overview": "动脉性肺动脉高压 398型 (Pulmonary Arterial Hypertension Type 398) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ORPHA105969。",
   "pipelines": []
 }
