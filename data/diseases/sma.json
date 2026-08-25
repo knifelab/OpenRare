@@ -1,0 +1,27 @@
+{
+  "id": "OR-00002",
+  "name_cn": "脊髓性肌萎缩症",
+  "name_en": "Spinal Muscular Atrophy",
+  "aliases": ["SMA"],
+  "icd_11": "8B61",
+  "orpha_code": "ORPHA836",
+  "overview": "一种由于运动神经元存活基因1 (SMN1) 突变导致的常染色体隐性遗传性神经肌肉疾病。",
+  "pipelines": [
+    {
+      "drug_or_therapy": "Nusinersen (Spinraza)",
+      "target_or_mechanism": "SMN2 基因剪接改变反义寡核苷酸",
+      "phase": "Approved",
+      "status": "FDA & NMPA Approved",
+      "clinical_trials_id": "NCT02193074",
+      "last_updated": "2026-01-20"
+    },
+    {
+      "drug_or_therapy": "Risdiplam (Evrysdi)",
+      "target_or_mechanism": "SMN2 基因剪接修饰剂口服液",
+      "phase": "Approved",
+      "status": "FDA & NMPA Approved",
+      "clinical_trials_id": "NCT02913482",
+      "last_updated": "2026-02-01"
+    }
+  ]
+}

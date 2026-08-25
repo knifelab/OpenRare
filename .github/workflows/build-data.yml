@@ -1,0 +1,50 @@
+name: Aggregate Rare Disease Data
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/diseases/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Merge Disease JSONs
+        run: |
+          node -e "
+          const fs = require('fs');
+          const path = require('path');
+          const dir = './data/diseases';
+          if (!fs.existsSync(dir)) process.exit(0);
+          const files = fs.readdirSync(dir).filter(f => f.endsWith('.json'));
+          const result = [];
+          files.forEach(f => {
+            try {
+              const content = JSON.parse(fs.readFileSync(path.join(dir, f), 'utf-8'));
+              if (Array.isArray(content)) result.push(...content);
+              else result.push(content);
+            } catch (e) {
+              console.error('Error reading ' + f, e);
+            }
+          });
+          fs.writeFileSync('./data/all_diseases.json', JSON.stringify(result, null, 2));
+          console.log('Successfully merged ' + result.length + ' disease items.');
+          "
+
+      - name: Commit & Push Consolidated Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/all_diseases.json
+          git status
+          git diff-index --quiet HEAD || git commit -m "chore(data): auto-aggregate all disease json files"
+          git push
