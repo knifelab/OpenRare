@@ -3,217 +3,263 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ALS 数据查询终端</title>
+  <title>OpenRare - 罕见病研发进展开源平台</title>
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Vue 3 CDN -->
   <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   <!-- FontAwesome Icons CDN -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- Google Fonts: Inter & Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     [v-cloak] { display: none !important; }
-    /* Custom scrollbar for JSON modal */
-    pre::-webkit-scrollbar {
+    body { font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif; }
+    .glass-effect {
+      background: rgba(255, 255, 255, 0.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+    .custom-scrollbar::-webkit-scrollbar {
       width: 6px;
       height: 6px;
     }
-    pre::-webkit-scrollbar-thumb {
-      background: #4B5563;
-      border-radius: 3px;
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+      background: #CBD5E1;
+      border-radius: 9999px;
     }
   </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen font-sans antialiased">
+<body class="bg-slate-50 text-slate-800 min-h-screen antialiased flex flex-col selection:bg-teal-100 selection:text-teal-900">
 
   <div id="app" v-cloak class="min-h-screen flex flex-col">
-    <!-- Header Bar -->
-    <header class="bg-slate-800/80 backdrop-blur border-b border-slate-700 sticky top-0 z-30 px-6 py-4">
+    
+    <!-- Top Decorative Gradient -->
+    <div class="h-1.5 bg-gradient-to-r from-teal-500 via-sky-500 to-indigo-500"></div>
+
+    <!-- Header Navigation -->
+    <header class="glass-effect border-b border-slate-200/80 sticky top-0 z-30 px-6 py-4 transition-all">
       <div class="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-4">
-        <div class="flex items-center gap-3">
-          <div class="p-2.5 bg-indigo-600 rounded-xl text-white shadow-lg shadow-indigo-500/30">
-            <i class="fa-solid fa-database text-xl"></i>
+        
+        <!-- Brand Logo & Title -->
+        <div class="flex items-center gap-3.5">
+          <div class="w-11 h-11 bg-gradient-to-br from-teal-500 to-sky-600 rounded-xl flex items-center justify-center text-white shadow-md shadow-teal-500/20">
+            <i class="fa-solid fa-ribbon text-xl"></i>
           </div>
           <div>
-            <h1 class="text-xl font-bold tracking-wide text-white">ALS 数据查询中心</h1>
-            <p class="text-xs text-slate-400">基于 GitHub Pages 的轻量自动化检索界面</p>
+            <div class="flex items-center gap-2">
+              <h1 class="text-xl font-bold tracking-tight text-slate-900">OpenRare</h1>
+              <span class="px-2 py-0.5 text-[10px] font-semibold bg-teal-50 text-teal-700 border border-teal-200 rounded-full">开源公益</span>
+            </div>
+            <p class="text-xs text-slate-500">全球罕见病治疗进展与临床管线看板</p>
           </div>
         </div>
 
-        <!-- Global Search Bar -->
+        <!-- Global Search Input -->
         <div class="flex items-center gap-3 flex-1 max-w-xl">
           <div class="relative flex-1">
             <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400"></i>
             <input 
               type="text" 
               v-model="searchQuery" 
-              placeholder="全局快速检索 (支持搜索任意键/值)..." 
-              class="w-full pl-10 pr-4 py-2 bg-slate-900 border border-slate-700 rounded-lg text-sm text-slate-200 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 transition-all placeholder:text-slate-500"
+              placeholder="搜索疾病名称、药物、机制或 NCT 编号..." 
+              class="w-full pl-10 pr-10 py-2.5 bg-white border border-slate-200 rounded-xl text-sm text-slate-800 focus:outline-none focus:border-teal-500 focus:ring-4 focus:ring-teal-500/10 shadow-sm transition-all placeholder:text-slate-400"
             />
             <button 
               v-if="searchQuery" 
               @click="searchQuery = ''" 
-              class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-500 hover:text-slate-300">
-              <i class="fa-solid fa-xmark"></i>
+              class="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-600 p-1">
+              <i class="fa-solid fa-circle-xmark"></i>
             </button>
           </div>
           <button 
             @click="loadData" 
-            class="p-2 bg-slate-700 hover:bg-slate-600 rounded-lg text-slate-300 hover:text-white transition-colors"
+            class="p-2.5 bg-white hover:bg-slate-50 border border-slate-200 rounded-xl text-slate-600 hover:text-teal-600 shadow-sm transition-colors"
             title="刷新数据">
-            <i class="fa-solid fa-arrows-rotate" :class="{'animate-spin': loading}"></i>
+            <i class="fa-solid fa-arrows-rotate" :class="{'animate-spin text-teal-600': loading}"></i>
           </button>
         </div>
+
       </div>
     </header>
 
-    <!-- Main Content Area -->
-    <main class="flex-1 max-w-7xl w-full mx-auto p-6 flex flex-col gap-6">
+    <!-- Main Content -->
+    <main class="flex-1 max-w-7xl w-full mx-auto p-6 md:p-8 flex flex-col gap-6">
 
-      <!-- Status Bar & Stats -->
-      <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
-        <div class="bg-slate-800 border border-slate-700/60 rounded-xl p-4 flex items-center justify-between">
-          <div>
-            <p class="text-xs text-slate-400">总记录数</p>
-            <p class="text-2xl font-bold text-indigo-400 mt-1">{{ totalRecords }}</p>
+      <!-- Stats Metrics Bar -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 shadow-sm hover:shadow-md transition-shadow">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-semibold uppercase tracking-wider text-slate-400">数据库存量</span>
+            <div class="p-2 bg-slate-50 rounded-lg text-slate-500"><i class="fa-solid fa-database"></i></div>
           </div>
-          <i class="fa-solid fa-list-ol text-slate-600 text-2xl"></i>
+          <div class="mt-2 flex items-baseline gap-2">
+            <span class="text-3xl font-bold text-slate-900">{{ totalRecords }}</span>
+            <span class="text-xs text-slate-500">种疾病</span>
+          </div>
         </div>
 
-        <div class="bg-slate-800 border border-slate-700/60 rounded-xl p-4 flex items-center justify-between">
-          <div>
-            <p class="text-xs text-slate-400">筛选后条目</p>
-            <p class="text-2xl font-bold text-emerald-400 mt-1">{{ filteredList.length }}</p>
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 shadow-sm hover:shadow-md transition-shadow">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-semibold uppercase tracking-wider text-slate-400">当前筛选</span>
+            <div class="p-2 bg-teal-50 rounded-lg text-teal-600"><i class="fa-solid fa-filter"></i></div>
           </div>
-          <i class="fa-solid fa-filter text-slate-600 text-2xl"></i>
+          <div class="mt-2 flex items-baseline gap-2">
+            <span class="text-3xl font-bold text-teal-600">{{ filteredList.length }}</span>
+            <span class="text-xs text-slate-500">条匹配结果</span>
+          </div>
         </div>
 
-        <div class="bg-slate-800 border border-slate-700/60 rounded-xl p-4 flex items-center justify-between">
-          <div>
-            <p class="text-xs text-slate-400">数据源状态</p>
-            <p class="text-sm font-semibold mt-1" :class="loading ? 'text-amber-400' : error ? 'text-rose-400' : 'text-emerald-400'">
-              {{ loading ? '正在加载...' : error ? '加载失败' : 'ALS.JSON 已同步' }}
-            </p>
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-5 shadow-sm hover:shadow-md transition-shadow">
+          <div class="flex items-center justify-between">
+            <span class="text-xs font-semibold uppercase tracking-wider text-slate-400">数据源服务</span>
+            <div class="p-2 bg-sky-50 rounded-lg text-sky-600"><i class="fa-solid fa-cloud"></i></div>
           </div>
-          <i class="fa-solid" :class="loading ? 'fa-circle-notch animate-spin text-amber-400' : error ? 'fa-triangle-exclamation text-rose-400' : 'fa-circle-check text-emerald-400'"></i>
+          <div class="mt-2 flex items-center gap-2">
+            <span class="inline-block w-2.5 h-2.5 rounded-full" :class="loading ? 'bg-amber-400 animate-ping' : error ? 'bg-rose-500' : 'bg-emerald-500'"></span>
+            <span class="text-sm font-semibold text-slate-700">
+              {{ loading ? '加载中...' : error ? '同步中断' : '数据已就绪' }}
+            </span>
+          </div>
         </div>
 
-        <div class="bg-slate-800 border border-slate-700/60 rounded-xl p-3 flex items-center justify-around">
-          <!-- View Toggle -->
-          <div class="flex bg-slate-900 p-1 rounded-lg border border-slate-700">
-            <button 
-              @click="viewMode = 'grid'" 
-              :class="viewMode === 'grid' ? 'bg-indigo-600 text-white' : 'text-slate-400 hover:text-white'"
-              class="px-3 py-1.5 rounded text-xs font-medium transition-all">
-              <i class="fa-solid fa-grip-vertical mr-1"></i> 卡片
-            </button>
-            <button 
-              @click="viewMode = 'table'" 
-              :class="viewMode === 'table' ? 'bg-indigo-600 text-white' : 'text-slate-400 hover:text-white'"
-              class="px-3 py-1.5 rounded text-xs font-medium transition-all">
-              <i class="fa-solid fa-table-list mr-1"></i> 表格
-            </button>
+        <div class="bg-white border border-slate-200/80 rounded-2xl p-4 shadow-sm flex flex-col justify-between">
+          <span class="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-1">视图模式</span>
+          <div class="flex items-center justify-between gap-2">
+            <div class="flex bg-slate-100 p-1 rounded-xl w-full border border-slate-200/60">
+              <button 
+                @click="viewMode = 'grid'" 
+                :class="viewMode === 'grid' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500 hover:text-slate-800'"
+                class="flex-1 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center justify-center gap-1.5">
+                <i class="fa-solid fa-border-all"></i> 卡片
+              </button>
+              <button 
+                @click="viewMode = 'table'" 
+                :class="viewMode === 'table' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500 hover:text-slate-800'"
+                class="flex-1 py-1.5 rounded-lg text-xs font-semibold transition-all flex items-center justify-center gap-1.5">
+                <i class="fa-solid fa-list"></i> 表格
+              </button>
+            </div>
           </div>
-
-          <!-- Export Filtered JSON -->
-          <button 
-            @click="exportFilteredJSON" 
-            class="px-3 py-2 bg-slate-700 hover:bg-slate-600 text-xs text-slate-200 rounded-lg border border-slate-600 flex items-center gap-1.5 transition-colors">
-            <i class="fa-solid fa-download"></i> 导出结果
-          </button>
         </div>
+
       </div>
 
-      <!-- Error Message -->
-      <div v-if="error" class="p-4 bg-rose-950/60 border border-rose-800 rounded-xl text-rose-300 flex items-start gap-3">
-        <i class="fa-solid fa-triangle-exclamation text-xl mt-0.5"></i>
-        <div>
-          <h3 class="font-semibold text-rose-200">未成功读取 als.json</h3>
-          <p class="text-xs mt-1 text-rose-300/80">{{ error }}</p>
-          <div class="mt-3 flex gap-2">
-            <button @click="loadData" class="px-3 py-1 bg-rose-800 hover:bg-rose-700 text-white text-xs rounded transition-colors">
+      <!-- Error Alert -->
+      <div v-if="error" class="p-5 bg-rose-50 border border-rose-200 rounded-2xl text-rose-800 flex items-start gap-4 shadow-sm">
+        <i class="fa-solid fa-circle-exclamation text-rose-500 text-xl mt-0.5"></i>
+        <div class="flex-1">
+          <h3 class="font-semibold text-rose-900 text-sm">读取 `als.json` 遇到阻碍</h3>
+          <p class="text-xs text-rose-700/90 mt-1">{{ error }}</p>
+          <div class="mt-3 flex items-center gap-3">
+            <button @click="loadData" class="px-3.5 py-1.5 bg-rose-600 hover:bg-rose-700 text-white text-xs font-medium rounded-lg shadow-sm transition-colors">
               重试加载
             </button>
-            <label class="px-3 py-1 bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs rounded border border-slate-600 cursor-pointer">
-              手动选择本地 JSON 文件
+            <label class="px-3.5 py-1.5 bg-white hover:bg-rose-100/50 text-rose-700 border border-rose-300 text-xs font-medium rounded-lg cursor-pointer transition-colors">
+              导入本地 JSON
               <input type="file" accept=".json" @change="handleFileUpload" class="hidden" />
             </label>
           </div>
         </div>
       </div>
 
-      <!-- Data Presentation -->
-      <div class="flex-1 flex flex-col">
-
+      <!-- Main Display Cards -->
+      <div v-if="!loading && pagedList.length > 0">
+        
         <!-- Grid View -->
-        <div v-if="viewMode === 'grid' && pagedList.length > 0" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div v-if="viewMode === 'grid'" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <div 
             v-for="(item, idx) in pagedList" 
             :key="idx"
-            class="bg-slate-800 border border-slate-700/80 hover:border-indigo-500/50 rounded-xl p-5 flex flex-col justify-between transition-all hover:shadow-xl hover:-translate-y-0.5 group">
+            class="bg-white border border-slate-200/90 hover:border-teal-400/80 rounded-2xl p-6 shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-200 flex flex-col justify-between group">
             
             <div>
-              <div class="flex items-start justify-between gap-2 mb-3">
-                <span class="text-xs font-mono px-2 py-0.5 bg-indigo-950 text-indigo-300 border border-indigo-800 rounded">
-                  #{{ (currentPage - 1) * pageSize + idx + 1 }}
+              <!-- Card Header -->
+              <div class="flex items-start justify-between gap-3 pb-4 mb-4 border-b border-slate-100">
+                <div>
+                  <h2 class="text-lg font-bold text-slate-900 group-hover:text-teal-700 transition-colors">
+                    {{ item.name_cn || item.name || '未命名疾病' }}
+                  </h2>
+                  <p class="text-xs text-slate-400 font-medium mt-0.5" v-if="item.name_en">
+                    {{ item.name_en }}
+                  </p>
+                </div>
+                <span class="px-2.5 py-1 bg-slate-100 text-slate-600 text-[11px] font-mono rounded-lg border border-slate-200">
+                  {{ item.id || ('#' + (idx + 1)) }}
                 </span>
-                <button 
-                  @click="openModal(item)" 
-                  class="text-xs text-slate-400 hover:text-indigo-400 flex items-center gap-1 transition-colors">
-                  <i class="fa-solid fa-code"></i> JSON 原文
-                </button>
               </div>
 
-              <!-- Key Fields Display -->
-              <div class="space-y-2">
-                <div v-for="(val, key) in getPreviewFields(item)" :key="key" class="text-sm">
-                  <span class="text-xs font-medium text-slate-400 uppercase tracking-wider block mb-0.5">{{ key }}</span>
-                  <div class="text-slate-200 font-normal break-words line-clamp-2">
-                    <span v-if="typeof val === 'object'">{{ JSON.stringify(val) }}</span>
-                    <span v-else>{{ val }}</span>
+              <!-- Overview Paragraph -->
+              <p v-if="item.overview" class="text-xs text-slate-600 leading-relaxed mb-4 line-clamp-3">
+                {{ item.overview }}
+              </p>
+
+              <!-- Pipelines Badge Count -->
+              <div v-if="item.pipelines && item.pipelines.length" class="space-y-2 mb-2">
+                <span class="text-[11px] font-semibold uppercase tracking-wider text-slate-400">研发管线 ({{ item.pipelines.length }})</span>
+                <div 
+                  v-for="(pipe, pIdx) in item.pipelines" 
+                  :key="pIdx"
+                  class="p-3 bg-slate-50 border border-slate-200/60 rounded-xl text-xs space-y-1">
+                  <div class="flex items-center justify-between">
+                    <span class="font-bold text-slate-800">{{ pipe.drug_or_therapy || '实验性疗法' }}</span>
+                    <span class="px-2 py-0.5 bg-teal-50 text-teal-700 border border-teal-200 rounded font-medium text-[10px]">
+                      {{ pipe.phase || 'N/A' }}
+                    </span>
                   </div>
+                  <p class="text-slate-500 text-[11px] truncate">{{ pipe.target_or_mechanism }}</p>
                 </div>
               </div>
             </div>
 
-            <div class="mt-4 pt-3 border-t border-slate-700/50 flex justify-end">
+            <div class="pt-4 border-t border-slate-100 flex items-center justify-between mt-4">
+              <div class="flex gap-1.5" v-if="item.aliases">
+                <span v-for="alias in item.aliases.slice(0, 2)" :key="alias" class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded">
+                  {{ alias }}
+                </span>
+              </div>
               <button 
                 @click="openModal(item)" 
-                class="w-full py-1.5 bg-slate-700/50 hover:bg-indigo-600 text-slate-300 hover:text-white rounded text-xs font-medium transition-colors">
-                查看详情
+                class="ml-auto px-3.5 py-1.5 bg-slate-100 hover:bg-teal-600 text-slate-700 hover:text-white rounded-lg text-xs font-semibold transition-all">
+                查看全部 <i class="fa-solid fa-arrow-right text-[10px] ml-1"></i>
               </button>
             </div>
+
           </div>
         </div>
 
-        <!-- Table View -->
-        <div v-if="viewMode === 'table' && pagedList.length > 0" class="bg-slate-800 border border-slate-700 rounded-xl overflow-hidden shadow-lg">
+        <!-- Table View Mode -->
+        <div v-if="viewMode === 'table'" class="bg-white border border-slate-200 rounded-2xl overflow-hidden shadow-sm">
           <div class="overflow-x-auto">
-            <table class="w-full text-left text-sm text-slate-300">
-              <thead class="bg-slate-900/80 text-xs font-semibold text-slate-400 uppercase tracking-wider border-b border-slate-700">
+            <table class="w-full text-left text-sm text-slate-700">
+              <thead class="bg-slate-50 text-xs font-bold text-slate-500 uppercase tracking-wider border-b border-slate-200">
                 <tr>
-                  <th class="p-3.5 w-16">序号</th>
-                  <th v-for="key in detectedKeys" :key="key" class="p-3.5 border-l border-slate-800">
+                  <th class="p-4 w-16">序号</th>
+                  <th v-for="key in detectedKeys" :key="key" class="p-4 border-l border-slate-200/60">
                     {{ key }}
                   </th>
-                  <th class="p-3.5 w-24 text-center">操作</th>
+                  <th class="p-4 w-28 text-center">操作</th>
                 </tr>
               </thead>
-              <tbody class="divide-y divide-slate-700/60">
-                <tr v-for="(item, idx) in pagedList" :key="idx" class="hover:bg-slate-700/30 transition-colors">
-                  <td class="p-3.5 font-mono text-xs text-slate-500">
+              <tbody class="divide-y divide-slate-100">
+                <tr v-for="(item, idx) in pagedList" :key="idx" class="hover:bg-slate-50/80 transition-colors">
+                  <td class="p-4 font-mono text-xs text-slate-400">
                     {{ (currentPage - 1) * pageSize + idx + 1 }}
                   </td>
-                  <td v-for="key in detectedKeys" :key="key" class="p-3.5 border-l border-slate-800/60 max-w-xs truncate">
-                    <span v-if="typeof item[key] === 'object'" class="font-mono text-xs text-slate-400">
+                  <td v-for="key in detectedKeys" :key="key" class="p-4 border-l border-slate-100 max-w-xs truncate text-xs">
+                    <span v-if="typeof item[key] === 'object'" class="font-mono text-slate-400">
                       {{ JSON.stringify(item[key]) }}
                     </span>
-                    <span v-else>{{ item[key] !== undefined ? item[key] : '-' }}</span>
+                    <span v-else class="font-medium text-slate-800">{{ item[key] !== undefined ? item[key] : '-' }}</span>
                   </td>
-                  <td class="p-3.5 text-center">
+                  <td class="p-4 text-center">
                     <button 
                       @click="openModal(item)" 
-                      class="px-2.5 py-1 bg-indigo-600/80 hover:bg-indigo-500 text-white rounded text-xs transition-colors">
-                      查看
+                      class="px-3 py-1 bg-teal-50 hover:bg-teal-600 text-teal-700 hover:text-white rounded-lg text-xs font-medium border border-teal-200/80 transition-all">
+                      详细
                     </button>
                   </td>
                 </tr>
@@ -222,87 +268,71 @@
           </div>
         </div>
 
-        <!-- Empty State -->
-        <div v-if="!loading && filteredList.length === 0" class="flex-1 bg-slate-800/40 border border-dashed border-slate-700 rounded-xl p-12 text-center flex flex-col items-center justify-center">
-          <i class="fa-solid fa-magnifying-glass-minus text-4xl text-slate-600 mb-3"></i>
-          <h3 class="text-base font-medium text-slate-300">未能查找到匹配数据</h3>
-          <p class="text-xs text-slate-500 mt-1">请尝试更改搜索关键字或清空搜索框</p>
-          <button @click="searchQuery = ''" class="mt-4 px-4 py-1.5 bg-slate-700 hover:bg-slate-600 text-xs text-slate-200 rounded-lg transition-colors">
-            重置查询条件
-          </button>
-        </div>
-
-        <!-- Pagination Bar -->
-        <div v-if="totalPages > 1" class="mt-6 flex flex-col sm:flex-row items-center justify-between gap-4 bg-slate-800 border border-slate-700/60 rounded-xl p-4">
-          <span class="text-xs text-slate-400">
-            显示第 <span class="text-slate-200 font-semibold">{{ (currentPage - 1) * pageSize + 1 }}</span> 至 
-            <span class="text-slate-200 font-semibold">{{ Math.min(currentPage * pageSize, filteredList.length) }}</span> 条，共 
-            <span class="text-indigo-400 font-semibold">{{ filteredList.length }}</span> 条
+        <!-- Pagination Controls -->
+        <div v-if="totalPages > 1" class="mt-8 flex flex-col sm:flex-row items-center justify-between gap-4 bg-white border border-slate-200 rounded-2xl p-4 shadow-sm">
+          <span class="text-xs text-slate-500">
+            第 <span class="font-bold text-slate-800">{{ (currentPage - 1) * pageSize + 1 }}</span> - 
+            <span class="font-bold text-slate-800">{{ Math.min(currentPage * pageSize, filteredList.length) }}</span> 条，共 
+            <span class="font-bold text-teal-600">{{ filteredList.length }}</span> 条
           </span>
 
           <div class="flex items-center gap-1.5">
             <button 
-              @click="currentPage = 1" 
-              :disabled="currentPage === 1"
-              class="px-2.5 py-1.5 bg-slate-700 hover:bg-slate-600 disabled:opacity-40 disabled:hover:bg-slate-700 text-xs rounded text-slate-300">
-              <i class="fa-solid fa-angles-left"></i>
-            </button>
-            <button 
               @click="currentPage--" 
               :disabled="currentPage === 1"
-              class="px-3 py-1.5 bg-slate-700 hover:bg-slate-600 disabled:opacity-40 disabled:hover:bg-slate-700 text-xs rounded text-slate-300">
+              class="px-3.5 py-1.5 bg-slate-100 hover:bg-slate-200 disabled:opacity-40 text-xs font-medium rounded-lg text-slate-700 transition-colors">
               上一页
             </button>
-            <span class="px-3 text-xs font-mono text-slate-300">
+            <span class="px-3 text-xs font-mono font-semibold text-slate-600">
               {{ currentPage }} / {{ totalPages }}
             </span>
             <button 
               @click="currentPage++" 
               :disabled="currentPage === totalPages"
-              class="px-3 py-1.5 bg-slate-700 hover:bg-slate-600 disabled:opacity-40 disabled:hover:bg-slate-700 text-xs rounded text-slate-300">
+              class="px-3.5 py-1.5 bg-slate-100 hover:bg-slate-200 disabled:opacity-40 text-xs font-medium rounded-lg text-slate-700 transition-colors">
               下一页
-            </button>
-            <button 
-              @click="currentPage = totalPages" 
-              :disabled="currentPage === totalPages"
-              class="px-2.5 py-1.5 bg-slate-700 hover:bg-slate-600 disabled:opacity-40 disabled:hover:bg-slate-700 text-xs rounded text-slate-300">
-              <i class="fa-solid fa-angles-right"></i>
             </button>
           </div>
         </div>
 
       </div>
+
+      <!-- Empty Result State -->
+      <div v-if="!loading && filteredList.length === 0" class="bg-white border border-slate-200 rounded-2xl p-12 text-center shadow-sm flex flex-col items-center">
+        <div class="w-16 h-16 bg-slate-100 rounded-full flex items-center justify-center text-slate-400 mb-4 text-2xl">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+        <h3 class="text-base font-bold text-slate-800">未找到相关数据信息</h3>
+        <p class="text-xs text-slate-500 mt-1 max-w-sm">请尝试搜索其他英文名称、中文字词或缩写关键词。</p>
+        <button @click="searchQuery = ''" class="mt-5 px-4 py-2 bg-teal-600 hover:bg-teal-700 text-white text-xs font-medium rounded-xl shadow-sm transition-colors">
+          重置查询
+        </button>
+      </div>
+
     </main>
 
-    <!-- Detail & Code Modal -->
-    <div v-if="selectedItem" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm">
-      <div class="bg-slate-800 border border-slate-700 rounded-2xl w-full max-w-3xl max-h-[85vh] flex flex-col shadow-2xl overflow-hidden animate-in fade-in zoom-in duration-150">
-        <!-- Modal Header -->
-        <div class="px-6 py-4 border-b border-slate-700 flex items-center justify-between bg-slate-800/80">
+    <!-- Detail Modal -->
+    <div v-if="selectedItem" class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/40 backdrop-blur-sm">
+      <div class="bg-white border border-slate-200 rounded-2xl w-full max-w-3xl max-h-[85vh] flex flex-col shadow-2xl overflow-hidden animate-in fade-in duration-200">
+        <div class="px-6 py-4 border-b border-slate-100 flex items-center justify-between bg-slate-50/50">
           <div class="flex items-center gap-2">
-            <i class="fa-solid fa-file-code text-indigo-400"></i>
-            <h3 class="font-semibold text-slate-100">JSON 详细数据对象</h3>
+            <i class="fa-solid fa-cube text-teal-600"></i>
+            <h3 class="font-bold text-slate-900 text-sm">疾病对象完整字段详情</h3>
           </div>
-          <button @click="selectedItem = null" class="text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-700 transition-colors">
+          <button @click="selectedItem = null" class="text-slate-400 hover:text-slate-600 p-1">
             <i class="fa-solid fa-xmark text-lg"></i>
           </button>
         </div>
 
-        <!-- Modal Body -->
-        <div class="p-6 overflow-y-auto flex-1 font-mono text-xs">
-          <pre class="bg-slate-900 border border-slate-800 p-4 rounded-xl text-emerald-400 overflow-x-auto leading-relaxed">{{ JSON.stringify(selectedItem, null, 2) }}</pre>
+        <div class="p-6 overflow-y-auto flex-1 custom-scrollbar">
+          <pre class="bg-slate-900 text-slate-100 p-5 rounded-xl text-xs font-mono leading-relaxed overflow-x-auto shadow-inner">{{ JSON.stringify(selectedItem, null, 2) }}</pre>
         </div>
 
-        <!-- Modal Footer -->
-        <div class="px-6 py-3 border-t border-slate-700 bg-slate-900/50 flex justify-end gap-2">
-          <button 
-            @click="copyJSON(selectedItem)" 
-            class="px-4 py-2 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-medium flex items-center gap-1.5 transition-colors">
-            <i class="fa-regular fa-copy"></i> 复制 JSON
+        <div class="px-6 py-3 border-t border-slate-100 bg-slate-50/50 flex justify-end gap-2">
+          <button @click="copyJSON(selectedItem)" class="px-4 py-2 bg-teal-600 hover:bg-teal-700 text-white rounded-xl text-xs font-semibold transition-colors">
+            复制 JSON 数据
           </button>
-          <button 
-            @click="selectedItem = null" 
-            class="px-4 py-2 bg-slate-700 hover:bg-slate-600 text-slate-200 rounded-lg text-xs transition-colors">
+          <button @click="selectedItem = null" class="px-4 py-2 bg-slate-200 hover:bg-slate-300 text-slate-700 rounded-xl text-xs font-semibold transition-colors">
             关闭
           </button>
         </div>
@@ -310,9 +340,10 @@
     </div>
 
     <!-- Footer -->
-    <footer class="border-t border-slate-800 py-4 text-center text-xs text-slate-500">
-      ALS Search Portal &bull; Generated for GitHub Pages
+    <footer class="border-t border-slate-200/80 bg-white py-6 mt-12 text-center text-xs text-slate-400">
+      OpenRare &bull; 罕见病开源进展开源平台
     </footer>
+
   </div>
 
   <script>
@@ -324,36 +355,33 @@
         const loading = ref(true);
         const error = ref(null);
         const searchQuery = ref('');
-        const viewMode = ref('grid'); // 'grid' | 'table'
+        const viewMode = ref('grid');
         const currentPage = ref(1);
-        const pageSize = ref(12);
+        const pageSize = ref(9);
         const selectedItem = ref(null);
 
-        // Auto load als.json from root directory
         const loadData = async () => {
           loading.value = true;
           error.value = null;
           try {
             const res = await fetch('./data/diseases/als.json');
-            if (!res.ok) throw new Error(`HTTP 错误 ${res.status}: 未能读取 als.json`);
+            if (!res.ok) throw new Error(`HTTP 错误 ${res.status}: 无法请求数据文件`);
             const data = await res.json();
             
-            // Format check: ensure array
             if (Array.isArray(data)) {
               rawData.value = data;
             } else if (typeof data === 'object') {
               rawData.value = [data];
             } else {
-              throw new Error("JSON 格式不是有效对象或数组");
+              throw new Error("JSON 格式无效");
             }
           } catch (err) {
-            error.value = err.message || "无法加载 als.json 数据文件";
+            error.value = err.message || "无法加载 als.json";
           } finally {
             loading.value = false;
           }
         };
 
-        // Handle file upload fallback
         const handleFileUpload = (e) => {
           const file = e.target.files[0];
           if (!file) return;
@@ -364,16 +392,14 @@
               rawData.value = Array.isArray(data) ? data : [data];
               error.value = null;
             } catch (err) {
-              alert("无效的 JSON 文件格式");
+              alert("无效的 JSON 文件");
             }
           };
           reader.readAsText(file);
         };
 
-        // Total Count
         const totalRecords = computed(() => rawData.value.length);
 
-        // Detect all keys dynamically for table headers
         const detectedKeys = computed(() => {
           if (!rawData.value.length) return [];
           const keysSet = new Set();
@@ -382,21 +408,15 @@
               Object.keys(item).forEach(k => keysSet.add(k));
             }
           });
-          return Array.from(keysSet).slice(0, 6); // Max 6 columns for table view
+          return Array.from(keysSet).slice(0, 5);
         });
 
-        // Search Filter
         const filteredList = computed(() => {
           if (!searchQuery.value.trim()) return rawData.value;
           const q = searchQuery.value.toLowerCase();
-          
-          return rawData.value.filter(item => {
-            const jsonString = JSON.stringify(item).toLowerCase();
-            return jsonString.includes(q);
-          });
+          return rawData.value.filter(item => JSON.stringify(item).toLowerCase().includes(q));
         });
 
-        // Pagination
         const totalPages = computed(() => Math.ceil(filteredList.value.length / pageSize.value) || 1);
 
         const pagedList = computed(() => {
@@ -404,54 +424,21 @@
           return filteredList.value.slice(start, start + pageSize.value);
         });
 
-        // Reset page on search change
-        watch(searchQuery, () => {
-          currentPage.value = 1;
-        });
+        watch(searchQuery, () => { currentPage.value = 1; });
 
-        // Extract clean key-value pairs for preview
-        const getPreviewFields = (item) => {
-          if (!item || typeof item !== 'object') return { Value: item };
-          const result = {};
-          const keys = Object.keys(item);
-          keys.slice(0, 4).forEach(k => {
-            result[k] = item[k];
-          });
-          return result;
-        };
-
-        const openModal = (item) => {
-          selectedItem.value = item;
-        };
+        const openModal = (item) => { selectedItem.value = item; };
 
         const copyJSON = (item) => {
           navigator.clipboard.writeText(JSON.stringify(item, null, 2));
-          alert("已成功复制 JSON 内容到剪贴板！");
+          alert("已成功复制 JSON 内容！");
         };
 
-        onMounted(() => {
-          loadData();
-        });
+        onMounted(() => { loadData(); });
 
         return {
-          rawData,
-          loading,
-          error,
-          searchQuery,
-          viewMode,
-          currentPage,
-          pageSize,
-          totalRecords,
-          detectedKeys,
-          filteredList,
-          totalPages,
-          pagedList,
-          selectedItem,
-          loadData,
-          handleFileUpload,
-          getPreviewFields,
-          openModal,
-          copyJSON
+          rawData, loading, error, searchQuery, viewMode, currentPage, pageSize,
+          totalRecords, detectedKeys, filteredList, totalPages, pagedList,
+          selectedItem, loadData, handleFileUpload, openModal, copyJSON
         };
       }
     }).mount('#app');
