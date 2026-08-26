@@ -86,7 +86,7 @@
             <div class="flex items-center space-x-3 flex-1 max-w-md mx-4 sm:mx-8">
                 <div class="relative w-full">
                     <input type="text" id="searchInput" oninput="handleSearch()" 
-                        placeholder="搜索罕见病名称、别名、ICD-11 或 ORPHA 编码..." 
+                        placeholder="搜索 7000+ 罕见病名称、别名、ICD-11 或 ORPHA..." 
                         class="w-full bg-slate-100 text-slate-800 pl-10 pr-4 py-2 rounded-xl text-sm border border-transparent focus:border-indigo-500 focus:bg-white focus:outline-none transition-all">
                     <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-2.5 text-slate-400 text-sm"></i>
                 </div>
@@ -95,7 +95,7 @@
             <div class="flex items-center space-x-2">
                 <button onclick="loadIndexData()" class="flex items-center space-x-1.5 px-3 py-2 text-sm text-slate-600 hover:text-indigo-600 hover:bg-slate-50 rounded-xl transition-all border border-slate-200">
                     <i class="fa-solid fa-rotate text-xs"></i>
-                    <span class="hidden md:inline">刷新</span>
+                    <span class="hidden md:inline">重新加载</span>
                 </button>
             </div>
         </div>
@@ -109,9 +109,9 @@
             <!-- Stat 1 -->
             <div class="bg-white p-5 rounded-2xl border border-slate-200/80 shadow-sm flex items-center justify-between">
                 <div>
-                    <p class="text-xs font-medium text-slate-500">已收录疾病</p>
+                    <p class="text-xs font-medium text-slate-500">已载入疾病</p>
                     <div class="flex items-baseline space-x-2 mt-1">
-                        <span id="statTotalDiseases" class="text-2xl font-bold text-slate-900">0</span>
+                        <span id="statTotalDiseases" class="text-2xl font-bold text-slate-900">加载中...</span>
                         <span class="text-xs text-slate-500">种罕见病</span>
                     </div>
                 </div>
@@ -151,10 +151,10 @@
             <!-- Stat 4 -->
             <div class="bg-white p-5 rounded-2xl border border-slate-200/80 shadow-sm flex items-center justify-between">
                 <div>
-                    <p class="text-xs font-medium text-slate-500">数据同步状态</p>
+                    <p class="text-xs font-medium text-slate-500">GitHub 数据库连接</p>
                     <div class="flex items-center space-x-2 mt-2">
-                        <span class="w-2.5 h-2.5 bg-emerald-500 rounded-full animate-pulse"></span>
-                        <span class="text-xs font-semibold text-slate-700">API 已实时同步</span>
+                        <span id="dbDot" class="w-2.5 h-2.5 bg-amber-500 rounded-full animate-pulse"></span>
+                        <span id="dbStatus" class="text-xs font-semibold text-amber-600">读取中...</span>
                     </div>
                 </div>
                 <div class="w-12 h-12 bg-amber-50 text-amber-600 rounded-xl flex items-center justify-center text-xl">
@@ -357,39 +357,76 @@
             });
         });
 
-        // Load Global Index Data (data/index.json)
+        // Load Global Index Data directly from GitHub (data/index.json)
         async function loadIndexData() {
+            const container = document.getElementById('dataContainer');
+            const dbStatus = document.getElementById('dbStatus');
+            const dbDot = document.getElementById('dbDot');
+
+            dbStatus.innerText = '正同步GitHub数据库...';
+            dbStatus.className = 'text-xs font-semibold text-amber-600';
+            dbDot.className = 'w-2.5 h-2.5 bg-amber-500 rounded-full animate-pulse';
+
+            container.innerHTML = `
+                <div class="bg-white rounded-2xl border border-slate-200/80 p-12 text-center">
+                    <i class="fa-solid fa-spinner fa-spin text-3xl text-indigo-600 mb-3"></i>
+                    <p class="text-slate-600 font-semibold text-sm">正在载入全量 7000+ 罕见病全局索引...</p>
+                </div>
+            `;
+
             try {
-                // Fetch from data/index.json
-                const response = await fetch('data/index.json');
-                if (!response.ok) throw new Error('Index file not found');
+                // 读取已上传至 GitHub 仓库的 data/index.json (增加防缓存参数)
+                const response = await fetch(`data/index.json?t=${Date.now()}`);
+                if (!response.ok) throw new Error(`HTTP ${response.status}: index.json Not Found`);
+
                 rawDiseasesData = await response.json();
-                
+
+                dbStatus.innerText = '7000+ 全量已连接';
+                dbStatus.className = 'text-xs font-semibold text-emerald-600';
+                dbDot.className = 'w-2.5 h-2.5 bg-emerald-500 rounded-full';
+
                 applyFilters();
                 renderCharts();
             } catch (error) {
-                console.warn('Unable to load data/index.json directly, using fallback dataset:', error);
-                // Fallback mock dataset if index.json is missing or running standalone
-                rawDiseasesData = generateFallbackData();
-                applyFilters();
-                renderCharts();
+                console.error('加载 index.json 失败:', error);
+                
+                dbStatus.innerText = '连接文件失败';
+                dbStatus.className = 'text-xs font-semibold text-rose-600';
+                dbDot.className = 'w-2.5 h-2.5 bg-rose-500 rounded-full';
+
+                container.innerHTML = `
+                    <div class="bg-white rounded-2xl border border-rose-100 p-12 text-center">
+                        <div class="w-16 h-16 bg-rose-50 text-rose-500 rounded-full flex items-center justify-center mx-auto text-2xl mb-3">
+                            <i class="fa-solid fa-triangle-exclamation"></i>
+                        </div>
+                        <h4 class="text-slate-800 font-bold">未能读取到 GitHub 上的全量索引文件</h4>
+                        <p class="text-slate-500 text-xs mt-1">请确保已在 GitHub 仓库根目录提交包含全量数据的 <code>data/index.json</code> 文件。</p>
+                    </div>
+                `;
             }
         }
 
-        // Apply Filters and Search Query
+        // Apply Global Search Query & Filters
         function applyFilters() {
             const query = document.getElementById('searchInput').value.trim().toLowerCase();
 
             filteredDiseasesData = rawDiseasesData.filter(item => {
-                // Search matching
-                const matchesSearch = !query || 
-                    (item.name_cn && item.name_cn.toLowerCase().includes(query)) ||
-                    (item.name_en && item.name_en.toLowerCase().includes(query)) ||
-                    (item.icd_11 && item.icd_11.toLowerCase().includes(query)) ||
-                    (item.orpha_code && item.orpha_code.toLowerCase().includes(query));
+                // 提取全字段进行模糊匹配
+                const nameCN = (item.name_cn || '').toLowerCase();
+                const nameEN = (item.name_en || '').toLowerCase();
+                const icd11 = (item.icd_11 || '').toLowerCase();
+                const orpha = (item.orpha_code || item.orpha || '').toLowerCase();
+                const id = (item.id || '').toLowerCase();
 
-                // Active pipeline filter matching
-                const matchesPipeline = (currentFilter === 'all') || (item.pipeline_count > 0);
+                const matchesSearch = !query || 
+                    nameCN.includes(query) ||
+                    nameEN.includes(query) ||
+                    icd11.includes(query) ||
+                    orpha.includes(query) ||
+                    id.includes(query);
+
+                // 管线条件匹配
+                const matchesPipeline = (currentFilter === 'all') || ((item.pipeline_count || 0) > 0);
 
                 return matchesSearch && matchesPipeline;
             });
@@ -406,7 +443,7 @@
             const totalPipelines = rawDiseasesData.reduce((acc, curr) => acc + (curr.pipeline_count || 0), 0);
             document.getElementById('statTotalPipelines').innerText = totalPipelines.toLocaleString();
 
-            const activeDiseases = rawDiseasesData.filter(d => d.pipeline_count > 0).length;
+            const activeDiseases = rawDiseasesData.filter(d => (d.pipeline_count || 0) > 0).length;
             document.getElementById('statActiveDiseases').innerText = activeDiseases.toLocaleString();
 
             document.getElementById('filterCountBadge').innerText = `${filteredDiseasesData.length.toLocaleString()} 结果`;
@@ -484,19 +521,22 @@
             let html = `<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">`;
 
             items.forEach(item => {
-                const pipelineBadge = item.pipeline_count > 0
+                const count = item.pipeline_count || 0;
+                const pipelineBadge = count > 0
                     ? `<span class="bg-emerald-50 text-emerald-700 border border-emerald-200 text-xs px-2.5 py-1 rounded-full font-semibold flex items-center space-x-1">
                         <i class="fa-solid fa-vial text-[10px]"></i>
-                        <span>${item.pipeline_count} 项在研</span>
+                        <span>${count} 项在研</span>
                        </span>`
                     : `<span class="bg-slate-100 text-slate-500 text-xs px-2.5 py-1 rounded-full font-medium">暂无管线</span>`;
+
+                const targetFile = item.file || `${item.id}.json`;
 
                 html += `
                     <div class="bg-white rounded-2xl border border-slate-200/80 p-5 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all flex flex-col justify-between group">
                         <div>
                             <div class="flex items-start justify-between gap-2 mb-2">
                                 <h3 class="font-bold text-slate-900 group-hover:text-indigo-600 transition-colors line-clamp-1">${item.name_cn || item.name_en}</h3>
-                                <span class="text-[10px] bg-slate-100 text-slate-600 px-2 py-0.5 rounded font-mono">${item.id}</span>
+                                <span class="text-[10px] bg-slate-100 text-slate-600 px-2 py-0.5 rounded font-mono">${item.id || ''}</span>
                             </div>
                             <p class="text-xs text-slate-400 italic mb-4 line-clamp-1">${item.name_en || ''}</p>
                             
@@ -507,14 +547,14 @@
                                 </div>
                                 <div class="flex justify-between">
                                     <span class="text-slate-400">ORPHA Code:</span>
-                                    <span class="font-medium text-indigo-600">${item.orpha_code || '--'}</span>
+                                    <span class="font-medium text-indigo-600">${item.orpha_code || item.orpha || '--'}</span>
                                 </div>
                             </div>
                         </div>
 
                         <div class="flex items-center justify-between pt-2 border-t border-slate-100">
                             ${pipelineBadge}
-                            <button onclick="openDetailModal('${item.file}', '${item.id}')" class="text-xs font-semibold text-indigo-600 hover:text-indigo-800 flex items-center space-x-1 py-1 px-2 rounded-lg hover:bg-indigo-50 transition-all">
+                            <button onclick="openDetailModal('${targetFile}', '${item.id || ''}')" class="text-xs font-semibold text-indigo-600 hover:text-indigo-800 flex items-center space-x-1 py-1 px-2 rounded-lg hover:bg-indigo-50 transition-all">
                                 <span>查看详情</span>
                                 <i class="fa-solid fa-arrow-right text-[10px]"></i>
                             </button>
@@ -547,19 +587,22 @@
             `;
 
             items.forEach((item, index) => {
-                const pipelineBadge = item.pipeline_count > 0
-                    ? `<span class="bg-emerald-100 text-emerald-700 px-2.5 py-0.5 rounded-full font-semibold">${item.pipeline_count} 项</span>`
+                const count = item.pipeline_count || 0;
+                const pipelineBadge = count > 0
+                    ? `<span class="bg-emerald-100 text-emerald-700 px-2.5 py-0.5 rounded-full font-semibold">${count} 项</span>`
                     : `<span class="text-slate-400">0</span>`;
+
+                const targetFile = item.file || `${item.id}.json`;
 
                 html += `
                     <tr class="hover:bg-slate-50/80 transition-colors">
                         <td class="py-3 px-4 text-center font-mono text-slate-400">${startIdx + index + 1}</td>
-                        <td class="py-3 px-4 font-bold text-slate-800">${item.name_cn}</td>
-                        <td class="py-3 px-4 text-slate-500 italic">${item.name_en}</td>
-                        <td class="py-3 px-4 font-mono text-slate-600">${item.icd_11 || '--'} / <span class="text-indigo-600">${item.orpha_code || '--'}</span></td>
+                        <td class="py-3 px-4 font-bold text-slate-800">${item.name_cn || item.name_en}</td>
+                        <td class="py-3 px-4 text-slate-500 italic">${item.name_en || ''}</td>
+                        <td class="py-3 px-4 font-mono text-slate-600">${item.icd_11 || '--'} / <span class="text-indigo-600">${item.orpha_code || item.orpha || '--'}</span></td>
                         <td class="py-3 px-4 text-center">${pipelineBadge}</td>
                         <td class="py-3 px-4 text-right">
-                            <button onclick="openDetailModal('${item.file}', '${item.id}')" class="text-indigo-600 hover:text-indigo-800 font-semibold text-xs px-2 py-1 rounded hover:bg-indigo-50 transition-all">
+                            <button onclick="openDetailModal('${targetFile}', '${item.id || ''}')" class="text-indigo-600 hover:text-indigo-800 font-semibold text-xs px-2 py-1 rounded hover:bg-indigo-50 transition-all">
                                 详情 <i class="fa-solid fa-angle-right"></i>
                             </button>
                         </td>
@@ -606,18 +649,19 @@
 
         // Render Dashboard Charts (Chart.js)
         function renderCharts() {
+            if (rawDiseasesData.length === 0) return;
+
             // 1. Render Subtype / Category Donut Chart
             const catCtx = document.getElementById('categoryChart').getContext('2d');
             
-            // Extract mock/real categorization count
             const categories = {};
             rawDiseasesData.forEach(d => {
-                let cat = '神经系统与肌肉病变';
-                if (d.name_cn.includes('肌') || d.name_cn.includes('营养不良')) cat = '神经肌肉系病变';
-                else if (d.name_cn.includes('代谢') || d.name_cn.includes('贮积') || d.name_cn.includes('病')) cat = '先天代谢异常';
-                else if (d.name_cn.includes('发育不良') || d.name_cn.includes('骨')) cat = '骨骼与结缔组织';
-                else if (d.name_cn.includes('免疫') || d.name_cn.includes('炎')) cat = '原发性免疫缺陷';
-                else cat = '其他罕见综合征';
+                const name = d.name_cn || d.name_en || '';
+                let cat = '其他罕见综合征';
+                if (name.includes('肌') || name.includes('萎缩') || name.includes('麻痹')) cat = '神经肌肉系统变性';
+                else if (name.includes('代谢') || name.includes('酸') || name.includes('病')) cat = '先天代谢异常';
+                else if (name.includes('发育不良') || name.includes('骨') || name.includes('综合征')) cat = '骨骼与结缔组织';
+                else if (name.includes('免疫') || name.includes('炎') || name.includes('缺陷')) cat = '原发性免疫缺陷';
 
                 categories[cat] = (categories[cat] || 0) + 1;
             });
@@ -649,7 +693,6 @@
             // 2. Render Top 10 Active Pipelines (Horizontal Bar Chart)
             const pipelineCtx = document.getElementById('topPipelineChart').getContext('2d');
 
-            // Sort diseases by pipeline count descending, take top 10
             const top10 = [...rawDiseasesData]
                 .sort((a, b) => (b.pipeline_count || 0) - (a.pipeline_count || 0))
                 .slice(0, 10);
@@ -670,28 +713,19 @@
                     }]
                 },
                 options: {
-                    indexAxis: 'y', // Horizontal Bar Chart
+                    indexAxis: 'y',
                     responsive: true,
                     maintainAspectRatio: false,
-                    plugins: {
-                        legend: { display: false }
-                    },
+                    plugins: { legend: { display: false } },
                     scales: {
-                        x: {
-                            beginAtZero: true,
-                            grid: { color: '#f1f5f9' },
-                            ticks: { precision: 0 }
-                        },
-                        y: {
-                            grid: { display: false },
-                            ticks: { font: { size: 11 } }
-                        }
+                        x: { beginAtZero: true, grid: { color: '#f1f5f9' }, ticks: { precision: 0 } },
+                        y: { grid: { display: false }, ticks: { font: { size: 11 } } }
                     }
                 }
             });
         }
 
-        // Open Detail Modal (Lazy loading individual JSON file data/diseases/{file})
+        // Open Detail Modal
         async function openDetailModal(filename, diseaseId) {
             const modal = document.getElementById('detailModal');
             modal.classList.remove('hidden');
@@ -708,12 +742,11 @@
                 document.getElementById('modalNameCN').innerText = data.name_cn || data.name_en;
                 document.getElementById('modalNameEN').innerText = data.name_en || '';
                 document.getElementById('modalICD').innerText = data.icd_11 || '暂无';
-                document.getElementById('modalOrpha').innerText = data.orpha_code || '暂无';
+                document.getElementById('modalOrpha').innerText = data.orpha_code || data.orpha || '暂无';
                 
-                // 自动生成概要说明
                 let overviewText = data.overview;
                 if (!overviewText || overviewText.trim() === '') {
-                    overviewText = `${data.name_cn || data.name_en} (${data.name_en || ''}) 是全球罕见病数据库收录的核心表型实体，ORPHA编码为 ${data.orpha_code || '暂无'}。`;
+                    overviewText = `${data.name_cn || data.name_en} (${data.name_en || ''}) 是全球罕见病数据库收录的核心实体，ORPHA编码为 ${data.orpha_code || data.orpha || '暂无'}。`;
                 }
                 document.getElementById('modalOverview').innerText = overviewText;
 
@@ -730,7 +763,6 @@
                 } else {
                     let pKeyHtml = '';
                     pipelines.forEach(p => {
-                        // 兼容多种 Key 的字段解构读取 (优先兼容包含 title, phase, sponsor, id 的实测数据)
                         const title = p.title || p.drug_or_therapy || '未命名研发项目';
                         const phase = p.phase || 'N/A';
                         const sponsor = p.sponsor || p.target_or_mechanism || p.type || '全球多中心';
@@ -761,7 +793,7 @@
                 }
 
             } catch (err) {
-                console.warn('Error loading detail JSON, using fallback data:', err);
+                console.warn('读取疾病 JSON 文件失败:', err);
                 document.getElementById('modalNameCN').innerText = '详细数据加载失败';
                 document.getElementById('modalOverview').innerText = '请确认 data/diseases/ 目录下是否存在对应的 JSON 文件。';
             }
@@ -772,35 +804,10 @@
             document.getElementById('detailModal').classList.add('hidden');
         }
 
-        // 点击背景遮罩层关闭弹窗
         function handleModalBackdropClick(event) {
             if (event.target.id === 'detailModal') {
                 closeModal();
             }
-        }
-
-        // Fallback Mock Generator if Index.json is Not Yet Present
-        function generateFallbackData() {
-            const list = [
-                { id: "OR-00001", name_cn: "杜氏肌营养不良症", name_en: "Duchenne muscular dystrophy", icd_11: "8B60.0", orpha_code: "ORPHA98896", pipeline_count: 5, file: "OR-00001.json" },
-                { id: "OR-00002", name_cn: "亨廷顿舞蹈病", name_en: "Huntington disease", icd_11: "8A01.0", orpha_code: "ORPHA399", pipeline_count: 3, file: "OR-00002.json" },
-                { id: "OR-00003", name_cn: "法布雷病", name_en: "Fabry disease", icd_11: "5C56.1", orpha_code: "ORPHA324", pipeline_count: 4, file: "OR-00003.json" },
-                { id: "OR-00004", name_cn: "脊髓性肌萎缩症", name_en: "Spinal muscular atrophy", icd_11: "8B61.0", orpha_code: "ORPHA839", pipeline_count: 6, file: "OR-00004.json" },
-                { id: "OR-00005", name_cn: "肌萎缩侧索硬化症", name_en: "Amyotrophic lateral sclerosis", icd_11: "8B60.2", orpha_code: "ORPHA47", pipeline_count: 8, file: "OR-00005.json" }
-            ];
-
-            for (let i = 6; i <= 100; i++) {
-                list.push({
-                    id: `OR-${String(i).padStart(5, '0')}`,
-                    name_cn: `罕见神经/肌病亚型 ${i}型`,
-                    name_en: `Rare Neuromuscular Subtype Type-${i}`,
-                    icd_11: `LD20.${i % 10}`,
-                    orpha_code: `ORPHA${10000 + i}`,
-                    pipeline_count: i % 3 === 0 ? Math.floor(Math.random() * 4) + 1 : 0,
-                    file: `OR-${String(i).padStart(5, '0')}.json`
-                });
-            }
-            return list;
         }
     </script>
 </body>
